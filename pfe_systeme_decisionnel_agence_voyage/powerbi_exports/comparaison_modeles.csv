@@ -1,0 +1,8 @@
+Modele_nom,Precision@7,Recall@7,MAP@7,NDCG@7,HitRate@7,RMSE
+Content-Based,0.1033,0.3095,0.1563,0.2343,0.5852,2.5923
+Collaborative Filtering (MF),0.0355,0.0984,0.0478,0.077,0.2244,0.3544
+Supervisé (LightGBM),0.1786,0.5326,0.3299,0.4427,0.8196,1.8683
+Supervisé (XGBoost),0.1695,0.5125,0.2983,0.41,0.8116,1.921
+Supervisé (CatBoost),0.1755,0.5319,0.3202,0.433,0.8257,1.9064
+Supervisé (Ensemble GBM moyenné),0.1715,0.5132,0.3153,0.4253,0.8096,1.8929
+Hybride,0.195,0.5812,0.3453,0.4607,0.8497,2.109

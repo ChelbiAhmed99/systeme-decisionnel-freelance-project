@@ -1,0 +1,46 @@
+destination_id,nom_destination,pays_continent,type_voyage,popularite_score,activites_disponibles,saison_ideale,note_moyenne_destination,budget_moyen_tnd,nb_reservations,revenu_genere,satisfaction_moyenne
+DST0029,Santorini,Europe,Croisière,38.9,Plage détente;Gastronomie;Photographie,Été,4.68,2790.0,260,1024523.0,4.4397310988465915
+DST0044,New York,Amérique,Urbain,36.8,Shopping;Musées;Vie nocturne,Automne,4.29,3650.0,254,1693960.845,4.126224158194698
+DST0014,Nisa,Europe,Plage,25.5,Shopping;Spa & bien-être;Plage détente;Plongée,Été,4.76,2473.0,253,1152027.07,4.6392568720566985
+DST0023,Marrakech,Afrique,Aventure,33.4,Randonnée;Safari;Shopping,Printemps,4.38,1450.0,250,714488.0,4.108985292287368
+DST0013,Paris,Europe,Urbain,34.6,Plage détente;Spa & bien-être;Photographie,Été,4.16,3102.0,247,1171127.03,4.122548843615029
+DST0045,Dubai,Asie,Urbain,34.1,Shopping;Vie nocturne;Spa & bien-être,Hiver,4.42,3180.0,246,1603746.55,4.297739204740356
+DST0038,Cancun,Amérique,Plage,31.7,Plage détente;Sports nautiques;Vie nocturne,Hiver,4.27,2980.0,239,1705405.475,4.1575442631512916
+DST0005,Barcelona,Europe,Plage,24.4,Safari;Spa & bien-être;Vie nocturne;Gastronomie,Été,4.0,1683.0,238,633621.805,3.990960958000863
+DST0017,Marseille,Europe,Plage,18.9,Sports nautiques;Shopping,Printemps,4.7,1892.0,238,734773.29,4.615473538969522
+DST0008,Antalya,Asie,Plage,31.4,Plongée;Ski;Sports nautiques,Printemps,4.16,1360.0,237,380054.045,4.163678356588431
+DST0043,Kyoto,Asie,Culturel,30.4,Musées;Photographie;Gastronomie,Printemps,4.74,2870.0,221,1217532.255,4.530183766206813
+DST0028,Miami,Amérique,Croisière,30.2,Plage détente;Sports nautiques;Vie nocturne,Hiver,4.19,3340.0,220,1689705.375,3.95838363730102
+DST0015,Sydney,Océanie,Plage,16.6,Plage détente;Sports nautiques;Musées,Été,4.24,2053.0,220,605882.12,4.227231082506131
+DST0002,Venice,Europe,Culturel,65.0,Gastronomie;Spa & bien-être;Plongée;Sports nautiques,Automne,4.16,1938.0,219,597820.195,4.190106165135152
+DST0033,Ubud,Asie,Rural/Nature,29.6,Randonnée;Spa & bien-être;Photographie,Automne,4.57,1620.0,218,992093.255,4.365391220049418
+DST0018,Chamonix,Europe,Montagne,28.5,Randonnée;Ski;Photographie,Hiver,4.55,2650.0,210,1263069.02,4.310163891963098
+DST0012,Amsterdam,Europe,Urbain,30.0,Spa & bien-être;Plage détente;Randonnée;Shopping,Printemps,3.93,1832.0,209,640715.79,3.983611088422551
+DST0004,Athens,Europe,Culturel,31.7,Spa & bien-être;Plongée;Vie nocturne;Randonnée,Hiver,3.89,1360.0,206,280619.71,3.8779220192629347
+DST0009,Istanbul,Asie,Culturel,28.1,Vie nocturne;Gastronomie;Musées,Automne,4.43,1476.0,198,387659.375,4.385963831866688
+DST0034,Toscane,Europe,Rural/Nature,26.3,Gastronomie;Randonnée;Photographie,Automne,4.66,2340.0,198,758731.0,4.450077970486455
+DST0032,Singapour,Asie,Croisière,27.8,Shopping;Gastronomie;Vie nocturne,Été,4.41,3210.0,198,1348489.18,4.178803408541451
+DST0020,Interlaken,Europe,Montagne,26.7,Randonnée;Photographie;Ski,Été,4.62,2890.0,194,847967.0,4.369373085759556
+DST0006,Porto,Europe,Culturel,22.3,Plage détente;Sports nautiques,Été,3.82,2277.0,191,646314.765,3.807685161889346
+DST0001,Rome,Europe,Culturel,19.8,Plage détente;Plongée;Spa & bien-être,Printemps,4.58,1707.0,190,381070.7,4.551994040696765
+DST0042,Le Caire,Afrique,Culturel,25.9,Musées;Photographie;Shopping,Hiver,4.31,1420.0,187,504673.0,4.183328868678833
+DST0030,Dubrovnik,Europe,Croisière,24.4,Plage détente;Vie nocturne;Photographie,Été,4.36,2410.0,186,578979.0,4.0952147781495345
+DST0003,Milano,Europe,Urbain,35.1,Ski;Plongée;Safari;Photographie,Été,4.35,1568.0,186,423955.96,4.29733089048024
+DST0019,Innsbruck,Europe,Montagne,24.1,Ski;Randonnée;Gastronomie,Hiver,4.3,2180.0,179,771652.0,4.072776073681348
+DST0010,Moscow,Asie,Urbain,18.1,Plongée;Musées,Été,4.23,1955.0,175,464588.47,4.215657369857333
+DST0016,Bucharest,Europe,Urbain,19.7,Vie nocturne;Plongée,Automne,4.67,2001.0,174,439874.53,4.582691132381395
+DST0035,Provence,Europe,Rural/Nature,23.9,Gastronomie;Shopping;Photographie,Printemps,4.44,2190.0,172,774456.255,4.210833158828383
+DST0011,Sankt Petersburg,Asie,Culturel,18.1,Vie nocturne;Plage détente;Gastronomie;Musées,Été,4.76,1751.0,166,495559.84500000003,4.645745378189432
+DST0021,Banff,Amérique,Montagne,22.3,Randonnée;Ski;Photographie,Hiver,4.48,3450.0,164,1169120.315,4.279415641537581
+DST0039,Zanzibar,Afrique,Plage,22.8,Plage détente;Plongée;Sports nautiques,Été,4.53,1980.0,162,532497.0,4.513033988599522
+DST0024,Serengeti,Afrique,Aventure,21.6,Safari;Photographie;Randonnée,Été,4.71,4200.0,160,922774.275,4.462076337157319
+DST0041,Malaga,Europe,Plage,21.2,Plage détente;Gastronomie;Vie nocturne,Été,4.2,1740.0,158,793539.0,4.103163519204632
+DST0022,Queenstown,Océanie,Montagne,19.8,Randonnée;Ski;Sports nautiques,Hiver,4.41,3120.0,149,1256889.81,4.165869569004615
+DST0007,Berlin,Europe,Urbain,22.3,Gastronomie;Musées;Photographie,Hiver,4.19,1270.0,148,287874.69,4.167235272700109
+DST0031,Fidji,Océanie,Croisière,20.1,Plage détente;Sports nautiques;Spa & bien-être,Été,4.6,3990.0,144,1428352.58,4.400035440748861
+DST0026,Sapa,Asie,Aventure,18.7,Randonnée;Photographie;Gastronomie,Automne,4.44,1180.0,136,477766.0,4.190900536904233
+DST0027,Moshi,Afrique,Aventure,16.9,Randonnée;Safari,Automne,4.52,2760.0,132,578473.0,4.336369934300949
+DST0040,Nha Trang,Asie,Plage,16.4,Plage détente;Sports nautiques;Shopping,Été,4.12,1240.0,121,424356.0,4.029221047413454
+DST0036,Kerala,Asie,Rural/Nature,17.5,Randonnée;Spa & bien-être;Gastronomie,Hiver,4.39,1340.0,119,428479.0,4.185922868234502
+DST0025,Ushuaia,Amérique,Aventure,15.2,Randonnée;Photographie;Sports nautiques,Été,4.33,3980.0,113,850319.59,4.144892144170144
+DST0037,Monteverde,Amérique,Rural/Nature,14.8,Randonnée;Safari;Photographie,Printemps,4.35,2680.0,112,756751.8250000001,4.157659992427997

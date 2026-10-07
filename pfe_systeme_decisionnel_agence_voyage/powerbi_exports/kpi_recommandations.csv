@@ -1,0 +1,1001 @@
+client_id,destination_id,nom_destination,type_voyage,score_pertinence_/5,explication
+CLI00305,DST0004,Athens,Culturel,2.14,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Randonnée, Vie nocturne)"
+CLI00305,DST0011,Sankt Petersburg,Culturel,1.71,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Vie nocturne) ; affiche une excellente satisfaction client (4.6/5)
+CLI00305,DST0012,Amsterdam,Urbain,1.62,propose des activités que vous aimez (Randonnée)
+CLI00305,DST0016,Bucharest,Urbain,1.55,propose des activités que vous aimez (Vie nocturne) ; affiche une excellente satisfaction client (4.6/5)
+CLI00305,DST0013,Paris,Urbain,1.48,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00341,DST0014,Nisa,Plage,2.02,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00341,DST0004,Athens,Culturel,1.89,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00341,DST0009,Istanbul,Culturel,1.72,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00341,DST0012,Amsterdam,Urbain,1.64,s'inscrit dans votre budget habituel
+CLI00341,DST0010,Moscow,Urbain,1.62,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00048,DST0037,Monteverde,Rural/Nature,2.3,correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00048,DST0002,Venice,Culturel,1.87,s'inscrit dans votre budget habituel
+CLI00048,DST0008,Antalya,Plage,1.77,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00048,DST0012,Amsterdam,Urbain,1.77,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00048,DST0004,Athens,Culturel,1.75,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00068,DST0013,Paris,Urbain,2.4,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00068,DST0003,Milano,Urbain,2.25,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00068,DST0007,Berlin,Urbain,2.04,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00068,DST0002,Venice,Culturel,1.68,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00068,DST0016,Bucharest,Urbain,1.65,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00480,DST0008,Antalya,Plage,2.46,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Ski, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00480,DST0017,Marseille,Plage,2.05,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00480,DST0014,Nisa,Plage,1.99,correspond à votre type de voyage préféré (Plage) ; affiche une excellente satisfaction client (4.6/5)
+CLI00480,DST0040,Nha Trang,Plage,1.97,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00480,DST0041,Malaga,Plage,1.92,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00486,DST0002,Venice,Culturel,2.3,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00486,DST0003,Milano,Urbain,1.8,"propose des activités que vous aimez (Ski, Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00486,DST0017,Marseille,Plage,1.78,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00486,DST0011,Sankt Petersburg,Culturel,1.73,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00486,DST0010,Moscow,Urbain,1.4,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00311,DST0009,Istanbul,Culturel,1.77,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00311,DST0017,Marseille,Plage,1.51,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00311,DST0013,Paris,Urbain,1.49,propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00311,DST0001,Rome,Culturel,1.46,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00311,DST0006,Porto,Culturel,1.45,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00032,DST0036,Kerala,Rural/Nature,2.19,"correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00032,DST0002,Venice,Culturel,2.14,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00032,DST0012,Amsterdam,Urbain,1.93,"propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00032,DST0004,Athens,Culturel,1.91,"propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00032,DST0005,Barcelona,Plage,1.6,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00250,DST0002,Venice,Culturel,2.55,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie, Spa & bien-être) ; s'inscrit dans votre budget habituel"
+CLI00250,DST0001,Rome,Culturel,1.92,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00250,DST0005,Barcelona,Plage,1.9,"propose des activités que vous aimez (Gastronomie, Spa & bien-être) ; s'inscrit dans votre budget habituel"
+CLI00250,DST0012,Amsterdam,Urbain,1.76,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00250,DST0008,Antalya,Plage,1.53,s'inscrit dans votre budget habituel
+CLI00091,DST0002,Venice,Culturel,2.19,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00091,DST0008,Antalya,Plage,1.96,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00091,DST0004,Athens,Culturel,1.92,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00091,DST0016,Bucharest,Urbain,1.69,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00091,DST0036,Kerala,Rural/Nature,1.69,correspond à votre type de voyage préféré (Rural/Nature) ; s'inscrit dans votre budget habituel
+CLI00323,DST0003,Milano,Urbain,2.45,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00323,DST0016,Bucharest,Urbain,2.07,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00323,DST0017,Marseille,Plage,1.9,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00323,DST0007,Berlin,Urbain,1.81,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel
+CLI00323,DST0005,Barcelona,Plage,1.6,s'inscrit dans votre budget habituel
+CLI00169,DST0020,Interlaken,Montagne,2.53,correspond à votre type de voyage préféré (Montagne) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00169,DST0021,Banff,Montagne,2.4,correspond à votre type de voyage préféré (Montagne) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00169,DST0002,Venice,Culturel,2.15,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00169,DST0007,Berlin,Urbain,1.93,"propose des activités que vous aimez (Gastronomie, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00169,DST0043,Kyoto,Culturel,1.78,"propose des activités que vous aimez (Gastronomie, Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)"
+CLI00120,DST0013,Paris,Urbain,2.59,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00120,DST0003,Milano,Urbain,2.45,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Ski, Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00120,DST0007,Berlin,Urbain,1.96,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00120,DST0016,Bucharest,Urbain,1.62,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00120,DST0010,Moscow,Urbain,1.59,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00067,DST0017,Marseille,Plage,2.14,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00067,DST0002,Venice,Culturel,2.0,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00067,DST0008,Antalya,Plage,1.92,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00067,DST0039,Zanzibar,Plage,1.87,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00067,DST0012,Amsterdam,Urbain,1.82,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; s'inscrit dans votre budget habituel"
+CLI00306,DST0017,Marseille,Plage,2.27,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00306,DST0039,Zanzibar,Plage,1.94,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00306,DST0002,Venice,Culturel,1.9,s'inscrit dans votre budget habituel
+CLI00306,DST0008,Antalya,Plage,1.87,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00306,DST0012,Amsterdam,Urbain,1.85,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00190,DST0002,Venice,Culturel,2.17,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00190,DST0013,Paris,Urbain,2.02,propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00190,DST0009,Istanbul,Culturel,1.92,"propose des activités que vous aimez (Gastronomie, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00190,DST0007,Berlin,Urbain,1.72,"propose des activités que vous aimez (Gastronomie, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00190,DST0011,Sankt Petersburg,Culturel,1.72,"propose des activités que vous aimez (Gastronomie, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00435,DST0003,Milano,Urbain,2.56,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Safari, Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00435,DST0013,Paris,Urbain,2.54,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00435,DST0007,Berlin,Urbain,1.86,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00435,DST0012,Amsterdam,Urbain,1.73,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00435,DST0017,Marseille,Plage,1.62,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00290,DST0017,Marseille,Plage,2.03,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00290,DST0013,Paris,Urbain,1.9,s'inscrit dans votre budget habituel
+CLI00290,DST0005,Barcelona,Plage,1.78,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00290,DST0016,Bucharest,Urbain,1.72,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00290,DST0015,Sydney,Plage,1.47,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00143,DST0003,Milano,Urbain,2.55,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Ski, Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00143,DST0013,Paris,Urbain,2.19,correspond à votre type de voyage préféré (Urbain)
+CLI00143,DST0007,Berlin,Urbain,1.85,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel
+CLI00143,DST0016,Bucharest,Urbain,1.64,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00143,DST0008,Antalya,Plage,1.45,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00147,DST0038,Cancun,Plage,2.79,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente, Sports nautiques)"
+CLI00147,DST0041,Malaga,Plage,2.11,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00147,DST0002,Venice,Culturel,2.05,"propose des activités que vous aimez (Spa & bien-être, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00147,DST0015,Sydney,Plage,2.0,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente, Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00147,DST0013,Paris,Urbain,1.94,"propose des activités que vous aimez (Spa & bien-être, Plage détente)"
+CLI00294,DST0014,Nisa,Plage,2.46,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00294,DST0041,Malaga,Plage,2.25,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00294,DST0008,Antalya,Plage,2.23,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00294,DST0016,Bucharest,Urbain,1.91,"propose des activités que vous aimez (Plongée, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00294,DST0004,Athens,Culturel,1.8,"propose des activités que vous aimez (Plongée, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00313,DST0007,Berlin,Urbain,2.19,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00313,DST0002,Venice,Culturel,2.09,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00313,DST0008,Antalya,Plage,1.75,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00313,DST0016,Bucharest,Urbain,1.7,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00313,DST0004,Athens,Culturel,1.52,s'inscrit dans votre budget habituel
+CLI00312,DST0033,Ubud,Rural/Nature,2.21,correspond à votre type de voyage préféré (Rural/Nature) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00312,DST0002,Venice,Culturel,1.7,s'inscrit dans votre budget habituel
+CLI00312,DST0016,Bucharest,Urbain,1.66,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00312,DST0011,Sankt Petersburg,Culturel,1.53,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00312,DST0004,Athens,Culturel,1.53,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00493,DST0043,Kyoto,Culturel,2.78,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00493,DST0002,Venice,Culturel,2.07,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00493,DST0013,Paris,Urbain,1.74,propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00493,DST0004,Athens,Culturel,1.71,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00493,DST0012,Amsterdam,Urbain,1.64,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00066,DST0002,Venice,Culturel,2.21,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00066,DST0015,Sydney,Plage,1.75,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00066,DST0006,Porto,Culturel,1.67,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00066,DST0004,Athens,Culturel,1.56,s'inscrit dans votre budget habituel
+CLI00066,DST0009,Istanbul,Culturel,1.53,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00375,DST0002,Venice,Culturel,2.05,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00375,DST0013,Paris,Urbain,2.02,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00375,DST0012,Amsterdam,Urbain,1.72,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00375,DST0004,Athens,Culturel,1.66,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00375,DST0036,Kerala,Rural/Nature,1.64,correspond à votre type de voyage préféré (Rural/Nature) ; s'inscrit dans votre budget habituel
+CLI00035,DST0034,Toscane,Rural/Nature,2.76,"correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Randonnée, Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)"
+CLI00035,DST0036,Kerala,Rural/Nature,1.8,correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00035,DST0018,Chamonix,Montagne,1.46,"propose des activités que vous aimez (Randonnée, Ski) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00035,DST0020,Interlaken,Montagne,1.44,"propose des activités que vous aimez (Randonnée, Ski) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00035,DST0003,Milano,Urbain,1.43,"propose des activités que vous aimez (Ski, Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00343,DST0008,Antalya,Plage,2.41,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00343,DST0014,Nisa,Plage,2.27,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00343,DST0002,Venice,Culturel,2.21,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00343,DST0013,Paris,Urbain,2.19,propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00343,DST0016,Bucharest,Urbain,1.68,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00174,DST0014,Nisa,Plage,2.51,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente, Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00174,DST0008,Antalya,Plage,2.42,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00174,DST0015,Sydney,Plage,2.26,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente, Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00174,DST0002,Venice,Culturel,2.12,"propose des activités que vous aimez (Plongée, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00174,DST0013,Paris,Urbain,1.72,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00202,DST0016,Bucharest,Urbain,1.99,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Vie nocturne) ; affiche une excellente satisfaction client (4.6/5)
+CLI00202,DST0002,Venice,Culturel,1.87,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00202,DST0014,Nisa,Plage,1.74,propose des activités que vous aimez (Plage détente) ; affiche une excellente satisfaction client (4.6/5)
+CLI00202,DST0011,Sankt Petersburg,Culturel,1.63,"propose des activités que vous aimez (Plage détente, Vie nocturne) ; affiche une excellente satisfaction client (4.6/5)"
+CLI00202,DST0005,Barcelona,Plage,1.62,propose des activités que vous aimez (Vie nocturne)
+CLI00180,DST0013,Paris,Urbain,2.88,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00180,DST0012,Amsterdam,Urbain,2.11,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00180,DST0003,Milano,Urbain,2.0,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00180,DST0002,Venice,Culturel,1.95,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00180,DST0016,Bucharest,Urbain,1.64,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00307,DST0039,Zanzibar,Plage,2.22,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00307,DST0014,Nisa,Plage,2.2,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00307,DST0008,Antalya,Plage,2.15,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00307,DST0002,Venice,Culturel,2.13,"propose des activités que vous aimez (Gastronomie, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00307,DST0015,Sydney,Plage,1.7,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00234,DST0009,Istanbul,Culturel,2.31,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00234,DST0002,Venice,Culturel,1.92,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00234,DST0013,Paris,Urbain,1.79,s'inscrit dans votre budget habituel
+CLI00234,DST0011,Sankt Petersburg,Culturel,1.74,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00234,DST0014,Nisa,Plage,1.66,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00443,DST0013,Paris,Urbain,2.42,"propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00443,DST0014,Nisa,Plage,2.28,"propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00443,DST0002,Venice,Culturel,2.18,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00443,DST0012,Amsterdam,Urbain,2.03,"propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00443,DST0008,Antalya,Plage,1.86,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00346,DST0009,Istanbul,Culturel,2.02,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00346,DST0011,Sankt Petersburg,Culturel,1.74,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00346,DST0005,Barcelona,Plage,1.64,propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00346,DST0015,Sydney,Plage,1.55,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00346,DST0003,Milano,Urbain,1.52,"propose des activités que vous aimez (Safari, Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00129,DST0007,Berlin,Urbain,2.52,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00129,DST0010,Moscow,Urbain,1.99,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00129,DST0009,Istanbul,Culturel,1.88,"propose des activités que vous aimez (Gastronomie, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00129,DST0005,Barcelona,Plage,1.74,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00129,DST0014,Nisa,Plage,1.69,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00278,DST0002,Venice,Culturel,2.17,"propose des activités que vous aimez (Spa & bien-être, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00278,DST0014,Nisa,Plage,1.96,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00278,DST0013,Paris,Urbain,1.89,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00278,DST0005,Barcelona,Plage,1.75,"propose des activités que vous aimez (Spa & bien-être, Safari) ; s'inscrit dans votre budget habituel"
+CLI00278,DST0017,Marseille,Plage,1.73,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00005,DST0014,Nisa,Plage,2.8,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00005,DST0013,Paris,Urbain,2.33,"propose des activités que vous aimez (Spa & bien-être, Plage détente)"
+CLI00005,DST0041,Malaga,Plage,2.19,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00005,DST0012,Amsterdam,Urbain,2.0,"propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00005,DST0015,Sydney,Plage,1.93,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00402,DST0002,Venice,Culturel,2.47,"propose des activités que vous aimez (Gastronomie, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00402,DST0009,Istanbul,Culturel,1.98,"propose des activités que vous aimez (Gastronomie, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00402,DST0010,Moscow,Urbain,1.89,"propose des activités que vous aimez (Plongée, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00402,DST0011,Sankt Petersburg,Culturel,1.78,"propose des activités que vous aimez (Gastronomie, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00402,DST0012,Amsterdam,Urbain,1.75,s'inscrit dans votre budget habituel
+CLI00362,DST0043,Kyoto,Culturel,2.81,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00362,DST0009,Istanbul,Culturel,2.58,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00362,DST0002,Venice,Culturel,2.22,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00362,DST0004,Athens,Culturel,2.07,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Randonnée, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00362,DST0042,Le Caire,Culturel,1.89,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00327,DST0013,Paris,Urbain,2.31,correspond à votre type de voyage préféré (Urbain)
+CLI00327,DST0016,Bucharest,Urbain,2.23,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00327,DST0003,Milano,Urbain,2.14,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00327,DST0014,Nisa,Plage,1.96,propose des activités que vous aimez (Shopping) ; affiche une excellente satisfaction client (4.6/5)
+CLI00327,DST0010,Moscow,Urbain,1.65,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00431,DST0011,Sankt Petersburg,Culturel,1.92,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Musées, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00431,DST0004,Athens,Culturel,1.83,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00431,DST0005,Barcelona,Plage,1.76,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00431,DST0014,Nisa,Plage,1.73,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00431,DST0012,Amsterdam,Urbain,1.69,s'inscrit dans votre budget habituel
+CLI00468,DST0004,Athens,Culturel,2.33,"propose des activités que vous aimez (Randonnée, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00468,DST0002,Venice,Culturel,1.99,s'inscrit dans votre budget habituel
+CLI00468,DST0016,Bucharest,Urbain,1.81,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00468,DST0009,Istanbul,Culturel,1.79,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00468,DST0014,Nisa,Plage,1.7,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00214,DST0041,Malaga,Plage,2.34,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00214,DST0002,Venice,Culturel,2.12,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00214,DST0008,Antalya,Plage,1.96,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00214,DST0013,Paris,Urbain,1.83,s'inscrit dans votre budget habituel
+CLI00214,DST0011,Sankt Petersburg,Culturel,1.61,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00331,DST0014,Nisa,Plage,2.07,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00331,DST0004,Athens,Culturel,2.06,"propose des activités que vous aimez (Plongée, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00331,DST0008,Antalya,Plage,1.94,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00331,DST0012,Amsterdam,Urbain,1.88,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00331,DST0016,Bucharest,Urbain,1.7,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00330,DST0002,Venice,Culturel,2.05,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00330,DST0004,Athens,Culturel,1.89,"propose des activités que vous aimez (Randonnée, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00330,DST0017,Marseille,Plage,1.72,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00330,DST0008,Antalya,Plage,1.72,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00330,DST0005,Barcelona,Plage,1.6,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00296,DST0009,Istanbul,Culturel,2.36,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00296,DST0002,Venice,Culturel,2.35,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00296,DST0042,Le Caire,Culturel,2.25,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00296,DST0001,Rome,Culturel,1.59,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00296,DST0005,Barcelona,Plage,1.57,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00417,DST0038,Cancun,Plage,2.41,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00417,DST0008,Antalya,Plage,2.15,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00417,DST0002,Venice,Culturel,1.88,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00417,DST0005,Barcelona,Plage,1.83,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00417,DST0015,Sydney,Plage,1.7,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00407,DST0002,Venice,Culturel,2.03,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00407,DST0009,Istanbul,Culturel,1.98,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00407,DST0001,Rome,Culturel,1.89,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00407,DST0006,Porto,Culturel,1.83,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00407,DST0017,Marseille,Plage,1.71,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00103,DST0037,Monteverde,Rural/Nature,2.28,correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00103,DST0013,Paris,Urbain,1.77,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00103,DST0012,Amsterdam,Urbain,1.71,"propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00103,DST0014,Nisa,Plage,1.69,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00103,DST0004,Athens,Culturel,1.64,"propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00165,DST0013,Paris,Urbain,2.22,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel
+CLI00165,DST0003,Milano,Urbain,2.21,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00165,DST0002,Venice,Culturel,1.68,s'inscrit dans votre budget habituel
+CLI00165,DST0007,Berlin,Urbain,1.66,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel
+CLI00165,DST0012,Amsterdam,Urbain,1.63,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00215,DST0002,Venice,Culturel,2.12,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00215,DST0014,Nisa,Plage,1.94,propose des activités que vous aimez (Plongée) ; affiche une excellente satisfaction client (4.6/5)
+CLI00215,DST0005,Barcelona,Plage,1.69,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00215,DST0009,Istanbul,Culturel,1.69,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00215,DST0010,Moscow,Urbain,1.6,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00006,DST0012,Amsterdam,Urbain,2.36,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; s'inscrit dans votre budget habituel"
+CLI00006,DST0017,Marseille,Plage,1.9,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00006,DST0005,Barcelona,Plage,1.83,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00006,DST0008,Antalya,Plage,1.79,s'inscrit dans votre budget habituel
+CLI00006,DST0015,Sydney,Plage,1.73,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00420,DST0013,Paris,Urbain,1.94,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00420,DST0011,Sankt Petersburg,Culturel,1.77,"propose des activités que vous aimez (Plage détente, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00420,DST0002,Venice,Culturel,1.75,s'inscrit dans votre budget habituel
+CLI00420,DST0015,Sydney,Plage,1.74,"propose des activités que vous aimez (Plage détente, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00420,DST0009,Istanbul,Culturel,1.66,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00450,DST0013,Paris,Urbain,2.53,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00450,DST0012,Amsterdam,Urbain,2.04,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00450,DST0014,Nisa,Plage,1.82,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00450,DST0007,Berlin,Urbain,1.72,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel
+CLI00450,DST0009,Istanbul,Culturel,1.59,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00063,DST0014,Nisa,Plage,2.52,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00063,DST0015,Sydney,Plage,2.46,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00063,DST0013,Paris,Urbain,1.8,propose des activités que vous aimez (Plage détente)
+CLI00063,DST0002,Venice,Culturel,1.7,s'inscrit dans votre budget habituel
+CLI00063,DST0005,Barcelona,Plage,1.61,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00335,DST0002,Venice,Culturel,1.89,s'inscrit dans votre budget habituel
+CLI00335,DST0008,Antalya,Plage,1.83,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00335,DST0006,Porto,Culturel,1.7,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00335,DST0011,Sankt Petersburg,Culturel,1.64,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00335,DST0015,Sydney,Plage,1.58,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00301,DST0038,Cancun,Plage,2.21,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00301,DST0008,Antalya,Plage,2.08,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00301,DST0041,Malaga,Plage,1.79,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00301,DST0017,Marseille,Plage,1.58,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00301,DST0015,Sydney,Plage,1.51,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00018,DST0014,Nisa,Plage,2.18,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00018,DST0008,Antalya,Plage,1.9,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00018,DST0005,Barcelona,Plage,1.84,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00018,DST0009,Istanbul,Culturel,1.73,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00018,DST0007,Berlin,Urbain,1.59,"propose des activités que vous aimez (Gastronomie, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00351,DST0038,Cancun,Plage,2.57,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00351,DST0014,Nisa,Plage,2.42,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00351,DST0008,Antalya,Plage,2.27,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00351,DST0039,Zanzibar,Plage,1.97,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00351,DST0041,Malaga,Plage,1.96,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00348,DST0030,Dubrovnik,Croisière,1.94,correspond à votre type de voyage préféré (Croisière) ; s'inscrit dans votre budget habituel
+CLI00348,DST0014,Nisa,Plage,1.86,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00348,DST0002,Venice,Culturel,1.77,s'inscrit dans votre budget habituel
+CLI00348,DST0008,Antalya,Plage,1.75,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00348,DST0004,Athens,Culturel,1.71,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00086,DST0043,Kyoto,Culturel,2.42,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00086,DST0009,Istanbul,Culturel,2.19,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00086,DST0011,Sankt Petersburg,Culturel,1.93,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00086,DST0014,Nisa,Plage,1.54,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00086,DST0013,Paris,Urbain,1.52,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00258,DST0004,Athens,Culturel,2.05,"propose des activités que vous aimez (Spa & bien-être, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00258,DST0010,Moscow,Urbain,1.87,"propose des activités que vous aimez (Plongée, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00258,DST0012,Amsterdam,Urbain,1.8,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00258,DST0009,Istanbul,Culturel,1.74,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00258,DST0005,Barcelona,Plage,1.71,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00366,DST0008,Antalya,Plage,2.18,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00366,DST0014,Nisa,Plage,1.97,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00366,DST0005,Barcelona,Plage,1.83,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00366,DST0011,Sankt Petersburg,Culturel,1.76,"propose des activités que vous aimez (Musées, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00366,DST0009,Istanbul,Culturel,1.65,"propose des activités que vous aimez (Vie nocturne, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00386,DST0002,Venice,Culturel,1.55,s'inscrit dans votre budget habituel
+CLI00386,DST0014,Nisa,Plage,1.43,affiche une excellente satisfaction client (4.6/5)
+CLI00386,DST0003,Milano,Urbain,1.42,propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00386,DST0007,Berlin,Urbain,1.42,"propose des activités que vous aimez (Photographie, Musées) ; s'inscrit dans votre budget habituel"
+CLI00386,DST0004,Athens,Culturel,1.41,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00316,DST0002,Venice,Culturel,2.19,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00316,DST0005,Barcelona,Plage,2.02,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00316,DST0004,Athens,Culturel,1.85,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00316,DST0011,Sankt Petersburg,Culturel,1.58,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00316,DST0034,Toscane,Rural/Nature,1.46,"propose des activités que vous aimez (Gastronomie, Randonnée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)"
+CLI00390,DST0015,Sydney,Plage,1.97,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00390,DST0039,Zanzibar,Plage,1.89,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00390,DST0008,Antalya,Plage,1.8,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00390,DST0005,Barcelona,Plage,1.75,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00390,DST0017,Marseille,Plage,1.73,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00340,DST0008,Antalya,Plage,2.05,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00340,DST0017,Marseille,Plage,1.75,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00340,DST0005,Barcelona,Plage,1.69,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00340,DST0015,Sydney,Plage,1.68,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00340,DST0002,Venice,Culturel,1.68,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00285,DST0013,Paris,Urbain,2.01,propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00285,DST0011,Sankt Petersburg,Culturel,1.67,"propose des activités que vous aimez (Vie nocturne, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00285,DST0004,Athens,Culturel,1.64,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00285,DST0009,Istanbul,Culturel,1.62,"propose des activités que vous aimez (Vie nocturne, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00285,DST0005,Barcelona,Plage,1.59,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00163,DST0002,Venice,Culturel,2.09,propose des activités que vous aimez (Gastronomie)
+CLI00163,DST0013,Paris,Urbain,1.83,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00163,DST0012,Amsterdam,Urbain,1.81,propose des activités que vous aimez (Randonnée)
+CLI00163,DST0004,Athens,Culturel,1.79,propose des activités que vous aimez (Randonnée)
+CLI00163,DST0005,Barcelona,Plage,1.69,propose des activités que vous aimez (Gastronomie)
+CLI00324,DST0014,Nisa,Plage,2.24,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00324,DST0013,Paris,Urbain,2.07,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00324,DST0005,Barcelona,Plage,1.96,"propose des activités que vous aimez (Spa & bien-être, Safari) ; s'inscrit dans votre budget habituel"
+CLI00324,DST0004,Athens,Culturel,1.91,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00324,DST0008,Antalya,Plage,1.66,s'inscrit dans votre budget habituel
+CLI00325,DST0015,Sydney,Plage,1.92,"propose des activités que vous aimez (Musées, Sports nautiques) ; affiche une excellente satisfaction client (4.2/5)"
+CLI00325,DST0013,Paris,Urbain,1.8,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00325,DST0004,Athens,Culturel,1.6,s'inscrit dans votre budget habituel
+CLI00325,DST0006,Porto,Culturel,1.56,propose des activités que vous aimez (Sports nautiques)
+CLI00325,DST0012,Amsterdam,Urbain,1.54,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00148,DST0012,Amsterdam,Urbain,2.1,"propose des activités que vous aimez (Shopping, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00148,DST0014,Nisa,Plage,2.01,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00148,DST0004,Athens,Culturel,1.95,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00148,DST0017,Marseille,Plage,1.92,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00148,DST0008,Antalya,Plage,1.73,s'inscrit dans votre budget habituel
+CLI00030,DST0013,Paris,Urbain,2.34,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00030,DST0007,Berlin,Urbain,2.02,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00030,DST0016,Bucharest,Urbain,1.83,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00030,DST0002,Venice,Culturel,1.74,"propose des activités que vous aimez (Gastronomie, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00030,DST0010,Moscow,Urbain,1.74,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00108,DST0008,Antalya,Plage,2.32,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00108,DST0017,Marseille,Plage,1.76,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00108,DST0013,Paris,Urbain,1.74,s'inscrit dans votre budget habituel
+CLI00108,DST0015,Sydney,Plage,1.67,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00108,DST0012,Amsterdam,Urbain,1.55,s'inscrit dans votre budget habituel
+CLI00464,DST0043,Kyoto,Culturel,2.48,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00464,DST0002,Venice,Culturel,2.16,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00464,DST0006,Porto,Culturel,1.9,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00464,DST0009,Istanbul,Culturel,1.89,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00464,DST0012,Amsterdam,Urbain,1.77,"propose des activités que vous aimez (Plage détente, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00496,DST0041,Malaga,Plage,2.58,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente, Vie nocturne)"
+CLI00496,DST0014,Nisa,Plage,2.33,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; affiche une excellente satisfaction client (4.6/5)
+CLI00496,DST0015,Sydney,Plage,2.01,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; affiche une excellente satisfaction client (4.2/5)
+CLI00496,DST0013,Paris,Urbain,1.93,propose des activités que vous aimez (Plage détente)
+CLI00496,DST0005,Barcelona,Plage,1.88,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Vie nocturne)
+CLI00426,DST0024,Serengeti,Aventure,2.17,correspond à votre type de voyage préféré (Aventure) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00426,DST0010,Moscow,Urbain,1.94,"propose des activités que vous aimez (Plongée, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00426,DST0014,Nisa,Plage,1.87,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00426,DST0008,Antalya,Plage,1.87,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00426,DST0013,Paris,Urbain,1.84,s'inscrit dans votre budget habituel
+CLI00251,DST0008,Antalya,Plage,2.54,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Ski, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00251,DST0017,Marseille,Plage,2.18,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00251,DST0014,Nisa,Plage,2.05,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00251,DST0002,Venice,Culturel,1.93,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00251,DST0005,Barcelona,Plage,1.7,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00136,DST0020,Interlaken,Montagne,2.65,correspond à votre type de voyage préféré (Montagne) ; propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00136,DST0002,Venice,Culturel,1.96,s'inscrit dans votre budget habituel
+CLI00136,DST0017,Marseille,Plage,1.91,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00136,DST0013,Paris,Urbain,1.81,s'inscrit dans votre budget habituel
+CLI00136,DST0004,Athens,Culturel,1.6,s'inscrit dans votre budget habituel
+CLI00261,DST0014,Nisa,Plage,2.36,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00261,DST0012,Amsterdam,Urbain,1.99,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; s'inscrit dans votre budget habituel"
+CLI00261,DST0013,Paris,Urbain,1.99,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00261,DST0017,Marseille,Plage,1.8,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00261,DST0004,Athens,Culturel,1.69,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00118,DST0002,Venice,Culturel,2.23,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00118,DST0017,Marseille,Plage,1.91,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00118,DST0005,Barcelona,Plage,1.74,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00118,DST0009,Istanbul,Culturel,1.68,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00118,DST0004,Athens,Culturel,1.66,s'inscrit dans votre budget habituel
+CLI00188,DST0009,Istanbul,Culturel,2.29,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00188,DST0011,Sankt Petersburg,Culturel,1.81,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00188,DST0012,Amsterdam,Urbain,1.6,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00188,DST0013,Paris,Urbain,1.45,s'inscrit dans votre budget habituel
+CLI00188,DST0006,Porto,Culturel,1.36,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00416,DST0002,Venice,Culturel,2.22,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00416,DST0015,Sydney,Plage,1.99,"propose des activités que vous aimez (Musées, Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00416,DST0008,Antalya,Plage,1.86,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00416,DST0009,Istanbul,Culturel,1.73,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00416,DST0006,Porto,Culturel,1.64,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00166,DST0014,Nisa,Plage,2.48,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00166,DST0017,Marseille,Plage,2.37,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00166,DST0013,Paris,Urbain,1.89,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00166,DST0012,Amsterdam,Urbain,1.84,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00166,DST0004,Athens,Culturel,1.67,s'inscrit dans votre budget habituel
+CLI00224,DST0025,Ushuaia,Aventure,2.25,correspond à votre type de voyage préféré (Aventure) ; propose des activités que vous aimez (Randonnée)
+CLI00224,DST0002,Venice,Culturel,1.6,s'inscrit dans votre budget habituel
+CLI00224,DST0013,Paris,Urbain,1.45,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00224,DST0014,Nisa,Plage,1.36,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00224,DST0003,Milano,Urbain,1.31,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00445,DST0014,Nisa,Plage,2.32,"propose des activités que vous aimez (Plage détente, Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00445,DST0013,Paris,Urbain,2.07,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00445,DST0004,Athens,Culturel,2.03,"propose des activités que vous aimez (Plongée, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00445,DST0012,Amsterdam,Urbain,2.02,"propose des activités que vous aimez (Plage détente, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00445,DST0008,Antalya,Plage,1.84,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00286,DST0043,Kyoto,Culturel,2.49,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00286,DST0011,Sankt Petersburg,Culturel,2.01,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00286,DST0002,Venice,Culturel,1.92,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00286,DST0004,Athens,Culturel,1.65,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00286,DST0006,Porto,Culturel,1.6,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00492,DST0007,Berlin,Urbain,1.89,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel
+CLI00492,DST0010,Moscow,Urbain,1.81,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00492,DST0012,Amsterdam,Urbain,1.78,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Plage détente, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00492,DST0014,Nisa,Plage,1.67,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00492,DST0011,Sankt Petersburg,Culturel,1.62,"propose des activités que vous aimez (Plage détente, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00477,DST0005,Barcelona,Plage,2.04,"propose des activités que vous aimez (Safari, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00477,DST0008,Antalya,Plage,1.98,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00477,DST0012,Amsterdam,Urbain,1.77,s'inscrit dans votre budget habituel
+CLI00477,DST0009,Istanbul,Culturel,1.71,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00477,DST0003,Milano,Urbain,1.67,"propose des activités que vous aimez (Ski, Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00478,DST0017,Marseille,Plage,2.21,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00478,DST0013,Paris,Urbain,1.87,s'inscrit dans votre budget habituel
+CLI00478,DST0005,Barcelona,Plage,1.85,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00478,DST0009,Istanbul,Culturel,1.74,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00478,DST0015,Sydney,Plage,1.73,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00481,DST0003,Milano,Urbain,2.23,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00481,DST0016,Bucharest,Urbain,1.84,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00481,DST0002,Venice,Culturel,1.67,s'inscrit dans votre budget habituel
+CLI00481,DST0007,Berlin,Urbain,1.61,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel
+CLI00481,DST0004,Athens,Culturel,1.52,"propose des activités que vous aimez (Randonnée, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00418,DST0014,Nisa,Plage,2.28,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00418,DST0021,Banff,Montagne,2.26,correspond à votre type de voyage préféré (Montagne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00418,DST0002,Venice,Culturel,2.15,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00418,DST0017,Marseille,Plage,2.06,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00418,DST0015,Sydney,Plage,1.95,"propose des activités que vous aimez (Plage détente, Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00007,DST0044,New York,Urbain,2.46,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel
+CLI00007,DST0008,Antalya,Plage,2.1,"propose des activités que vous aimez (Ski, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00007,DST0016,Bucharest,Urbain,2.07,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00007,DST0004,Athens,Culturel,2.02,"propose des activités que vous aimez (Plongée, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00007,DST0017,Marseille,Plage,1.6,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00423,DST0005,Barcelona,Plage,2.03,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00423,DST0002,Venice,Culturel,1.87,s'inscrit dans votre budget habituel
+CLI00423,DST0015,Sydney,Plage,1.77,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00423,DST0040,Nha Trang,Plage,1.68,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00423,DST0003,Milano,Urbain,1.4,propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00012,DST0037,Monteverde,Rural/Nature,2.15,correspond à votre type de voyage préféré (Rural/Nature)
+CLI00012,DST0013,Paris,Urbain,2.08,propose des activités que vous aimez (Plage détente)
+CLI00012,DST0014,Nisa,Plage,1.81,propose des activités que vous aimez (Plage détente) ; affiche une excellente satisfaction client (4.6/5)
+CLI00012,DST0008,Antalya,Plage,1.8,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00012,DST0002,Venice,Culturel,1.79,s'inscrit dans votre budget habituel
+CLI00193,DST0008,Antalya,Plage,2.19,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00193,DST0013,Paris,Urbain,1.99,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00193,DST0012,Amsterdam,Urbain,1.92,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; s'inscrit dans votre budget habituel"
+CLI00193,DST0005,Barcelona,Plage,1.8,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00193,DST0015,Sydney,Plage,1.76,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00093,DST0002,Venice,Culturel,2.27,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00093,DST0004,Athens,Culturel,2.06,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00093,DST0005,Barcelona,Plage,1.97,"propose des activités que vous aimez (Spa & bien-être, Safari) ; s'inscrit dans votre budget habituel"
+CLI00093,DST0014,Nisa,Plage,1.94,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00093,DST0009,Istanbul,Culturel,1.94,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00222,DST0003,Milano,Urbain,2.36,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00222,DST0012,Amsterdam,Urbain,1.7,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00222,DST0016,Bucharest,Urbain,1.7,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00222,DST0010,Moscow,Urbain,1.67,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00222,DST0007,Berlin,Urbain,1.57,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel
+CLI00111,DST0043,Kyoto,Culturel,2.47,correspond à votre type de voyage préféré (Culturel) ; affiche une excellente satisfaction client (4.5/5)
+CLI00111,DST0002,Venice,Culturel,2.22,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00111,DST0009,Istanbul,Culturel,1.98,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00111,DST0014,Nisa,Plage,1.82,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00111,DST0012,Amsterdam,Urbain,1.76,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; s'inscrit dans votre budget habituel"
+CLI00239,DST0033,Ubud,Rural/Nature,2.13,correspond à votre type de voyage préféré (Rural/Nature) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00239,DST0010,Moscow,Urbain,2.1,"propose des activités que vous aimez (Plongée, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00239,DST0014,Nisa,Plage,2.05,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00239,DST0008,Antalya,Plage,1.85,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00239,DST0004,Athens,Culturel,1.82,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00439,DST0013,Paris,Urbain,2.36,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00439,DST0003,Milano,Urbain,2.06,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00439,DST0012,Amsterdam,Urbain,1.87,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Shopping, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00439,DST0007,Berlin,Urbain,1.78,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00439,DST0014,Nisa,Plage,1.74,"propose des activités que vous aimez (Shopping, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00476,DST0007,Berlin,Urbain,1.97,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel
+CLI00476,DST0010,Moscow,Urbain,1.94,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00476,DST0005,Barcelona,Plage,1.47,propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00476,DST0014,Nisa,Plage,1.46,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00476,DST0011,Sankt Petersburg,Culturel,1.41,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00059,DST0002,Venice,Culturel,2.19,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00059,DST0009,Istanbul,Culturel,1.92,"propose des activités que vous aimez (Gastronomie, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00059,DST0015,Sydney,Plage,1.67,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00059,DST0043,Kyoto,Culturel,1.59,"propose des activités que vous aimez (Gastronomie, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)"
+CLI00059,DST0004,Athens,Culturel,1.59,s'inscrit dans votre budget habituel
+CLI00381,DST0002,Venice,Culturel,1.93,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00381,DST0011,Sankt Petersburg,Culturel,1.86,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Musées, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00381,DST0016,Bucharest,Urbain,1.52,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00381,DST0001,Rome,Culturel,1.47,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00381,DST0044,New York,Urbain,1.33,"propose des activités que vous aimez (Musées, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00079,DST0002,Venice,Culturel,2.23,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00079,DST0032,Singapour,Croisière,2.03,correspond à votre type de voyage préféré (Croisière) ; s'inscrit dans votre budget habituel
+CLI00079,DST0012,Amsterdam,Urbain,1.96,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00079,DST0005,Barcelona,Plage,1.9,propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00079,DST0015,Sydney,Plage,1.82,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00380,DST0002,Venice,Culturel,2.74,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00380,DST0009,Istanbul,Culturel,2.22,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00380,DST0001,Rome,Culturel,1.84,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00380,DST0004,Athens,Culturel,1.71,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00380,DST0011,Sankt Petersburg,Culturel,1.7,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00248,DST0007,Berlin,Urbain,1.83,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00248,DST0002,Venice,Culturel,1.66,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00248,DST0012,Amsterdam,Urbain,1.66,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00248,DST0016,Bucharest,Urbain,1.59,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00248,DST0010,Moscow,Urbain,1.56,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00208,DST0027,Moshi,Aventure,2.5,correspond à votre type de voyage préféré (Aventure) ; propose des activités que vous aimez (Randonnée) ; affiche une excellente satisfaction client (4.3/5)
+CLI00208,DST0026,Sapa,Aventure,2.03,correspond à votre type de voyage préféré (Aventure) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00208,DST0012,Amsterdam,Urbain,1.84,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00208,DST0008,Antalya,Plage,1.82,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00208,DST0013,Paris,Urbain,1.8,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00102,DST0014,Nisa,Plage,2.31,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00102,DST0039,Zanzibar,Plage,2.03,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00102,DST0017,Marseille,Plage,1.72,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00102,DST0041,Malaga,Plage,1.71,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00102,DST0002,Venice,Culturel,1.66,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00345,DST0013,Paris,Urbain,2.41,"propose des activités que vous aimez (Spa & bien-être, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00345,DST0002,Venice,Culturel,2.11,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00345,DST0036,Kerala,Rural/Nature,1.92,correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00345,DST0004,Athens,Culturel,1.91,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00345,DST0012,Amsterdam,Urbain,1.86,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00393,DST0008,Antalya,Plage,2.16,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00393,DST0017,Marseille,Plage,1.9,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00393,DST0039,Zanzibar,Plage,1.87,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00393,DST0041,Malaga,Plage,1.83,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00393,DST0002,Venice,Culturel,1.78,s'inscrit dans votre budget habituel
+CLI00424,DST0007,Berlin,Urbain,1.89,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00424,DST0002,Venice,Culturel,1.8,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00424,DST0011,Sankt Petersburg,Culturel,1.69,"propose des activités que vous aimez (Gastronomie, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00424,DST0005,Barcelona,Plage,1.57,"propose des activités que vous aimez (Gastronomie, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00424,DST0009,Istanbul,Culturel,1.56,"propose des activités que vous aimez (Gastronomie, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00489,DST0014,Nisa,Plage,2.12,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00489,DST0017,Marseille,Plage,1.92,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00489,DST0008,Antalya,Plage,1.67,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00489,DST0012,Amsterdam,Urbain,1.63,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00489,DST0009,Istanbul,Culturel,1.5,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00257,DST0013,Paris,Urbain,2.12,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00257,DST0005,Barcelona,Plage,2.0,"propose des activités que vous aimez (Spa & bien-être, Safari) ; s'inscrit dans votre budget habituel"
+CLI00257,DST0012,Amsterdam,Urbain,1.83,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00257,DST0009,Istanbul,Culturel,1.58,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00257,DST0017,Marseille,Plage,1.48,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00181,DST0042,Le Caire,Culturel,2.05,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel
+CLI00181,DST0011,Sankt Petersburg,Culturel,1.92,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00181,DST0001,Rome,Culturel,1.77,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00181,DST0006,Porto,Culturel,1.55,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00181,DST0014,Nisa,Plage,1.49,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00437,DST0013,Paris,Urbain,2.05,propose des activités que vous aimez (Spa & bien-être)
+CLI00437,DST0004,Athens,Culturel,2.01,"propose des activités que vous aimez (Spa & bien-être, Vie nocturne)"
+CLI00437,DST0005,Barcelona,Plage,1.91,"propose des activités que vous aimez (Spa & bien-être, Vie nocturne)"
+CLI00437,DST0036,Kerala,Rural/Nature,1.9,correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Spa & bien-être)
+CLI00437,DST0009,Istanbul,Culturel,1.86,"propose des activités que vous aimez (Vie nocturne, Musées) ; affiche une excellente satisfaction client (4.4/5)"
+CLI00019,DST0013,Paris,Urbain,2.55,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être)
+CLI00019,DST0016,Bucharest,Urbain,2.18,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00019,DST0003,Milano,Urbain,2.11,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00019,DST0005,Barcelona,Plage,1.75,"propose des activités que vous aimez (Spa & bien-être, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00019,DST0012,Amsterdam,Urbain,1.68,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00041,DST0038,Cancun,Plage,2.28,correspond à votre type de voyage préféré (Plage)
+CLI00041,DST0014,Nisa,Plage,1.99,correspond à votre type de voyage préféré (Plage) ; affiche une excellente satisfaction client (4.6/5)
+CLI00041,DST0041,Malaga,Plage,1.91,correspond à votre type de voyage préféré (Plage)
+CLI00041,DST0002,Venice,Culturel,1.78,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00041,DST0005,Barcelona,Plage,1.77,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Safari)
+CLI00422,DST0025,Ushuaia,Aventure,2.31,correspond à votre type de voyage préféré (Aventure) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00422,DST0026,Sapa,Aventure,1.96,correspond à votre type de voyage préféré (Aventure) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00422,DST0006,Porto,Culturel,1.66,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00422,DST0017,Marseille,Plage,1.64,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00422,DST0004,Athens,Culturel,1.61,s'inscrit dans votre budget habituel
+CLI00470,DST0013,Paris,Urbain,2.45,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00470,DST0002,Venice,Culturel,2.33,"propose des activités que vous aimez (Gastronomie, Spa & bien-être) ; s'inscrit dans votre budget habituel"
+CLI00470,DST0003,Milano,Urbain,2.07,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00470,DST0007,Berlin,Urbain,2.07,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00470,DST0014,Nisa,Plage,2.05,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00042,DST0009,Istanbul,Culturel,2.14,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00042,DST0002,Venice,Culturel,2.08,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00042,DST0011,Sankt Petersburg,Culturel,1.65,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00042,DST0014,Nisa,Plage,1.48,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00042,DST0001,Rome,Culturel,1.48,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00160,DST0002,Venice,Culturel,2.28,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00160,DST0008,Antalya,Plage,2.06,"propose des activités que vous aimez (Ski, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00160,DST0001,Rome,Culturel,1.93,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00160,DST0004,Athens,Culturel,1.87,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00160,DST0013,Paris,Urbain,1.74,s'inscrit dans votre budget habituel
+CLI00287,DST0038,Cancun,Plage,2.7,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente)
+CLI00287,DST0014,Nisa,Plage,2.32,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; affiche une excellente satisfaction client (4.6/5)
+CLI00287,DST0015,Sydney,Plage,2.0,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; affiche une excellente satisfaction client (4.2/5)
+CLI00287,DST0040,Nha Trang,Plage,1.98,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00287,DST0008,Antalya,Plage,1.96,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00133,DST0020,Interlaken,Montagne,2.28,correspond à votre type de voyage préféré (Montagne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00133,DST0002,Venice,Culturel,2.16,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00133,DST0014,Nisa,Plage,2.07,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00133,DST0013,Paris,Urbain,2.01,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00133,DST0006,Porto,Culturel,1.86,"propose des activités que vous aimez (Plage détente, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00291,DST0013,Paris,Urbain,2.55,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00291,DST0003,Milano,Urbain,2.07,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00291,DST0007,Berlin,Urbain,1.99,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00291,DST0011,Sankt Petersburg,Culturel,1.77,"propose des activités que vous aimez (Gastronomie, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00291,DST0029,Santorini,Croisière,1.7,"propose des activités que vous aimez (Gastronomie, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00497,DST0002,Venice,Culturel,1.71,s'inscrit dans votre budget habituel
+CLI00497,DST0008,Antalya,Plage,1.46,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00497,DST0013,Paris,Urbain,1.39,s'inscrit dans votre budget habituel
+CLI00497,DST0014,Nisa,Plage,1.35,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00497,DST0004,Athens,Culturel,1.34,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00342,DST0002,Venice,Culturel,2.11,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00342,DST0009,Istanbul,Culturel,2.06,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00342,DST0004,Athens,Culturel,1.81,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00342,DST0014,Nisa,Plage,1.76,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00342,DST0001,Rome,Culturel,1.7,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00081,DST0002,Venice,Culturel,2.13,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00081,DST0009,Istanbul,Culturel,1.93,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00081,DST0001,Rome,Culturel,1.82,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00081,DST0014,Nisa,Plage,1.77,"propose des activités que vous aimez (Shopping, Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00081,DST0004,Athens,Culturel,1.74,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00047,DST0014,Nisa,Plage,2.66,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Shopping, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00047,DST0017,Marseille,Plage,2.16,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00047,DST0008,Antalya,Plage,1.91,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00047,DST0002,Venice,Culturel,1.89,s'inscrit dans votre budget habituel
+CLI00047,DST0005,Barcelona,Plage,1.51,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00457,DST0013,Paris,Urbain,2.05,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00457,DST0004,Athens,Culturel,2.0,"propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00457,DST0005,Barcelona,Plage,1.66,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00457,DST0016,Bucharest,Urbain,1.35,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00457,DST0009,Istanbul,Culturel,1.3,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00094,DST0002,Venice,Culturel,2.31,"propose des activités que vous aimez (Plongée, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00094,DST0010,Moscow,Urbain,1.89,"propose des activités que vous aimez (Plongée, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00094,DST0016,Bucharest,Urbain,1.78,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00094,DST0013,Paris,Urbain,1.77,s'inscrit dans votre budget habituel
+CLI00094,DST0009,Istanbul,Culturel,1.7,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00447,DST0008,Antalya,Plage,1.49,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00447,DST0011,Sankt Petersburg,Culturel,1.48,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00447,DST0014,Nisa,Plage,1.48,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00447,DST0015,Sydney,Plage,1.38,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00447,DST0013,Paris,Urbain,1.32,s'inscrit dans votre budget habituel
+CLI00082,DST0014,Nisa,Plage,2.1,"propose des activités que vous aimez (Shopping, Spa & bien-être) ; affiche une excellente satisfaction client (4.6/5)"
+CLI00082,DST0009,Istanbul,Culturel,1.94,correspond à votre type de voyage préféré (Culturel) ; affiche une excellente satisfaction client (4.4/5)
+CLI00082,DST0017,Marseille,Plage,1.61,propose des activités que vous aimez (Shopping) ; affiche une excellente satisfaction client (4.6/5)
+CLI00082,DST0011,Sankt Petersburg,Culturel,1.52,correspond à votre type de voyage préféré (Culturel) ; affiche une excellente satisfaction client (4.6/5)
+CLI00082,DST0008,Antalya,Plage,1.5,s'inscrit dans votre budget habituel
+CLI00373,DST0013,Paris,Urbain,2.88,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00373,DST0002,Venice,Culturel,1.94,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00373,DST0010,Moscow,Urbain,1.92,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00373,DST0014,Nisa,Plage,1.89,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00373,DST0012,Amsterdam,Urbain,1.71,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00326,DST0024,Serengeti,Aventure,2.4,correspond à votre type de voyage préféré (Aventure) ; propose des activités que vous aimez (Photographie) ; affiche une excellente satisfaction client (4.5/5)
+CLI00326,DST0014,Nisa,Plage,1.63,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00326,DST0002,Venice,Culturel,1.61,s'inscrit dans votre budget habituel
+CLI00326,DST0011,Sankt Petersburg,Culturel,1.6,"propose des activités que vous aimez (Plage détente, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00326,DST0030,Dubrovnik,Croisière,1.6,"propose des activités que vous aimez (Plage détente, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00452,DST0038,Cancun,Plage,2.95,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00452,DST0008,Antalya,Plage,2.07,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00452,DST0005,Barcelona,Plage,2.06,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00452,DST0017,Marseille,Plage,1.95,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00452,DST0004,Athens,Culturel,1.9,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00455,DST0004,Athens,Culturel,2.19,"propose des activités que vous aimez (Plongée, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00455,DST0014,Nisa,Plage,1.99,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00455,DST0005,Barcelona,Plage,1.9,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00455,DST0013,Paris,Urbain,1.86,s'inscrit dans votre budget habituel
+CLI00455,DST0016,Bucharest,Urbain,1.79,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00376,DST0039,Zanzibar,Plage,1.97,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00376,DST0008,Antalya,Plage,1.93,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00376,DST0010,Moscow,Urbain,1.62,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00376,DST0007,Berlin,Urbain,1.53,"propose des activités que vous aimez (Photographie, Musées) ; s'inscrit dans votre budget habituel"
+CLI00376,DST0004,Athens,Culturel,1.5,s'inscrit dans votre budget habituel
+CLI00226,DST0037,Monteverde,Rural/Nature,2.29,correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Randonnée)
+CLI00226,DST0012,Amsterdam,Urbain,2.1,"propose des activités que vous aimez (Shopping, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00226,DST0002,Venice,Culturel,2.09,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00226,DST0017,Marseille,Plage,1.81,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00226,DST0005,Barcelona,Plage,1.75,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00140,DST0043,Kyoto,Culturel,2.38,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00140,DST0002,Venice,Culturel,1.94,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00140,DST0009,Istanbul,Culturel,1.84,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00140,DST0003,Milano,Urbain,1.5,"propose des activités que vous aimez (Ski, Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00140,DST0001,Rome,Culturel,1.48,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00107,DST0038,Cancun,Plage,2.9,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00107,DST0041,Malaga,Plage,2.64,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Gastronomie, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00107,DST0008,Antalya,Plage,1.85,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00107,DST0013,Paris,Urbain,1.72,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00107,DST0012,Amsterdam,Urbain,1.66,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00233,DST0039,Zanzibar,Plage,1.95,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00233,DST0017,Marseille,Plage,1.92,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00233,DST0008,Antalya,Plage,1.86,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00233,DST0016,Bucharest,Urbain,1.68,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00233,DST0004,Athens,Culturel,1.51,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00292,DST0002,Venice,Culturel,2.25,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00292,DST0009,Istanbul,Culturel,1.95,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00292,DST0015,Sydney,Plage,1.77,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00292,DST0003,Milano,Urbain,1.69,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00292,DST0005,Barcelona,Plage,1.67,s'inscrit dans votre budget habituel
+CLI00205,DST0002,Venice,Culturel,2.14,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00205,DST0004,Athens,Culturel,1.77,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00205,DST0008,Antalya,Plage,1.58,s'inscrit dans votre budget habituel
+CLI00205,DST0009,Istanbul,Culturel,1.44,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00205,DST0014,Nisa,Plage,1.4,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00332,DST0043,Kyoto,Culturel,2.57,correspond à votre type de voyage préféré (Culturel) ; affiche une excellente satisfaction client (4.5/5)
+CLI00332,DST0009,Istanbul,Culturel,1.93,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00332,DST0001,Rome,Culturel,1.77,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00332,DST0014,Nisa,Plage,1.66,propose des activités que vous aimez (Plage détente) ; affiche une excellente satisfaction client (4.6/5)
+CLI00332,DST0011,Sankt Petersburg,Culturel,1.66,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00198,DST0038,Cancun,Plage,2.51,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00198,DST0014,Nisa,Plage,2.23,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00198,DST0008,Antalya,Plage,2.17,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00198,DST0039,Zanzibar,Plage,1.91,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00198,DST0003,Milano,Urbain,1.82,"propose des activités que vous aimez (Safari, Ski) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00096,DST0002,Venice,Culturel,2.53,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00096,DST0008,Antalya,Plage,2.03,"propose des activités que vous aimez (Ski, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00096,DST0004,Athens,Culturel,1.96,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00096,DST0042,Le Caire,Culturel,1.93,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00096,DST0014,Nisa,Plage,1.88,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00123,DST0014,Nisa,Plage,1.95,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00123,DST0013,Paris,Urbain,1.93,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00123,DST0036,Kerala,Rural/Nature,1.92,correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00123,DST0017,Marseille,Plage,1.7,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00123,DST0008,Antalya,Plage,1.66,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00024,DST0013,Paris,Urbain,2.09,propose des activités que vous aimez (Photographie)
+CLI00024,DST0002,Venice,Culturel,1.91,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00024,DST0010,Moscow,Urbain,1.63,propose des activités que vous aimez (Musées) ; affiche une excellente satisfaction client (4.2/5)
+CLI00024,DST0015,Sydney,Plage,1.6,propose des activités que vous aimez (Musées) ; affiche une excellente satisfaction client (4.2/5)
+CLI00024,DST0014,Nisa,Plage,1.58,affiche une excellente satisfaction client (4.6/5)
+CLI00014,DST0003,Milano,Urbain,2.74,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Safari, Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00014,DST0007,Berlin,Urbain,1.82,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00014,DST0002,Venice,Culturel,1.75,s'inscrit dans votre budget habituel
+CLI00014,DST0016,Bucharest,Urbain,1.65,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00014,DST0010,Moscow,Urbain,1.62,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00062,DST0014,Nisa,Plage,2.37,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00062,DST0008,Antalya,Plage,2.21,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00062,DST0002,Venice,Culturel,1.94,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00062,DST0017,Marseille,Plage,1.88,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00062,DST0005,Barcelona,Plage,1.88,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00299,DST0002,Venice,Culturel,2.12,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00299,DST0008,Antalya,Plage,2.01,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00299,DST0017,Marseille,Plage,1.98,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00299,DST0013,Paris,Urbain,1.84,s'inscrit dans votre budget habituel
+CLI00299,DST0015,Sydney,Plage,1.78,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00040,DST0012,Amsterdam,Urbain,1.84,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00040,DST0014,Nisa,Plage,1.83,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00040,DST0015,Sydney,Plage,1.72,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00040,DST0006,Porto,Culturel,1.63,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00040,DST0009,Istanbul,Culturel,1.56,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00361,DST0013,Paris,Urbain,2.38,"propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00361,DST0002,Venice,Culturel,2.26,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00361,DST0014,Nisa,Plage,2.22,"propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00361,DST0012,Amsterdam,Urbain,2.08,"propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00361,DST0005,Barcelona,Plage,1.75,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00259,DST0008,Antalya,Plage,2.17,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00259,DST0014,Nisa,Plage,2.08,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00259,DST0017,Marseille,Plage,1.88,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00259,DST0002,Venice,Culturel,1.8,s'inscrit dans votre budget habituel
+CLI00259,DST0013,Paris,Urbain,1.8,s'inscrit dans votre budget habituel
+CLI00243,DST0041,Malaga,Plage,2.14,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00243,DST0015,Sydney,Plage,1.89,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00243,DST0008,Antalya,Plage,1.87,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00243,DST0013,Paris,Urbain,1.7,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00243,DST0011,Sankt Petersburg,Culturel,1.46,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00173,DST0042,Le Caire,Culturel,2.09,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00173,DST0009,Istanbul,Culturel,1.87,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00173,DST0012,Amsterdam,Urbain,1.8,"propose des activités que vous aimez (Shopping, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00173,DST0004,Athens,Culturel,1.61,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00173,DST0006,Porto,Culturel,1.6,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00099,DST0043,Kyoto,Culturel,2.77,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; affiche une excellente satisfaction client (4.5/5)
+CLI00099,DST0009,Istanbul,Culturel,2.29,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00099,DST0002,Venice,Culturel,2.26,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie)
+CLI00099,DST0042,Le Caire,Culturel,2.2,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00099,DST0011,Sankt Petersburg,Culturel,2.04,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00293,DST0013,Paris,Urbain,2.29,"propose des activités que vous aimez (Spa & bien-être, Plage détente)"
+CLI00293,DST0021,Banff,Montagne,2.13,correspond à votre type de voyage préféré (Montagne) ; affiche une excellente satisfaction client (4.3/5)
+CLI00293,DST0002,Venice,Culturel,2.12,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00293,DST0012,Amsterdam,Urbain,1.93,"propose des activités que vous aimez (Spa & bien-être, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00293,DST0005,Barcelona,Plage,1.9,"propose des activités que vous aimez (Spa & bien-être, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00245,DST0041,Malaga,Plage,2.26,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00245,DST0008,Antalya,Plage,1.86,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00245,DST0015,Sydney,Plage,1.68,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00245,DST0016,Bucharest,Urbain,1.58,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00245,DST0013,Paris,Urbain,1.44,s'inscrit dans votre budget habituel
+CLI00352,DST0013,Paris,Urbain,2.46,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00352,DST0012,Amsterdam,Urbain,1.99,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00352,DST0016,Bucharest,Urbain,1.93,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00352,DST0002,Venice,Culturel,1.82,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00352,DST0004,Athens,Culturel,1.8,"propose des activités que vous aimez (Spa & bien-être, Randonnée) ; s'inscrit dans votre budget habituel"
+CLI00377,DST0009,Istanbul,Culturel,2.22,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00377,DST0014,Nisa,Plage,1.78,"propose des activités que vous aimez (Shopping, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00377,DST0001,Rome,Culturel,1.76,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00377,DST0012,Amsterdam,Urbain,1.63,"propose des activités que vous aimez (Shopping, Plage détente) ; s'inscrit dans votre budget habituel"
+CLI00377,DST0006,Porto,Culturel,1.6,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00284,DST0013,Paris,Urbain,2.14,propose des activités que vous aimez (Plage détente)
+CLI00284,DST0002,Venice,Culturel,2.09,propose des activités que vous aimez (Sports nautiques)
+CLI00284,DST0015,Sydney,Plage,1.95,"propose des activités que vous aimez (Plage détente, Sports nautiques) ; affiche une excellente satisfaction client (4.2/5)"
+CLI00284,DST0008,Antalya,Plage,1.87,propose des activités que vous aimez (Sports nautiques)
+CLI00284,DST0017,Marseille,Plage,1.83,propose des activités que vous aimez (Sports nautiques) ; affiche une excellente satisfaction client (4.6/5)
+CLI00427,DST0027,Moshi,Aventure,2.46,correspond à votre type de voyage préféré (Aventure) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00427,DST0014,Nisa,Plage,1.64,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00427,DST0002,Venice,Culturel,1.59,s'inscrit dans votre budget habituel
+CLI00427,DST0017,Marseille,Plage,1.57,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00427,DST0013,Paris,Urbain,1.44,s'inscrit dans votre budget habituel
+CLI00262,DST0038,Cancun,Plage,2.49,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00262,DST0014,Nisa,Plage,2.12,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00262,DST0041,Malaga,Plage,2.06,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00262,DST0015,Sydney,Plage,1.95,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente, Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)"
+CLI00262,DST0008,Antalya,Plage,1.7,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00128,DST0014,Nisa,Plage,2.29,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00128,DST0011,Sankt Petersburg,Culturel,2.14,"propose des activités que vous aimez (Gastronomie, Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00128,DST0002,Venice,Culturel,2.07,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00128,DST0005,Barcelona,Plage,1.58,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00128,DST0006,Porto,Culturel,1.52,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00083,DST0014,Nisa,Plage,2.33,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Spa & bien-être) ; affiche une excellente satisfaction client (4.6/5)
+CLI00083,DST0002,Venice,Culturel,2.18,"propose des activités que vous aimez (Gastronomie, Spa & bien-être)"
+CLI00083,DST0005,Barcelona,Plage,2.18,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Gastronomie, Spa & bien-être)"
+CLI00083,DST0008,Antalya,Plage,1.97,correspond à votre type de voyage préféré (Plage)
+CLI00083,DST0017,Marseille,Plage,1.81,correspond à votre type de voyage préféré (Plage) ; affiche une excellente satisfaction client (4.6/5)
+CLI00459,DST0002,Venice,Culturel,2.25,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel
+CLI00459,DST0011,Sankt Petersburg,Culturel,1.99,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00459,DST0004,Athens,Culturel,1.7,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00459,DST0005,Barcelona,Plage,1.56,"propose des activités que vous aimez (Gastronomie, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00459,DST0014,Nisa,Plage,1.44,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00269,DST0014,Nisa,Plage,2.27,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00269,DST0008,Antalya,Plage,2.15,"propose des activités que vous aimez (Plongée, Sports nautiques) ; s'inscrit dans votre budget habituel"
+CLI00269,DST0004,Athens,Culturel,1.89,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00269,DST0016,Bucharest,Urbain,1.76,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00269,DST0015,Sydney,Plage,1.74,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00028,DST0005,Barcelona,Plage,1.92,"propose des activités que vous aimez (Safari, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00028,DST0013,Paris,Urbain,1.82,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00028,DST0011,Sankt Petersburg,Culturel,1.8,"propose des activités que vous aimez (Musées, Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00028,DST0017,Marseille,Plage,1.63,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00028,DST0012,Amsterdam,Urbain,1.6,s'inscrit dans votre budget habituel
+CLI00090,DST0014,Nisa,Plage,2.17,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00090,DST0008,Antalya,Plage,1.83,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00090,DST0017,Marseille,Plage,1.76,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00090,DST0005,Barcelona,Plage,1.74,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00090,DST0003,Milano,Urbain,1.63,"propose des activités que vous aimez (Photographie, Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00389,DST0003,Milano,Urbain,2.15,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00389,DST0013,Paris,Urbain,2.04,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel
+CLI00389,DST0016,Bucharest,Urbain,1.84,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00389,DST0017,Marseille,Plage,1.63,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00389,DST0007,Berlin,Urbain,1.59,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel
+CLI00074,DST0002,Venice,Culturel,2.13,"propose des activités que vous aimez (Gastronomie, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00074,DST0005,Barcelona,Plage,1.95,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Gastronomie, Safari) ; s'inscrit dans votre budget habituel"
+CLI00074,DST0017,Marseille,Plage,1.91,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00074,DST0015,Sydney,Plage,1.77,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00074,DST0003,Milano,Urbain,1.55,"propose des activités que vous aimez (Plongée, Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00186,DST0007,Berlin,Urbain,2.48,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Gastronomie, Musées) ; s'inscrit dans votre budget habituel"
+CLI00186,DST0002,Venice,Culturel,2.16,propose des activités que vous aimez (Gastronomie)
+CLI00186,DST0003,Milano,Urbain,2.14,correspond à votre type de voyage préféré (Urbain) ; affiche une excellente satisfaction client (4.3/5)
+CLI00186,DST0010,Moscow,Urbain,2.09,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Musées) ; affiche une excellente satisfaction client (4.2/5)
+CLI00186,DST0011,Sankt Petersburg,Culturel,1.81,"propose des activités que vous aimez (Gastronomie, Musées) ; affiche une excellente satisfaction client (4.6/5)"
+CLI00172,DST0003,Milano,Urbain,2.53,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Ski, Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)"
+CLI00172,DST0007,Berlin,Urbain,1.91,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00172,DST0016,Bucharest,Urbain,1.85,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00172,DST0002,Venice,Culturel,1.48,s'inscrit dans votre budget habituel
+CLI00172,DST0009,Istanbul,Culturel,1.35,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00162,DST0002,Venice,Culturel,1.9,s'inscrit dans votre budget habituel
+CLI00162,DST0005,Barcelona,Plage,1.81,"propose des activités que vous aimez (Safari, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00162,DST0008,Antalya,Plage,1.75,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00162,DST0013,Paris,Urbain,1.74,s'inscrit dans votre budget habituel
+CLI00162,DST0004,Athens,Culturel,1.72,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel
+CLI00070,DST0003,Milano,Urbain,2.4,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00070,DST0007,Berlin,Urbain,1.91,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00070,DST0002,Venice,Culturel,1.86,s'inscrit dans votre budget habituel
+CLI00070,DST0012,Amsterdam,Urbain,1.75,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00070,DST0014,Nisa,Plage,1.74,propose des activités que vous aimez (Shopping) ; affiche une excellente satisfaction client (4.6/5)
+CLI00219,DST0037,Monteverde,Rural/Nature,2.03,correspond à votre type de voyage préféré (Rural/Nature)
+CLI00219,DST0002,Venice,Culturel,1.94,propose des activités que vous aimez (Plongée)
+CLI00219,DST0013,Paris,Urbain,1.78,propose des activités que vous aimez (Plage détente)
+CLI00219,DST0016,Bucharest,Urbain,1.61,propose des activités que vous aimez (Plongée) ; affiche une excellente satisfaction client (4.6/5)
+CLI00219,DST0008,Antalya,Plage,1.6,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00092,DST0013,Paris,Urbain,2.12,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00092,DST0006,Porto,Culturel,1.62,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00092,DST0017,Marseille,Plage,1.49,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00092,DST0005,Barcelona,Plage,1.45,s'inscrit dans votre budget habituel
+CLI00092,DST0016,Bucharest,Urbain,1.33,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00271,DST0015,Sydney,Plage,2.02,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00271,DST0039,Zanzibar,Plage,1.97,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.5/5)
+CLI00271,DST0008,Antalya,Plage,1.88,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00271,DST0013,Paris,Urbain,1.55,s'inscrit dans votre budget habituel
+CLI00271,DST0005,Barcelona,Plage,1.51,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00421,DST0002,Venice,Culturel,1.95,s'inscrit dans votre budget habituel
+CLI00421,DST0005,Barcelona,Plage,1.93,"propose des activités que vous aimez (Safari, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00421,DST0013,Paris,Urbain,1.81,s'inscrit dans votre budget habituel
+CLI00421,DST0016,Bucharest,Urbain,1.77,propose des activités que vous aimez (Vie nocturne) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00421,DST0014,Nisa,Plage,1.75,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00379,DST0003,Milano,Urbain,2.27,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00379,DST0012,Amsterdam,Urbain,1.78,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00379,DST0004,Athens,Culturel,1.71,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00379,DST0010,Moscow,Urbain,1.61,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00379,DST0014,Nisa,Plage,1.5,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00126,DST0033,Ubud,Rural/Nature,2.61,correspond à votre type de voyage préféré (Rural/Nature) ; propose des activités que vous aimez (Randonnée) ; affiche une excellente satisfaction client (4.4/5)
+CLI00126,DST0002,Venice,Culturel,2.11,propose des activités que vous aimez (Plongée)
+CLI00126,DST0004,Athens,Culturel,2.05,"propose des activités que vous aimez (Plongée, Randonnée)"
+CLI00126,DST0014,Nisa,Plage,2.01,propose des activités que vous aimez (Plongée) ; affiche une excellente satisfaction client (4.6/5)
+CLI00126,DST0013,Paris,Urbain,1.9,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00371,DST0043,Kyoto,Culturel,2.46,correspond à votre type de voyage préféré (Culturel) ; affiche une excellente satisfaction client (4.5/5)
+CLI00371,DST0002,Venice,Culturel,1.99,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel
+CLI00371,DST0004,Athens,Culturel,1.8,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00371,DST0008,Antalya,Plage,1.79,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00371,DST0011,Sankt Petersburg,Culturel,1.64,correspond à votre type de voyage préféré (Culturel) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00275,DST0002,Venice,Culturel,2.77,"correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie, Spa & bien-être)"
+CLI00275,DST0001,Rome,Culturel,2.01,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Spa & bien-être) ; affiche une excellente satisfaction client (4.6/5)
+CLI00275,DST0011,Sankt Petersburg,Culturel,1.95,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Gastronomie) ; affiche une excellente satisfaction client (4.6/5)
+CLI00275,DST0013,Paris,Urbain,1.83,propose des activités que vous aimez (Spa & bien-être)
+CLI00275,DST0005,Barcelona,Plage,1.8,"propose des activités que vous aimez (Gastronomie, Spa & bien-être)"
+CLI00060,DST0002,Venice,Culturel,2.01,s'inscrit dans votre budget habituel
+CLI00060,DST0008,Antalya,Plage,1.94,propose des activités que vous aimez (Ski) ; s'inscrit dans votre budget habituel
+CLI00060,DST0015,Sydney,Plage,1.7,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00060,DST0012,Amsterdam,Urbain,1.69,s'inscrit dans votre budget habituel
+CLI00060,DST0014,Nisa,Plage,1.62,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00121,DST0017,Marseille,Plage,2.17,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00121,DST0004,Athens,Culturel,1.79,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00121,DST0005,Barcelona,Plage,1.58,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00121,DST0025,Ushuaia,Aventure,1.44,"propose des activités que vous aimez (Randonnée, Photographie)"
+CLI00121,DST0011,Sankt Petersburg,Culturel,1.44,s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00013,DST0041,Malaga,Plage,2.59,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Gastronomie, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00013,DST0002,Venice,Culturel,2.28,"propose des activités que vous aimez (Gastronomie, Spa & bien-être) ; s'inscrit dans votre budget habituel"
+CLI00013,DST0008,Antalya,Plage,1.88,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00013,DST0004,Athens,Culturel,1.87,"propose des activités que vous aimez (Spa & bien-être, Vie nocturne) ; s'inscrit dans votre budget habituel"
+CLI00013,DST0017,Marseille,Plage,1.8,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00387,DST0043,Kyoto,Culturel,2.96,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Musées) ; affiche une excellente satisfaction client (4.5/5)
+CLI00387,DST0009,Istanbul,Culturel,2.38,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00387,DST0002,Venice,Culturel,2.22,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00387,DST0014,Nisa,Plage,2.02,propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00387,DST0004,Athens,Culturel,1.85,correspond à votre type de voyage préféré (Culturel) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00225,DST0014,Nisa,Plage,2.12,correspond à votre type de voyage préféré (Plage) ; affiche une excellente satisfaction client (4.6/5)
+CLI00225,DST0041,Malaga,Plage,1.97,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00225,DST0008,Antalya,Plage,1.93,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00225,DST0017,Marseille,Plage,1.91,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00225,DST0015,Sydney,Plage,1.8,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00237,DST0013,Paris,Urbain,3.06,"correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être, Photographie) ; s'inscrit dans votre budget habituel"
+CLI00237,DST0014,Nisa,Plage,1.98,propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00237,DST0007,Berlin,Urbain,1.96,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Photographie) ; s'inscrit dans votre budget habituel
+CLI00237,DST0012,Amsterdam,Urbain,1.83,correspond à votre type de voyage préféré (Urbain) ; propose des activités que vous aimez (Spa & bien-être) ; s'inscrit dans votre budget habituel
+CLI00237,DST0016,Bucharest,Urbain,1.72,correspond à votre type de voyage préféré (Urbain) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00500,DST0014,Nisa,Plage,2.39,"correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Spa & bien-être, Plongée) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)"
+CLI00500,DST0038,Cancun,Plage,2.25,correspond à votre type de voyage préféré (Plage) ; s'inscrit dans votre budget habituel
+CLI00500,DST0002,Venice,Culturel,2.08,"propose des activités que vous aimez (Spa & bien-être, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00500,DST0008,Antalya,Plage,2.07,correspond à votre type de voyage préféré (Plage) ; propose des activités que vous aimez (Plongée) ; s'inscrit dans votre budget habituel
+CLI00500,DST0004,Athens,Culturel,1.83,"propose des activités que vous aimez (Spa & bien-être, Plongée) ; s'inscrit dans votre budget habituel"
+CLI00315,DST0014,Nisa,Plage,2.1,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00315,DST0012,Amsterdam,Urbain,1.93,propose des activités que vous aimez (Plage détente) ; s'inscrit dans votre budget habituel
+CLI00315,DST0002,Venice,Culturel,1.85,s'inscrit dans votre budget habituel
+CLI00315,DST0004,Athens,Culturel,1.75,s'inscrit dans votre budget habituel
+CLI00315,DST0029,Santorini,Croisière,1.64,"propose des activités que vous aimez (Plage détente, Photographie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)"
+CLI00158,DST0012,Amsterdam,Urbain,1.89,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00158,DST0017,Marseille,Plage,1.8,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00158,DST0004,Athens,Culturel,1.73,s'inscrit dans votre budget habituel
+CLI00158,DST0015,Sydney,Plage,1.69,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00158,DST0008,Antalya,Plage,1.66,s'inscrit dans votre budget habituel
+CLI00365,DST0032,Singapour,Croisière,2.22,correspond à votre type de voyage préféré (Croisière) ; s'inscrit dans votre budget habituel
+CLI00365,DST0002,Venice,Culturel,1.82,s'inscrit dans votre budget habituel
+CLI00365,DST0009,Istanbul,Culturel,1.66,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.4/5)
+CLI00365,DST0013,Paris,Urbain,1.64,s'inscrit dans votre budget habituel
+CLI00365,DST0005,Barcelona,Plage,1.58,propose des activités que vous aimez (Safari) ; s'inscrit dans votre budget habituel
+CLI00187,DST0028,Miami,Croisière,2.35,correspond à votre type de voyage préféré (Croisière)
+CLI00187,DST0017,Marseille,Plage,1.89,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00187,DST0012,Amsterdam,Urbain,1.73,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel
+CLI00187,DST0013,Paris,Urbain,1.73,a été identifiée comme pertinente par le modèle hybride (similarité de profil + comportement collectif)
+CLI00187,DST0015,Sydney,Plage,1.7,propose des activités que vous aimez (Musées) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.2/5)
+CLI00268,DST0013,Paris,Urbain,2.26,correspond à votre type de voyage préféré (Urbain)
+CLI00268,DST0002,Venice,Culturel,2.12,propose des activités que vous aimez (Gastronomie)
+CLI00268,DST0003,Milano,Urbain,2.1,correspond à votre type de voyage préféré (Urbain) ; affiche une excellente satisfaction client (4.3/5)
+CLI00268,DST0014,Nisa,Plage,1.76,propose des activités que vous aimez (Shopping) ; affiche une excellente satisfaction client (4.6/5)
+CLI00268,DST0017,Marseille,Plage,1.71,propose des activités que vous aimez (Shopping) ; affiche une excellente satisfaction client (4.6/5)
+CLI00231,DST0002,Venice,Culturel,2.2,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00231,DST0027,Moshi,Aventure,2.2,correspond à votre type de voyage préféré (Aventure) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.3/5)
+CLI00231,DST0014,Nisa,Plage,2.18,propose des activités que vous aimez (Shopping) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00231,DST0008,Antalya,Plage,1.89,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00231,DST0013,Paris,Urbain,1.88,s'inscrit dans votre budget habituel
+CLI00408,DST0017,Marseille,Plage,2.1,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)
+CLI00408,DST0008,Antalya,Plage,1.89,propose des activités que vous aimez (Sports nautiques) ; s'inscrit dans votre budget habituel
+CLI00408,DST0013,Paris,Urbain,1.83,s'inscrit dans votre budget habituel
+CLI00408,DST0004,Athens,Culturel,1.82,propose des activités que vous aimez (Randonnée) ; s'inscrit dans votre budget habituel
+CLI00408,DST0011,Sankt Petersburg,Culturel,1.67,propose des activités que vous aimez (Gastronomie) ; s'inscrit dans votre budget habituel ; affiche une excellente satisfaction client (4.6/5)

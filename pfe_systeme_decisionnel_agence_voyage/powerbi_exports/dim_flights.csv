@@ -1,0 +1,91 @@
+flight_id,destination_id,compagnie,classe,prix_vol_tnd,duree_heures
+FLT00001,DST0012,Turkish Airlines,Economy,829.0,1.1
+FLT00002,DST0012,Tunisair,Economy,730.0,4.5
+FLT00003,DST0008,Nouvelair,Economy,409.0,4.4
+FLT00004,DST0008,Emirates,Business,322.0,4.1
+FLT00005,DST0004,Nouvelair,Economy,251.0,2.3
+FLT00006,DST0004,Nouvelair,Economy,220.0,2.3
+FLT00007,DST0005,Emirates,Economy,466.0,2.8
+FLT00008,DST0005,Turkish Airlines,Economy,495.0,2.2
+FLT00009,DST0007,Tunisair,Economy,319.0,5.3
+FLT00010,DST0007,Turkish Airlines,Economy,432.0,4.5
+FLT00011,DST0016,Turkish Airlines,Economy,611.0,1.0
+FLT00012,DST0016,Lufthansa,Economy,638.0,2.2
+FLT00013,DST0009,Tunisair,First,378.0,1.0
+FLT00014,DST0009,Tunisair,Business,435.0,3.0
+FLT00015,DST0017,Air France,Economy,684.0,2.3
+FLT00016,DST0017,Emirates,First,613.0,1.5
+FLT00017,DST0003,Turkish Airlines,First,462.0,1.1
+FLT00018,DST0003,Tunisair,First,481.0,4.1
+FLT00019,DST0010,Tunisair,Economy,640.0,6.9
+FLT00020,DST0010,Tunisair,First,613.0,3.0
+FLT00021,DST0014,Tunisair,Economy,1069.0,5.9
+FLT00022,DST0014,Nouvelair,First,1374.0,1.0
+FLT00023,DST0013,Emirates,Economy,1107.0,3.7
+FLT00024,DST0013,Tunisair,Economy,1230.0,1.0
+FLT00025,DST0006,Air France,First,748.0,5.6
+FLT00026,DST0006,Lufthansa,Economy,661.0,1.9
+FLT00027,DST0001,Nouvelair,Business,377.0,1.2
+FLT00028,DST0001,Turkish Airlines,Business,427.0,4.8
+FLT00029,DST0011,Turkish Airlines,Economy,529.0,4.6
+FLT00030,DST0011,Tunisair,Economy,472.0,2.8
+FLT00031,DST0015,Emirates,First,519.0,4.4
+FLT00032,DST0015,Ryanair,First,594.0,4.4
+FLT00033,DST0002,Ryanair,Economy,518.0,3.6
+FLT00034,DST0002,Ryanair,Economy,518.0,3.3
+FLT00035,DST0018,Emirates,First,1039.0,3.6
+FLT00036,DST0018,Emirates,First,1045.0,3.3
+FLT00037,DST0019,Tunisair,First,988.0,1.5
+FLT00038,DST0019,Tunisair,Business,621.0,3.5
+FLT00039,DST0020,Lufthansa,Business,704.0,4.3
+FLT00040,DST0020,Lufthansa,Economy,364.0,3.3
+FLT00041,DST0021,Tunisair,Economy,1288.0,12.9
+FLT00042,DST0021,Turkish Airlines,Economy,1003.0,11.9
+FLT00043,DST0022,Air France,Economy,1202.0,17.1
+FLT00044,DST0022,Air France,First,3674.0,15.7
+FLT00045,DST0023,Lufthansa,Economy,375.0,4.7
+FLT00046,DST0023,Ryanair,Economy,402.0,3.6
+FLT00047,DST0024,Turkish Airlines,First,1117.0,3.8
+FLT00048,DST0024,Nouvelair,Economy,392.0,3.5
+FLT00049,DST0025,Tunisair,Economy,1038.0,10.5
+FLT00050,DST0025,Turkish Airlines,Economy,1303.0,10.8
+FLT00051,DST0026,Nouvelair,Economy,608.0,8.5
+FLT00052,DST0026,Emirates,Economy,718.0,7.9
+FLT00053,DST0027,Emirates,Economy,459.0,2.7
+FLT00054,DST0027,Air France,Economy,454.0,2.3
+FLT00055,DST0028,Air France,Economy,1208.0,11.1
+FLT00056,DST0028,Emirates,Economy,1278.0,11.6
+FLT00057,DST0029,Turkish Airlines,Economy,373.0,4.5
+FLT00058,DST0029,Lufthansa,Economy,384.0,2.6
+FLT00059,DST0030,Tunisair,Economy,309.0,3.2
+FLT00060,DST0030,Lufthansa,Economy,301.0,1.6
+FLT00061,DST0031,Tunisair,First,4662.0,18.5
+FLT00062,DST0031,Ryanair,First,3585.0,19.5
+FLT00063,DST0032,Lufthansa,First,1814.0,7.8
+FLT00064,DST0032,Emirates,Economy,623.0,4.1
+FLT00065,DST0033,Turkish Airlines,Economy,667.0,4.8
+FLT00066,DST0033,Nouvelair,Business,1303.0,5.9
+FLT00067,DST0034,Air France,Economy,302.0,3.4
+FLT00068,DST0034,Turkish Airlines,Economy,329.0,3.0
+FLT00069,DST0035,Emirates,First,915.0,3.5
+FLT00070,DST0035,Ryanair,Economy,337.0,4.2
+FLT00071,DST0036,Lufthansa,Economy,578.0,9.0
+FLT00072,DST0036,Air France,Economy,713.0,8.2
+FLT00073,DST0037,Emirates,Business,2038.0,12.2
+FLT00074,DST0037,Emirates,Economy,1078.0,10.8
+FLT00075,DST0038,Lufthansa,Economy,982.0,11.4
+FLT00076,DST0038,Lufthansa,Business,2281.0,12.1
+FLT00077,DST0039,Nouvelair,Economy,385.0,3.1
+FLT00078,DST0039,Air France,Economy,398.0,3.8
+FLT00079,DST0040,Nouvelair,Economy,729.0,5.9
+FLT00080,DST0040,Emirates,Economy,682.0,4.7
+FLT00081,DST0041,Tunisair,First,988.0,1.9
+FLT00082,DST0041,Turkish Airlines,Business,628.0,1.6
+FLT00083,DST0042,Ryanair,Economy,475.0,3.9
+FLT00084,DST0042,Tunisair,Economy,370.0,3.6
+FLT00085,DST0043,Ryanair,Economy,627.0,4.4
+FLT00086,DST0043,Lufthansa,Economy,584.0,5.7
+FLT00087,DST0044,Tunisair,Economy,1193.0,10.5
+FLT00088,DST0044,Emirates,Economy,1171.0,10.7
+FLT00089,DST0045,Ryanair,Economy,723.0,7.6
+FLT00090,DST0045,Tunisair,Business,1096.0,5.2

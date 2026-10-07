@@ -1,0 +1,501 @@
+client_id,prenom,nom,age,sexe,ville,statut_familial,revenu_mensuel_tnd,segment_latent,date_inscription,source_client
+CLI00001,Emilia,Clarke,49,M,Ariana,Célibataire,2024,Luxe,2026-05-19,réel
+CLI00002,Sherlock,Holmes,30,M,Tunis,Célibataire,1344,Farniente,2021-04-18,réel
+CLI00003,Matt,Murdock,28,F,Kairouan,Marié(e) avec enfants,1079,Culturel,2022-04-18,réel
+CLI00004,Jessica,Jones,46,M,Gabès,Célibataire,1351,Familial,2024-06-10,réel
+CLI00005,Oliver,Queen,59,F,Kairouan,Marié(e) avec enfants,3613,Culturel,2026-06-15,réel
+CLI00006,Amelia,Earhart,24,M,Sousse,Marié(e),3506,Luxe,2022-01-21,réel
+CLI00007,Elektra,Natchios,32,F,Sousse,Célibataire,2761,Familial,2021-06-02,réel
+CLI00008,Amberle,Elessedil,18,M,Monastir,Célibataire,3670,Farniente,2020-12-04,réel
+CLI00009,Emma,Swan,43,F,Kairouan,Marié(e) avec enfants,4985,Culturel,2025-11-22,réel
+CLI00010,Harry,Potter,36,F,Sfax,Marié(e) avec enfants,3779,Aventurier,2023-03-13,réel
+CLI00011,Luke,Cage,54,M,Sfax,Célibataire,3484,Budget,2022-12-26,réel
+CLI00012,Luke,Murdock,38,M,Nabeul,Marié(e),3480,Budget,2022-11-27,augmenté
+CLI00013,Emilia,Queen,18,M,Gabès,Marié(e) avec enfants,4897,Familial,2021-06-28,augmenté
+CLI00014,Oliver,Holmes,36,F,Gafsa,Marié(e),1373,Farniente,2021-05-28,augmenté
+CLI00015,Luke,Earhart,46,F,Sousse,Marié(e),3984,Familial,2025-11-09,augmenté
+CLI00016,Sherlock,Potter,27,F,Kairouan,Célibataire,2495,Farniente,2024-10-04,augmenté
+CLI00017,Emilia,Queen,50,M,Gafsa,Célibataire,2424,Culturel,2023-08-11,augmenté
+CLI00018,Emma,Earhart,23,M,Tunis,Marié(e),3042,Aventurier,2023-02-13,augmenté
+CLI00019,Jessica,Elessedil,35,M,Monastir,Célibataire,1078,Culturel,2025-08-17,augmenté
+CLI00020,Matt,Natchios,54,F,Gafsa,Marié(e) avec enfants,1838,Culturel,2021-05-28,augmenté
+CLI00021,Harry,Natchios,38,F,Bizerte,Marié(e),2294,Farniente,2025-02-26,augmenté
+CLI00022,Harry,Murdock,25,M,Monastir,Marié(e),6802,Familial,2022-07-15,augmenté
+CLI00023,Matt,Potter,30,F,Monastir,Marié(e),5154,Farniente,2021-10-20,augmenté
+CLI00024,Amelia,Queen,22,M,Nabeul,Marié(e) avec enfants,2911,Budget,2022-02-28,augmenté
+CLI00025,Matt,Murdock,18,M,Kairouan,Marié(e) avec enfants,3443,Aventurier,2026-06-03,augmenté
+CLI00026,Amberle,Earhart,48,M,Sousse,Marié(e) avec enfants,3339,Familial,2022-10-01,augmenté
+CLI00027,Oliver,Earhart,47,F,Tunis,Marié(e),1926,Budget,2025-03-03,augmenté
+CLI00028,Amelia,Queen,45,M,Monastir,Célibataire,2922,Culturel,2024-02-27,augmenté
+CLI00029,Elektra,Potter,43,F,Gabès,Célibataire,4608,Budget,2025-09-30,augmenté
+CLI00030,Emma,Cage,31,F,Gabès,Marié(e) avec enfants,5003,Culturel,2023-07-25,augmenté
+CLI00031,Sherlock,Queen,43,F,Monastir,Marié(e) avec enfants,3321,Familial,2021-07-18,augmenté
+CLI00032,Oliver,Murdock,36,F,Ariana,Célibataire,3960,Aventurier,2026-04-07,augmenté
+CLI00033,Amberle,Elessedil,50,F,Tunis,Célibataire,2253,Culturel,2021-06-15,augmenté
+CLI00034,Emilia,Natchios,18,M,Ariana,Célibataire,700,Luxe,2023-05-02,augmenté
+CLI00035,Emilia,Jones,55,F,Bizerte,Marié(e),4359,Familial,2024-01-09,augmenté
+CLI00036,Harry,Queen,50,M,Monastir,Marié(e),4652,Budget,2024-05-24,augmenté
+CLI00037,Amberle,Queen,31,F,Sousse,Marié(e),5179,Culturel,2026-05-14,augmenté
+CLI00038,Harry,Cage,32,F,Ariana,Marié(e) avec enfants,1551,Luxe,2020-12-15,augmenté
+CLI00039,Harry,Elessedil,29,F,Bizerte,Marié(e) avec enfants,2916,Culturel,2024-05-11,augmenté
+CLI00040,Oliver,Elessedil,38,M,Sousse,Marié(e) avec enfants,4886,Aventurier,2021-05-06,augmenté
+CLI00041,Amberle,Swan,46,M,Kairouan,Marié(e) avec enfants,1814,Budget,2022-02-13,augmenté
+CLI00042,Emilia,Earhart,36,F,Ariana,Marié(e) avec enfants,830,Culturel,2022-12-23,augmenté
+CLI00043,Oliver,Potter,56,M,Sfax,Marié(e),4393,Farniente,2020-10-24,augmenté
+CLI00044,Luke,Holmes,18,F,Kairouan,Célibataire,2579,Budget,2024-07-15,augmenté
+CLI00045,Elektra,Jones,38,F,Kairouan,Célibataire,2876,Culturel,2026-06-15,augmenté
+CLI00046,Sherlock,Queen,46,M,Kairouan,Célibataire,3148,Culturel,2026-03-22,augmenté
+CLI00047,Amberle,Clarke,43,F,Tunis,Célibataire,1980,Farniente,2024-01-08,augmenté
+CLI00048,Amberle,Murdock,18,M,Tunis,Marié(e),2843,Aventurier,2026-02-04,augmenté
+CLI00049,Amelia,Murdock,56,M,Ariana,Marié(e) avec enfants,3605,Aventurier,2024-06-08,augmenté
+CLI00050,Sherlock,Clarke,34,F,Nabeul,Célibataire,3879,Aventurier,2024-05-06,augmenté
+CLI00051,Elektra,Cage,28,M,Sousse,Célibataire,808,Culturel,2023-02-06,augmenté
+CLI00052,Amberle,Cage,50,F,Ariana,Célibataire,829,Budget,2021-02-22,augmenté
+CLI00053,Elektra,Queen,27,M,Tunis,Marié(e) avec enfants,3656,Aventurier,2026-05-27,augmenté
+CLI00054,Jessica,Cage,22,M,Gabès,Célibataire,5042,Farniente,2025-07-17,augmenté
+CLI00055,Emma,Holmes,18,M,Nabeul,Marié(e) avec enfants,2702,Budget,2020-11-09,augmenté
+CLI00056,Emilia,Holmes,41,F,Nabeul,Célibataire,3630,Aventurier,2025-12-23,augmenté
+CLI00057,Amelia,Cage,18,M,Gafsa,Célibataire,4744,Culturel,2020-11-26,augmenté
+CLI00058,Emilia,Queen,51,F,Gafsa,Célibataire,2543,Familial,2025-09-09,augmenté
+CLI00059,Luke,Elessedil,44,F,Ariana,Marié(e),3061,Farniente,2021-12-12,augmenté
+CLI00060,Harry,Holmes,65,M,Gabès,Marié(e) avec enfants,2712,Aventurier,2022-10-22,augmenté
+CLI00061,Luke,Jones,40,F,Monastir,Marié(e) avec enfants,4003,Familial,2026-05-11,augmenté
+CLI00062,Oliver,Elessedil,18,F,Sfax,Marié(e),2394,Farniente,2025-08-17,augmenté
+CLI00063,Sherlock,Queen,39,F,Monastir,Marié(e),1735,Farniente,2026-06-17,augmenté
+CLI00064,Elektra,Murdock,18,M,Sousse,Célibataire,4085,Familial,2026-05-07,augmenté
+CLI00065,Luke,Cage,49,F,Monastir,Marié(e) avec enfants,4129,Budget,2022-06-18,augmenté
+CLI00066,Oliver,Clarke,50,M,Ariana,Célibataire,4367,Familial,2023-07-31,augmenté
+CLI00067,Harry,Potter,43,F,Nabeul,Célibataire,700,Luxe,2025-09-16,augmenté
+CLI00068,Amberle,Holmes,34,F,Sfax,Marié(e),4119,Culturel,2024-01-25,augmenté
+CLI00069,Elektra,Clarke,47,F,Gabès,Marié(e),4463,Familial,2023-07-22,augmenté
+CLI00070,Harry,Natchios,18,M,Gafsa,Marié(e) avec enfants,5067,Culturel,2022-11-13,augmenté
+CLI00071,Emilia,Potter,41,M,Nabeul,Célibataire,1668,Budget,2025-02-17,augmenté
+CLI00072,Sherlock,Murdock,18,F,Gafsa,Marié(e) avec enfants,6836,Aventurier,2021-10-10,augmenté
+CLI00073,Emma,Natchios,30,M,Sfax,Célibataire,700,Luxe,2021-01-21,augmenté
+CLI00074,Emma,Clarke,34,F,Gabès,Célibataire,1865,Budget,2021-01-13,augmenté
+CLI00075,Amelia,Natchios,34,M,Gafsa,Marié(e) avec enfants,3130,Budget,2021-07-05,augmenté
+CLI00076,Jessica,Cage,46,M,Sfax,Célibataire,2533,Culturel,2022-10-27,augmenté
+CLI00077,Emma,Clarke,45,F,Nabeul,Marié(e) avec enfants,3855,Budget,2026-06-24,augmenté
+CLI00078,Matt,Jones,44,M,Tunis,Célibataire,2677,Budget,2024-04-19,augmenté
+CLI00079,Matt,Earhart,23,F,Gafsa,Célibataire,700,Luxe,2023-12-03,augmenté
+CLI00080,Sherlock,Potter,27,M,Monastir,Célibataire,4121,Familial,2024-01-05,augmenté
+CLI00081,Amelia,Elessedil,62,M,Gabès,Marié(e) avec enfants,3263,Familial,2026-07-11,augmenté
+CLI00082,Sherlock,Elessedil,30,M,Monastir,Marié(e) avec enfants,4470,Budget,2022-12-09,augmenté
+CLI00083,Luke,Clarke,38,F,Gafsa,Marié(e) avec enfants,4026,Budget,2021-12-16,augmenté
+CLI00084,Jessica,Cage,51,F,Sfax,Marié(e) avec enfants,2966,Familial,2022-04-25,augmenté
+CLI00085,Elektra,Holmes,39,M,Sfax,Marié(e),3467,Farniente,2020-12-21,augmenté
+CLI00086,Amberle,Murdock,38,M,Gabès,Célibataire,4860,Aventurier,2022-09-11,augmenté
+CLI00087,Jessica,Jones,35,M,Kairouan,Marié(e) avec enfants,2939,Familial,2023-10-11,augmenté
+CLI00088,Amelia,Clarke,33,F,Nabeul,Célibataire,6028,Aventurier,2024-01-12,augmenté
+CLI00089,Emilia,Earhart,29,M,Sfax,Célibataire,2405,Culturel,2021-02-17,augmenté
+CLI00090,Jessica,Clarke,46,M,Sfax,Marié(e) avec enfants,3324,Aventurier,2023-08-14,augmenté
+CLI00091,Jessica,Earhart,51,M,Kairouan,Célibataire,700,Aventurier,2025-01-24,augmenté
+CLI00092,Matt,Clarke,31,M,Gafsa,Marié(e) avec enfants,4530,Familial,2022-03-23,augmenté
+CLI00093,Oliver,Elessedil,33,M,Gabès,Marié(e) avec enfants,3843,Familial,2025-09-02,augmenté
+CLI00094,Harry,Murdock,45,M,Gafsa,Célibataire,5493,Farniente,2021-06-28,augmenté
+CLI00095,Emma,Earhart,56,M,Tunis,Célibataire,4376,Luxe,2025-07-18,augmenté
+CLI00096,Sherlock,Holmes,30,F,Tunis,Marié(e) avec enfants,982,Culturel,2022-12-31,augmenté
+CLI00097,Emma,Elessedil,47,F,Kairouan,Marié(e),2331,Familial,2021-12-25,augmenté
+CLI00098,Jessica,Clarke,43,F,Bizerte,Célibataire,1973,Luxe,2021-04-15,augmenté
+CLI00099,Elektra,Holmes,38,M,Ariana,Célibataire,4084,Budget,2026-03-27,augmenté
+CLI00100,Emilia,Elessedil,26,M,Sfax,Marié(e),5736,Luxe,2023-02-06,augmenté
+CLI00101,Jessica,Cage,42,M,Sousse,Célibataire,4111,Culturel,2026-07-26,augmenté
+CLI00102,Harry,Cage,61,F,Sousse,Célibataire,5625,Familial,2022-05-09,augmenté
+CLI00103,Elektra,Jones,50,M,Sfax,Célibataire,2939,Familial,2025-10-14,augmenté
+CLI00104,Matt,Earhart,50,F,Sousse,Célibataire,2514,Farniente,2021-11-13,augmenté
+CLI00105,Amelia,Clarke,75,M,Bizerte,Marié(e),4783,Budget,2025-03-19,augmenté
+CLI00106,Sherlock,Clarke,34,M,Sfax,Marié(e),2626,Culturel,2022-06-03,augmenté
+CLI00107,Jessica,Earhart,38,M,Gabès,Marié(e) avec enfants,1411,Familial,2025-03-05,augmenté
+CLI00108,Matt,Potter,19,M,Kairouan,Marié(e) avec enfants,3653,Familial,2025-02-10,augmenté
+CLI00109,Amberle,Natchios,34,M,Sfax,Marié(e) avec enfants,1582,Farniente,2021-01-14,augmenté
+CLI00110,Oliver,Clarke,41,M,Ariana,Marié(e),1021,Familial,2024-11-25,augmenté
+CLI00111,Emma,Clarke,34,M,Bizerte,Célibataire,4022,Culturel,2025-01-18,augmenté
+CLI00112,Luke,Queen,39,M,Monastir,Marié(e),5292,Farniente,2022-02-03,augmenté
+CLI00113,Amelia,Cage,40,M,Ariana,Célibataire,3099,Aventurier,2023-01-08,augmenté
+CLI00114,Elektra,Murdock,37,F,Ariana,Célibataire,2934,Culturel,2023-11-12,augmenté
+CLI00115,Sherlock,Elessedil,43,M,Kairouan,Célibataire,3294,Familial,2024-02-10,augmenté
+CLI00116,Jessica,Holmes,42,F,Kairouan,Célibataire,3587,Farniente,2022-11-04,augmenté
+CLI00117,Emilia,Natchios,30,M,Tunis,Célibataire,3056,Budget,2025-10-18,augmenté
+CLI00118,Amberle,Swan,37,M,Gabès,Marié(e) avec enfants,1692,Familial,2021-02-24,augmenté
+CLI00119,Emma,Potter,46,F,Tunis,Marié(e),3679,Farniente,2025-01-19,augmenté
+CLI00120,Emma,Queen,24,M,Kairouan,Marié(e),3990,Luxe,2025-04-10,augmenté
+CLI00121,Sherlock,Holmes,42,M,Kairouan,Marié(e),4305,Budget,2022-11-18,augmenté
+CLI00122,Oliver,Clarke,33,F,Tunis,Marié(e),5432,Culturel,2022-07-12,augmenté
+CLI00123,Matt,Earhart,27,M,Gafsa,Célibataire,5498,Aventurier,2023-12-29,augmenté
+CLI00124,Harry,Elessedil,50,F,Gabès,Célibataire,2564,Culturel,2023-05-27,augmenté
+CLI00125,Oliver,Jones,37,F,Gabès,Célibataire,4151,Luxe,2024-03-09,augmenté
+CLI00126,Elektra,Queen,44,F,Kairouan,Célibataire,3345,Budget,2025-09-27,augmenté
+CLI00127,Jessica,Queen,37,M,Ariana,Marié(e),4559,Farniente,2022-01-18,augmenté
+CLI00128,Sherlock,Holmes,30,F,Ariana,Marié(e) avec enfants,1824,Farniente,2023-02-07,augmenté
+CLI00129,Elektra,Elessedil,35,F,Monastir,Marié(e),2048,Familial,2021-07-28,augmenté
+CLI00130,Luke,Natchios,36,F,Ariana,Célibataire,6764,Luxe,2025-03-14,augmenté
+CLI00131,Emma,Potter,42,M,Sfax,Marié(e) avec enfants,1458,Budget,2023-01-08,augmenté
+CLI00132,Jessica,Natchios,29,M,Gabès,Célibataire,3535,Familial,2022-08-15,augmenté
+CLI00133,Matt,Holmes,28,F,Ariana,Célibataire,1363,Culturel,2023-12-03,augmenté
+CLI00134,Emma,Swan,39,M,Nabeul,Marié(e) avec enfants,3780,Budget,2022-04-22,augmenté
+CLI00135,Luke,Natchios,28,M,Nabeul,Marié(e) avec enfants,3745,Farniente,2023-07-18,augmenté
+CLI00136,Jessica,Elessedil,52,F,Kairouan,Célibataire,915,Familial,2022-11-09,augmenté
+CLI00137,Jessica,Clarke,56,F,Monastir,Marié(e) avec enfants,2470,Familial,2026-03-10,augmenté
+CLI00138,Sherlock,Murdock,40,F,Sfax,Célibataire,1558,Luxe,2023-06-20,augmenté
+CLI00139,Matt,Holmes,23,M,Gabès,Célibataire,4415,Culturel,2022-08-12,augmenté
+CLI00140,Emma,Natchios,18,M,Monastir,Marié(e) avec enfants,3044,Luxe,2024-10-29,augmenté
+CLI00141,Elektra,Murdock,27,M,Kairouan,Célibataire,4898,Aventurier,2026-03-21,augmenté
+CLI00142,Amberle,Natchios,39,M,Bizerte,Célibataire,3417,Budget,2022-06-15,augmenté
+CLI00143,Sherlock,Holmes,67,F,Bizerte,Célibataire,1491,Culturel,2021-07-07,augmenté
+CLI00144,Harry,Jones,29,M,Gabès,Célibataire,3828,Budget,2025-09-09,augmenté
+CLI00145,Emilia,Potter,31,M,Kairouan,Célibataire,5266,Luxe,2021-12-27,augmenté
+CLI00146,Elektra,Jones,51,M,Ariana,Marié(e) avec enfants,2592,Familial,2021-08-31,augmenté
+CLI00147,Emma,Earhart,31,M,Bizerte,Marié(e),1767,Farniente,2024-05-17,augmenté
+CLI00148,Emma,Earhart,41,F,Bizerte,Célibataire,2346,Aventurier,2023-12-27,augmenté
+CLI00149,Jessica,Holmes,35,F,Sfax,Marié(e),3268,Farniente,2022-05-29,augmenté
+CLI00150,Sherlock,Cage,35,F,Gafsa,Célibataire,1105,Familial,2023-12-08,augmenté
+CLI00151,Emma,Murdock,48,F,Monastir,Marié(e) avec enfants,4512,Aventurier,2021-09-16,augmenté
+CLI00152,Elektra,Jones,56,M,Sousse,Célibataire,4530,Aventurier,2022-06-30,augmenté
+CLI00153,Amelia,Natchios,43,F,Gabès,Marié(e) avec enfants,2392,Familial,2024-08-05,augmenté
+CLI00154,Harry,Elessedil,18,F,Gabès,Marié(e) avec enfants,1808,Luxe,2024-09-16,augmenté
+CLI00155,Elektra,Queen,37,M,Sousse,Célibataire,2579,Culturel,2024-12-31,augmenté
+CLI00156,Jessica,Earhart,27,F,Sfax,Marié(e),3608,Culturel,2025-06-18,augmenté
+CLI00157,Emilia,Potter,29,F,Sfax,Célibataire,4332,Budget,2024-09-01,augmenté
+CLI00158,Amelia,Elessedil,29,M,Tunis,Marié(e),3026,Farniente,2022-09-07,augmenté
+CLI00159,Amberle,Elessedil,49,F,Monastir,Célibataire,2688,Aventurier,2025-07-05,augmenté
+CLI00160,Jessica,Queen,40,F,Sousse,Marié(e) avec enfants,3530,Culturel,2025-06-07,augmenté
+CLI00161,Matt,Cage,37,M,Kairouan,Célibataire,4957,Culturel,2022-12-12,augmenté
+CLI00162,Emilia,Elessedil,40,F,Bizerte,Marié(e),1209,Familial,2023-12-28,augmenté
+CLI00163,Emma,Swan,56,F,Bizerte,Célibataire,4547,Budget,2021-09-10,augmenté
+CLI00164,Amberle,Holmes,37,M,Sfax,Célibataire,5339,Luxe,2023-01-13,augmenté
+CLI00165,Emilia,Elessedil,44,M,Ariana,Marié(e),2866,Luxe,2024-04-23,augmenté
+CLI00166,Amelia,Jones,28,F,Monastir,Marié(e) avec enfants,2890,Farniente,2024-09-30,augmenté
+CLI00167,Harry,Natchios,34,M,Monastir,Marié(e),3623,Budget,2021-05-07,augmenté
+CLI00168,Elektra,Cage,18,F,Gabès,Marié(e) avec enfants,2040,Farniente,2024-07-08,augmenté
+CLI00169,Luke,Holmes,48,M,Gabès,Marié(e),4933,Farniente,2025-05-13,augmenté
+CLI00170,Amberle,Murdock,38,M,Gafsa,Marié(e) avec enfants,5735,Farniente,2021-08-12,augmenté
+CLI00171,Amberle,Potter,45,F,Bizerte,Célibataire,4035,Luxe,2025-03-20,augmenté
+CLI00172,Harry,Holmes,47,F,Sfax,Célibataire,5537,Farniente,2021-10-27,augmenté
+CLI00173,Emma,Jones,42,M,Gafsa,Marié(e) avec enfants,3523,Luxe,2021-02-26,augmenté
+CLI00174,Emma,Jones,40,M,Bizerte,Célibataire,2564,Farniente,2023-07-19,augmenté
+CLI00175,Jessica,Jones,28,M,Monastir,Célibataire,2558,Familial,2022-07-16,augmenté
+CLI00176,Harry,Earhart,33,F,Monastir,Célibataire,2617,Aventurier,2025-03-09,augmenté
+CLI00177,Harry,Natchios,23,F,Sousse,Marié(e),3172,Familial,2024-12-31,augmenté
+CLI00178,Matt,Earhart,30,M,Bizerte,Célibataire,3974,Familial,2020-12-19,augmenté
+CLI00179,Emilia,Natchios,32,F,Gafsa,Marié(e) avec enfants,2384,Farniente,2025-04-28,augmenté
+CLI00180,Emilia,Clarke,35,M,Nabeul,Marié(e),1341,Luxe,2025-07-14,augmenté
+CLI00181,Oliver,Swan,37,M,Tunis,Marié(e) avec enfants,4205,Luxe,2021-01-26,augmenté
+CLI00182,Matt,Queen,58,F,Gabès,Marié(e),2624,Aventurier,2025-01-13,augmenté
+CLI00183,Oliver,Potter,44,F,Nabeul,Marié(e),4472,Budget,2024-11-17,augmenté
+CLI00184,Emilia,Elessedil,55,M,Gafsa,Marié(e) avec enfants,2356,Familial,2021-07-22,augmenté
+CLI00185,Amberle,Swan,43,F,Monastir,Marié(e) avec enfants,1833,Budget,2026-03-07,augmenté
+CLI00186,Amelia,Potter,27,M,Bizerte,Marié(e),2195,Budget,2023-03-14,augmenté
+CLI00187,Luke,Swan,32,M,Monastir,Marié(e),4699,Farniente,2022-09-24,augmenté
+CLI00188,Amberle,Natchios,29,F,Ariana,Marié(e) avec enfants,3882,Culturel,2022-12-19,augmenté
+CLI00189,Oliver,Murdock,44,F,Gabès,Marié(e),2419,Familial,2025-08-11,augmenté
+CLI00190,Emma,Swan,25,F,Tunis,Marié(e),2349,Aventurier,2024-12-27,augmenté
+CLI00191,Sherlock,Potter,57,M,Kairouan,Marié(e) avec enfants,3535,Luxe,2022-02-25,augmenté
+CLI00192,Harry,Queen,55,M,Sousse,Marié(e) avec enfants,1625,Aventurier,2026-05-11,augmenté
+CLI00193,Amelia,Elessedil,45,M,Sousse,Marié(e) avec enfants,2776,Familial,2024-12-14,augmenté
+CLI00194,Elektra,Queen,28,M,Monastir,Marié(e) avec enfants,4826,Aventurier,2022-01-11,augmenté
+CLI00195,Amelia,Jones,28,M,Ariana,Marié(e),2791,Budget,2020-11-10,augmenté
+CLI00196,Sherlock,Swan,19,M,Sousse,Célibataire,1403,Aventurier,2022-04-22,augmenté
+CLI00197,Jessica,Natchios,26,F,Monastir,Célibataire,5033,Familial,2025-10-14,augmenté
+CLI00198,Amberle,Elessedil,31,F,Monastir,Marié(e),2064,Farniente,2024-02-24,augmenté
+CLI00199,Jessica,Earhart,49,F,Sfax,Célibataire,4367,Familial,2025-12-01,augmenté
+CLI00200,Amelia,Clarke,32,M,Gabès,Marié(e),3068,Luxe,2021-05-19,augmenté
+CLI00201,Amelia,Earhart,34,F,Nabeul,Célibataire,3676,Budget,2023-06-21,augmenté
+CLI00202,Sherlock,Jones,31,M,Ariana,Célibataire,3745,Budget,2021-04-25,augmenté
+CLI00203,Oliver,Murdock,28,M,Sousse,Marié(e) avec enfants,3579,Farniente,2022-08-20,augmenté
+CLI00204,Emma,Cage,41,M,Sousse,Marié(e) avec enfants,1340,Budget,2023-03-16,augmenté
+CLI00205,Harry,Queen,50,M,Sfax,Célibataire,3541,Aventurier,2021-12-22,augmenté
+CLI00206,Sherlock,Potter,32,M,Sousse,Célibataire,5921,Luxe,2022-01-15,augmenté
+CLI00207,Sherlock,Holmes,18,M,Nabeul,Célibataire,3857,Farniente,2021-01-06,augmenté
+CLI00208,Matt,Jones,25,F,Gafsa,Célibataire,2366,Budget,2025-03-02,augmenté
+CLI00209,Jessica,Jones,23,F,Sfax,Marié(e) avec enfants,4213,Budget,2024-04-24,augmenté
+CLI00210,Amelia,Cage,46,M,Gabès,Marié(e),2668,Aventurier,2026-03-28,augmenté
+CLI00211,Matt,Murdock,24,M,Monastir,Célibataire,2937,Budget,2025-11-09,augmenté
+CLI00212,Amelia,Natchios,26,F,Nabeul,Marié(e),3957,Aventurier,2023-12-11,augmenté
+CLI00213,Emma,Cage,48,M,Kairouan,Célibataire,6279,Luxe,2025-07-15,augmenté
+CLI00214,Jessica,Elessedil,44,M,Gabès,Célibataire,3320,Farniente,2020-10-10,augmenté
+CLI00215,Luke,Swan,31,F,Nabeul,Marié(e),4530,Aventurier,2022-02-03,augmenté
+CLI00216,Emilia,Murdock,58,F,Bizerte,Célibataire,3694,Farniente,2024-10-25,augmenté
+CLI00217,Emilia,Queen,54,M,Monastir,Marié(e) avec enfants,3571,Aventurier,2023-12-14,augmenté
+CLI00218,Amberle,Natchios,45,F,Sousse,Marié(e) avec enfants,2284,Culturel,2025-03-08,augmenté
+CLI00219,Amelia,Elessedil,18,M,Nabeul,Marié(e),5205,Budget,2026-02-19,augmenté
+CLI00220,Jessica,Earhart,34,F,Monastir,Marié(e),2909,Familial,2022-11-01,augmenté
+CLI00221,Amelia,Earhart,18,F,Monastir,Célibataire,2584,Farniente,2024-08-17,augmenté
+CLI00222,Harry,Clarke,18,F,Bizerte,Célibataire,6415,Culturel,2026-03-28,augmenté
+CLI00223,Amelia,Clarke,31,F,Tunis,Célibataire,2767,Aventurier,2025-09-10,augmenté
+CLI00224,Harry,Cage,28,F,Tunis,Célibataire,4361,Aventurier,2024-05-22,augmenté
+CLI00225,Matt,Cage,31,F,Tunis,Célibataire,3174,Culturel,2022-06-21,augmenté
+CLI00226,Matt,Elessedil,50,F,Ariana,Marié(e) avec enfants,4280,Budget,2021-04-12,augmenté
+CLI00227,Harry,Queen,56,F,Bizerte,Marié(e) avec enfants,2523,Aventurier,2024-08-20,augmenté
+CLI00228,Sherlock,Jones,39,M,Monastir,Marié(e) avec enfants,700,Culturel,2021-10-07,augmenté
+CLI00229,Emilia,Potter,29,M,Sfax,Marié(e) avec enfants,2463,Farniente,2026-05-04,augmenté
+CLI00230,Harry,Holmes,56,M,Kairouan,Marié(e) avec enfants,3832,Aventurier,2024-11-26,augmenté
+CLI00231,Amberle,Holmes,25,F,Ariana,Marié(e) avec enfants,824,Aventurier,2021-07-17,augmenté
+CLI00232,Emilia,Swan,30,F,Sfax,Marié(e),4557,Familial,2022-08-16,augmenté
+CLI00233,Elektra,Swan,43,M,Sousse,Marié(e),2827,Farniente,2021-06-14,augmenté
+CLI00234,Emma,Natchios,55,M,Tunis,Marié(e),700,Farniente,2023-07-02,augmenté
+CLI00235,Sherlock,Elessedil,52,F,Bizerte,Célibataire,2634,Aventurier,2024-05-06,augmenté
+CLI00236,Harry,Holmes,39,F,Tunis,Célibataire,2412,Luxe,2026-04-13,augmenté
+CLI00237,Oliver,Elessedil,35,M,Gabès,Célibataire,5847,Culturel,2021-06-03,augmenté
+CLI00238,Amberle,Cage,32,F,Gabès,Célibataire,725,Luxe,2021-07-23,augmenté
+CLI00239,Oliver,Potter,20,M,Gafsa,Marié(e) avec enfants,3069,Aventurier,2021-11-19,augmenté
+CLI00240,Luke,Jones,40,M,Kairouan,Célibataire,3174,Aventurier,2021-05-02,augmenté
+CLI00241,Elektra,Murdock,42,F,Gabès,Célibataire,3959,Farniente,2024-07-16,augmenté
+CLI00242,Oliver,Cage,48,F,Sousse,Célibataire,4545,Luxe,2023-01-21,augmenté
+CLI00243,Sherlock,Cage,18,M,Gafsa,Marié(e) avec enfants,4194,Farniente,2020-09-25,augmenté
+CLI00244,Matt,Queen,48,F,Gabès,Marié(e),3318,Familial,2021-05-25,augmenté
+CLI00245,Amelia,Earhart,36,M,Bizerte,Marié(e),2693,Aventurier,2023-12-14,augmenté
+CLI00246,Harry,Earhart,41,M,Kairouan,Marié(e),3727,Aventurier,2021-10-10,augmenté
+CLI00247,Harry,Jones,37,F,Gafsa,Célibataire,4095,Farniente,2025-07-14,augmenté
+CLI00248,Emilia,Murdock,29,F,Bizerte,Marié(e) avec enfants,700,Budget,2021-12-10,augmenté
+CLI00249,Matt,Swan,18,F,Gabès,Marié(e),1767,Aventurier,2022-12-09,augmenté
+CLI00250,Elektra,Holmes,28,M,Gabès,Célibataire,4773,Culturel,2021-08-09,augmenté
+CLI00251,Sherlock,Swan,49,F,Sousse,Marié(e) avec enfants,4534,Farniente,2025-02-21,augmenté
+CLI00252,Emma,Queen,44,F,Tunis,Marié(e) avec enfants,3789,Familial,2026-01-28,augmenté
+CLI00253,Sherlock,Elessedil,30,F,Kairouan,Célibataire,1856,Culturel,2025-06-29,augmenté
+CLI00254,Amberle,Murdock,49,F,Sousse,Marié(e),5615,Luxe,2020-11-23,augmenté
+CLI00255,Sherlock,Elessedil,46,M,Monastir,Célibataire,2537,Aventurier,2025-05-24,augmenté
+CLI00256,Sherlock,Natchios,45,F,Kairouan,Célibataire,2095,Culturel,2022-04-09,augmenté
+CLI00257,Oliver,Natchios,32,F,Gabès,Marié(e),3310,Farniente,2022-05-13,augmenté
+CLI00258,Emma,Earhart,38,M,Bizerte,Marié(e),4149,Farniente,2022-07-29,augmenté
+CLI00259,Sherlock,Holmes,42,M,Bizerte,Célibataire,3866,Familial,2023-10-06,augmenté
+CLI00260,Elektra,Elessedil,44,M,Sfax,Marié(e) avec enfants,700,Farniente,2024-04-19,augmenté
+CLI00261,Emma,Clarke,37,M,Kairouan,Marié(e) avec enfants,3200,Farniente,2021-09-02,augmenté
+CLI00262,Elektra,Elessedil,37,F,Sousse,Marié(e),1998,Familial,2024-11-22,augmenté
+CLI00263,Sherlock,Jones,51,M,Monastir,Marié(e) avec enfants,2976,Familial,2026-01-31,augmenté
+CLI00264,Oliver,Clarke,49,F,Monastir,Marié(e) avec enfants,700,Familial,2021-02-13,augmenté
+CLI00265,Elektra,Queen,36,F,Bizerte,Marié(e) avec enfants,3468,Familial,2025-03-12,augmenté
+CLI00266,Emma,Queen,38,F,Sousse,Marié(e),3195,Culturel,2023-10-28,augmenté
+CLI00267,Sherlock,Murdock,26,M,Gafsa,Marié(e) avec enfants,4929,Culturel,2020-12-07,augmenté
+CLI00268,Luke,Earhart,34,F,Sfax,Célibataire,4138,Budget,2023-05-08,augmenté
+CLI00269,Amberle,Natchios,25,M,Tunis,Marié(e) avec enfants,3393,Aventurier,2024-05-17,augmenté
+CLI00270,Luke,Murdock,33,F,Gabès,Marié(e) avec enfants,3920,Familial,2023-09-14,augmenté
+CLI00271,Oliver,Earhart,45,M,Tunis,Marié(e) avec enfants,2894,Farniente,2020-09-18,augmenté
+CLI00272,Jessica,Elessedil,18,M,Tunis,Marié(e),5176,Familial,2026-04-20,augmenté
+CLI00273,Harry,Cage,31,F,Kairouan,Marié(e),2931,Luxe,2021-12-23,augmenté
+CLI00274,Oliver,Swan,29,M,Gabès,Marié(e),700,Familial,2020-12-26,augmenté
+CLI00275,Elektra,Jones,41,F,Kairouan,Célibataire,4138,Budget,2022-07-29,augmenté
+CLI00276,Amberle,Murdock,46,M,Nabeul,Marié(e) avec enfants,3410,Familial,2023-08-10,augmenté
+CLI00277,Jessica,Potter,45,M,Kairouan,Célibataire,3462,Budget,2023-12-11,augmenté
+CLI00278,Luke,Potter,18,F,Sousse,Célibataire,3674,Farniente,2022-09-29,augmenté
+CLI00279,Oliver,Elessedil,26,F,Tunis,Marié(e) avec enfants,5412,Luxe,2025-04-13,augmenté
+CLI00280,Amelia,Elessedil,25,M,Ariana,Célibataire,2212,Familial,2024-09-30,augmenté
+CLI00281,Oliver,Jones,38,M,Ariana,Marié(e) avec enfants,1675,Luxe,2021-04-18,augmenté
+CLI00282,Oliver,Earhart,36,F,Sousse,Célibataire,2947,Farniente,2021-05-02,augmenté
+CLI00283,Amberle,Cage,54,F,Bizerte,Marié(e) avec enfants,700,Familial,2022-03-25,augmenté
+CLI00284,Amberle,Cage,45,M,Sousse,Célibataire,962,Budget,2022-03-06,augmenté
+CLI00285,Amelia,Earhart,43,F,Gabès,Marié(e) avec enfants,2048,Aventurier,2023-01-28,augmenté
+CLI00286,Sherlock,Natchios,53,F,Tunis,Marié(e),3770,Culturel,2021-02-04,augmenté
+CLI00287,Emilia,Cage,44,F,Ariana,Marié(e) avec enfants,3987,Budget,2026-04-02,augmenté
+CLI00288,Harry,Cage,43,F,Kairouan,Marié(e),2514,Aventurier,2024-01-16,augmenté
+CLI00289,Emma,Murdock,43,F,Nabeul,Célibataire,3189,Budget,2024-12-24,augmenté
+CLI00290,Jessica,Jones,45,F,Bizerte,Célibataire,700,Familial,2025-11-16,augmenté
+CLI00291,Oliver,Cage,50,F,Kairouan,Marié(e) avec enfants,2074,Culturel,2023-04-18,augmenté
+CLI00292,Emma,Jones,46,M,Ariana,Marié(e) avec enfants,5967,Luxe,2020-09-30,augmenté
+CLI00293,Elektra,Natchios,19,M,Sfax,Célibataire,2935,Budget,2024-03-26,augmenté
+CLI00294,Amberle,Swan,49,M,Ariana,Marié(e) avec enfants,2597,Farniente,2025-04-29,augmenté
+CLI00295,Oliver,Clarke,39,F,Monastir,Célibataire,3811,Culturel,2023-11-27,augmenté
+CLI00296,Jessica,Murdock,42,F,Gabès,Célibataire,2353,Culturel,2025-11-11,augmenté
+CLI00297,Oliver,Swan,37,F,Ariana,Célibataire,4166,Aventurier,2022-11-05,augmenté
+CLI00298,Elektra,Earhart,18,F,Bizerte,Marié(e) avec enfants,4592,Aventurier,2025-09-09,augmenté
+CLI00299,Amelia,Murdock,36,M,Gabès,Marié(e) avec enfants,4132,Familial,2021-07-24,augmenté
+CLI00300,Luke,Murdock,43,M,Nabeul,Célibataire,4296,Farniente,2021-05-25,augmenté
+CLI00301,Amelia,Queen,34,M,Ariana,Célibataire,2705,Luxe,2021-08-20,augmenté
+CLI00302,Sherlock,Swan,25,M,Gafsa,Célibataire,2745,Farniente,2022-04-16,augmenté
+CLI00303,Oliver,Earhart,65,F,Monastir,Célibataire,2013,Familial,2023-08-08,augmenté
+CLI00304,Elektra,Cage,44,F,Gafsa,Célibataire,2615,Familial,2024-07-15,augmenté
+CLI00305,Amelia,Jones,49,M,Nabeul,Marié(e),3815,Budget,2023-08-13,augmenté
+CLI00306,Emilia,Murdock,47,F,Sousse,Marié(e) avec enfants,700,Culturel,2021-04-27,augmenté
+CLI00307,Matt,Elessedil,39,M,Monastir,Marié(e) avec enfants,4705,Familial,2024-07-19,augmenté
+CLI00308,Matt,Earhart,42,M,Sousse,Marié(e) avec enfants,5746,Luxe,2025-07-23,augmenté
+CLI00309,Luke,Cage,38,M,Kairouan,Marié(e) avec enfants,2529,Budget,2022-06-01,augmenté
+CLI00310,Oliver,Elessedil,27,F,Sfax,Célibataire,4756,Farniente,2024-12-30,augmenté
+CLI00311,Amberle,Clarke,61,F,Kairouan,Célibataire,1796,Luxe,2026-03-30,augmenté
+CLI00312,Emma,Queen,24,M,Gabès,Célibataire,2214,Aventurier,2026-07-29,augmenté
+CLI00313,Elektra,Jones,49,M,Nabeul,Marié(e),4181,Budget,2026-01-14,augmenté
+CLI00314,Amelia,Elessedil,48,F,Monastir,Célibataire,3794,Budget,2025-08-21,augmenté
+CLI00315,Harry,Clarke,35,F,Sfax,Marié(e) avec enfants,3743,Aventurier,2024-10-05,augmenté
+CLI00316,Emma,Clarke,38,M,Gafsa,Marié(e) avec enfants,1104,Farniente,2024-06-30,augmenté
+CLI00317,Sherlock,Elessedil,30,F,Kairouan,Célibataire,3322,Familial,2026-01-10,augmenté
+CLI00318,Emma,Earhart,42,F,Sfax,Marié(e) avec enfants,1959,Familial,2022-09-09,augmenté
+CLI00319,Amelia,Cage,36,F,Bizerte,Célibataire,4346,Familial,2024-08-02,augmenté
+CLI00320,Sherlock,Jones,56,M,Sfax,Célibataire,2899,Budget,2021-08-29,augmenté
+CLI00321,Emilia,Clarke,41,F,Ariana,Célibataire,3297,Culturel,2026-05-26,augmenté
+CLI00322,Harry,Earhart,46,F,Gafsa,Marié(e),1989,Budget,2022-11-21,augmenté
+CLI00323,Jessica,Cage,36,F,Gafsa,Célibataire,3222,Familial,2026-07-05,augmenté
+CLI00324,Jessica,Elessedil,36,F,Sfax,Célibataire,1837,Familial,2022-12-18,augmenté
+CLI00325,Elektra,Potter,18,M,Tunis,Célibataire,3012,Budget,2021-03-02,augmenté
+CLI00326,Luke,Elessedil,18,F,Gafsa,Célibataire,4156,Aventurier,2025-07-23,augmenté
+CLI00327,Emilia,Earhart,35,M,Ariana,Marié(e),4599,Budget,2023-04-23,augmenté
+CLI00328,Sherlock,Cage,35,M,Kairouan,Marié(e),2529,Budget,2023-04-06,augmenté
+CLI00329,Luke,Earhart,18,M,Sfax,Marié(e),2246,Aventurier,2023-12-17,augmenté
+CLI00330,Amelia,Earhart,27,M,Nabeul,Marié(e) avec enfants,5282,Aventurier,2020-12-17,augmenté
+CLI00331,Jessica,Murdock,39,F,Gafsa,Célibataire,1789,Aventurier,2024-08-01,augmenté
+CLI00332,Harry,Jones,24,M,Gabès,Célibataire,2510,Budget,2025-01-27,augmenté
+CLI00333,Harry,Clarke,44,F,Nabeul,Célibataire,2878,Culturel,2020-09-20,augmenté
+CLI00334,Amelia,Queen,27,F,Gabès,Marié(e),3444,Familial,2023-01-16,augmenté
+CLI00335,Jessica,Natchios,39,M,Sfax,Célibataire,4067,Culturel,2025-04-19,augmenté
+CLI00336,Amelia,Clarke,42,M,Ariana,Célibataire,5401,Farniente,2025-04-05,augmenté
+CLI00337,Matt,Jones,31,M,Monastir,Marié(e),2262,Aventurier,2026-03-23,augmenté
+CLI00338,Emma,Clarke,25,F,Sfax,Célibataire,5819,Culturel,2023-11-19,augmenté
+CLI00339,Amelia,Clarke,42,F,Nabeul,Célibataire,1780,Luxe,2022-08-21,augmenté
+CLI00340,Harry,Clarke,39,M,Tunis,Marié(e) avec enfants,4401,Farniente,2023-10-21,augmenté
+CLI00341,Emilia,Clarke,35,M,Ariana,Célibataire,3786,Luxe,2021-01-28,augmenté
+CLI00342,Emma,Earhart,48,M,Gafsa,Marié(e),4942,Familial,2025-03-30,augmenté
+CLI00343,Matt,Earhart,39,F,Sousse,Célibataire,1353,Familial,2023-12-29,augmenté
+CLI00344,Emma,Elessedil,35,M,Bizerte,Marié(e),1944,Aventurier,2021-06-08,augmenté
+CLI00345,Sherlock,Holmes,29,M,Monastir,Célibataire,2148,Culturel,2026-01-23,augmenté
+CLI00346,Jessica,Cage,36,F,Sfax,Marié(e) avec enfants,3017,Culturel,2020-10-03,augmenté
+CLI00347,Emilia,Swan,33,M,Gafsa,Marié(e),4038,Aventurier,2024-08-28,augmenté
+CLI00348,Emma,Potter,46,M,Bizerte,Célibataire,700,Luxe,2022-07-05,augmenté
+CLI00349,Oliver,Murdock,41,F,Kairouan,Marié(e) avec enfants,2191,Luxe,2023-02-05,augmenté
+CLI00350,Emilia,Natchios,44,F,Gabès,Marié(e),5256,Luxe,2025-04-14,augmenté
+CLI00351,Harry,Potter,33,F,Gafsa,Célibataire,2072,Culturel,2024-12-09,augmenté
+CLI00352,Luke,Holmes,56,F,Ariana,Marié(e) avec enfants,3221,Culturel,2022-11-26,augmenté
+CLI00353,Matt,Potter,48,M,Gafsa,Célibataire,3085,Culturel,2020-11-06,augmenté
+CLI00354,Amelia,Murdock,44,F,Ariana,Célibataire,1554,Luxe,2026-03-14,augmenté
+CLI00355,Luke,Jones,27,M,Bizerte,Marié(e) avec enfants,2980,Familial,2024-05-01,augmenté
+CLI00356,Jessica,Clarke,53,M,Kairouan,Marié(e),3689,Culturel,2021-08-05,augmenté
+CLI00357,Luke,Elessedil,19,F,Kairouan,Célibataire,3669,Farniente,2023-04-29,augmenté
+CLI00358,Jessica,Cage,41,F,Sousse,Marié(e),4043,Budget,2022-08-03,augmenté
+CLI00359,Emilia,Murdock,50,M,Gabès,Célibataire,4900,Aventurier,2021-03-01,augmenté
+CLI00360,Amelia,Elessedil,30,M,Gabès,Marié(e) avec enfants,3741,Luxe,2025-03-20,augmenté
+CLI00361,Harry,Murdock,51,M,Sousse,Marié(e) avec enfants,5676,Luxe,2023-01-25,augmenté
+CLI00362,Luke,Holmes,32,M,Sfax,Marié(e),1140,Farniente,2022-01-05,augmenté
+CLI00363,Emilia,Potter,39,M,Sfax,Célibataire,2370,Familial,2022-04-09,augmenté
+CLI00364,Luke,Queen,39,M,Ariana,Marié(e),3420,Luxe,2023-11-20,augmenté
+CLI00365,Emilia,Natchios,32,M,Tunis,Marié(e) avec enfants,3988,Luxe,2021-11-01,augmenté
+CLI00366,Sherlock,Jones,27,M,Kairouan,Marié(e),700,Familial,2025-03-03,augmenté
+CLI00367,Amberle,Potter,18,M,Kairouan,Marié(e),3537,Culturel,2021-07-16,augmenté
+CLI00368,Amberle,Elessedil,24,F,Bizerte,Marié(e) avec enfants,2668,Luxe,2024-02-03,augmenté
+CLI00369,Luke,Natchios,40,F,Sousse,Célibataire,4897,Culturel,2022-06-04,augmenté
+CLI00370,Oliver,Potter,31,F,Gabès,Célibataire,5475,Familial,2023-04-04,augmenté
+CLI00371,Jessica,Natchios,54,F,Sfax,Célibataire,5491,Culturel,2024-02-04,augmenté
+CLI00372,Harry,Holmes,25,M,Monastir,Marié(e),3043,Culturel,2021-01-14,augmenté
+CLI00373,Amberle,Natchios,28,M,Ariana,Célibataire,1515,Familial,2024-04-07,augmenté
+CLI00374,Emilia,Jones,25,M,Monastir,Célibataire,2668,Familial,2021-03-12,augmenté
+CLI00375,Elektra,Earhart,41,M,Gabès,Marié(e),4002,Culturel,2020-10-03,augmenté
+CLI00376,Harry,Elessedil,18,M,Gafsa,Marié(e) avec enfants,3363,Farniente,2023-11-30,augmenté
+CLI00377,Oliver,Elessedil,36,F,Monastir,Marié(e) avec enfants,2444,Culturel,2025-03-05,augmenté
+CLI00378,Harry,Natchios,24,F,Gafsa,Marié(e),1541,Budget,2023-08-07,augmenté
+CLI00379,Amelia,Murdock,32,F,Bizerte,Marié(e),3487,Familial,2022-08-15,augmenté
+CLI00380,Amberle,Clarke,34,M,Kairouan,Célibataire,5620,Familial,2021-06-22,augmenté
+CLI00381,Elektra,Elessedil,38,M,Gabès,Célibataire,1950,Culturel,2022-09-01,augmenté
+CLI00382,Matt,Earhart,42,M,Gafsa,Marié(e) avec enfants,3732,Familial,2026-06-06,augmenté
+CLI00383,Matt,Potter,35,F,Gabès,Célibataire,3362,Culturel,2021-08-20,augmenté
+CLI00384,Emma,Swan,27,M,Bizerte,Célibataire,6671,Farniente,2025-07-30,augmenté
+CLI00385,Harry,Holmes,65,F,Tunis,Célibataire,1352,Aventurier,2025-04-23,augmenté
+CLI00386,Amberle,Holmes,30,M,Nabeul,Célibataire,3398,Budget,2025-10-06,augmenté
+CLI00387,Emma,Natchios,44,F,Sfax,Célibataire,5914,Culturel,2024-03-29,augmenté
+CLI00388,Sherlock,Cage,21,M,Gafsa,Marié(e),2360,Aventurier,2022-07-18,augmenté
+CLI00389,Oliver,Natchios,24,F,Tunis,Marié(e) avec enfants,4212,Luxe,2021-12-03,augmenté
+CLI00390,Luke,Holmes,32,F,Monastir,Célibataire,2600,Farniente,2023-11-04,augmenté
+CLI00391,Emilia,Cage,18,M,Ariana,Marié(e) avec enfants,5200,Familial,2022-07-04,augmenté
+CLI00392,Oliver,Elessedil,30,M,Sousse,Marié(e),2304,Budget,2025-04-11,augmenté
+CLI00393,Emma,Clarke,36,F,Monastir,Marié(e) avec enfants,2927,Farniente,2022-08-04,augmenté
+CLI00394,Luke,Clarke,37,F,Gabès,Marié(e) avec enfants,2347,Familial,2022-04-26,augmenté
+CLI00395,Jessica,Earhart,26,F,Ariana,Célibataire,4426,Farniente,2022-06-21,augmenté
+CLI00396,Amberle,Elessedil,55,M,Sfax,Marié(e) avec enfants,2051,Culturel,2023-12-23,augmenté
+CLI00397,Luke,Swan,22,M,Gafsa,Marié(e) avec enfants,1776,Farniente,2022-10-18,augmenté
+CLI00398,Matt,Potter,49,F,Sousse,Marié(e) avec enfants,1360,Aventurier,2026-03-18,augmenté
+CLI00399,Emilia,Murdock,48,M,Nabeul,Célibataire,1871,Farniente,2025-06-09,augmenté
+CLI00400,Elektra,Clarke,58,F,Bizerte,Marié(e) avec enfants,3406,Culturel,2026-03-21,augmenté
+CLI00401,Amelia,Queen,38,M,Bizerte,Marié(e) avec enfants,700,Familial,2025-12-10,augmenté
+CLI00402,Emma,Queen,41,M,Nabeul,Marié(e) avec enfants,956,Luxe,2024-03-25,augmenté
+CLI00403,Sherlock,Queen,23,M,Sfax,Marié(e),5873,Familial,2021-03-09,augmenté
+CLI00404,Jessica,Clarke,47,F,Gabès,Marié(e),4339,Aventurier,2021-05-21,augmenté
+CLI00405,Amberle,Cage,29,F,Nabeul,Célibataire,5322,Budget,2021-11-27,augmenté
+CLI00406,Luke,Elessedil,45,F,Bizerte,Célibataire,3107,Farniente,2024-10-12,augmenté
+CLI00407,Emilia,Natchios,43,F,Ariana,Célibataire,3241,Farniente,2024-07-17,augmenté
+CLI00408,Oliver,Clarke,40,F,Kairouan,Célibataire,3397,Aventurier,2021-09-03,augmenté
+CLI00409,Emilia,Earhart,40,M,Kairouan,Marié(e) avec enfants,4927,Culturel,2023-03-03,augmenté
+CLI00410,Emilia,Queen,37,M,Gabès,Célibataire,3001,Farniente,2021-04-11,augmenté
+CLI00411,Amelia,Earhart,28,M,Nabeul,Marié(e),1049,Familial,2023-02-21,augmenté
+CLI00412,Elektra,Murdock,51,M,Bizerte,Marié(e) avec enfants,3306,Familial,2021-04-26,augmenté
+CLI00413,Harry,Elessedil,35,F,Sousse,Célibataire,4477,Farniente,2023-09-08,augmenté
+CLI00414,Amelia,Potter,36,M,Monastir,Célibataire,1935,Luxe,2021-01-09,augmenté
+CLI00415,Jessica,Potter,29,M,Monastir,Marié(e) avec enfants,3414,Aventurier,2024-07-20,augmenté
+CLI00416,Emma,Natchios,50,M,Sfax,Célibataire,3515,Farniente,2022-07-27,augmenté
+CLI00417,Oliver,Natchios,46,M,Kairouan,Marié(e) avec enfants,2781,Familial,2025-05-21,augmenté
+CLI00418,Jessica,Natchios,41,M,Gafsa,Célibataire,1005,Culturel,2021-05-21,augmenté
+CLI00419,Jessica,Earhart,33,F,Gabès,Marié(e) avec enfants,3067,Farniente,2024-05-30,augmenté
+CLI00420,Amberle,Earhart,43,F,Ariana,Célibataire,2765,Culturel,2024-06-29,augmenté
+CLI00421,Elektra,Clarke,26,F,Gabès,Célibataire,1851,Culturel,2024-09-02,augmenté
+CLI00422,Elektra,Swan,30,M,Ariana,Célibataire,2778,Aventurier,2022-03-21,augmenté
+CLI00423,Harry,Natchios,23,F,Gabès,Marié(e) avec enfants,2389,Familial,2022-07-26,augmenté
+CLI00424,Elektra,Natchios,35,M,Sfax,Célibataire,1837,Farniente,2020-09-08,augmenté
+CLI00425,Luke,Clarke,26,M,Ariana,Marié(e),3807,Aventurier,2024-01-07,augmenté
+CLI00426,Jessica,Natchios,46,F,Monastir,Marié(e) avec enfants,3280,Aventurier,2025-01-03,augmenté
+CLI00427,Elektra,Elessedil,29,F,Tunis,Célibataire,1573,Aventurier,2023-08-26,augmenté
+CLI00428,Oliver,Elessedil,34,F,Gabès,Célibataire,3045,Budget,2021-06-19,augmenté
+CLI00429,Harry,Natchios,27,F,Bizerte,Marié(e) avec enfants,700,Aventurier,2026-02-03,augmenté
+CLI00430,Jessica,Murdock,33,M,Gafsa,Célibataire,2263,Farniente,2025-11-05,augmenté
+CLI00431,Jessica,Holmes,26,F,Nabeul,Marié(e) avec enfants,2654,Culturel,2026-07-03,augmenté
+CLI00432,Luke,Earhart,39,M,Kairouan,Marié(e) avec enfants,1796,Farniente,2021-04-26,augmenté
+CLI00433,Emma,Jones,28,F,Gabès,Célibataire,2674,Familial,2024-02-13,augmenté
+CLI00434,Jessica,Holmes,52,F,Ariana,Marié(e) avec enfants,3544,Aventurier,2025-01-14,augmenté
+CLI00435,Matt,Swan,18,M,Sfax,Célibataire,2686,Culturel,2023-06-12,augmenté
+CLI00436,Emilia,Natchios,55,F,Bizerte,Marié(e),4499,Budget,2024-03-13,augmenté
+CLI00437,Sherlock,Clarke,44,M,Monastir,Marié(e),4128,Budget,2022-10-07,augmenté
+CLI00438,Matt,Potter,29,F,Monastir,Marié(e) avec enfants,4157,Farniente,2021-10-21,augmenté
+CLI00439,Harry,Queen,37,F,Sfax,Célibataire,2695,Familial,2023-01-18,augmenté
+CLI00440,Emma,Holmes,34,M,Nabeul,Marié(e),4873,Culturel,2021-12-09,augmenté
+CLI00441,Emilia,Murdock,43,F,Sfax,Célibataire,2435,Luxe,2021-12-26,augmenté
+CLI00442,Oliver,Jones,27,M,Monastir,Célibataire,2117,Luxe,2021-06-11,augmenté
+CLI00443,Harry,Earhart,38,M,Gafsa,Célibataire,1803,Aventurier,2022-11-06,augmenté
+CLI00444,Jessica,Jones,50,M,Nabeul,Célibataire,1966,Budget,2021-10-03,augmenté
+CLI00445,Amelia,Clarke,29,F,Tunis,Marié(e) avec enfants,700,Familial,2021-08-19,augmenté
+CLI00446,Sherlock,Queen,46,M,Tunis,Célibataire,5349,Aventurier,2021-05-20,augmenté
+CLI00447,Matt,Clarke,30,F,Gabès,Célibataire,5065,Luxe,2021-03-10,augmenté
+CLI00448,Emma,Elessedil,40,F,Kairouan,Marié(e),2321,Aventurier,2021-04-06,augmenté
+CLI00449,Amelia,Potter,34,F,Tunis,Marié(e),3073,Aventurier,2020-11-10,augmenté
+CLI00450,Jessica,Earhart,49,F,Bizerte,Marié(e) avec enfants,1819,Luxe,2021-12-22,augmenté
+CLI00451,Emma,Natchios,55,F,Gafsa,Célibataire,5665,Budget,2026-02-27,augmenté
+CLI00452,Jessica,Queen,37,M,Sousse,Marié(e),2164,Familial,2024-04-11,augmenté
+CLI00453,Luke,Swan,29,M,Ariana,Marié(e) avec enfants,4852,Aventurier,2021-09-09,augmenté
+CLI00454,Amelia,Holmes,65,F,Ariana,Célibataire,1670,Culturel,2024-08-05,augmenté
+CLI00455,Matt,Elessedil,48,F,Gabès,Célibataire,2220,Luxe,2022-02-06,augmenté
+CLI00456,Emma,Swan,51,M,Ariana,Marié(e),4077,Familial,2020-12-31,augmenté
+CLI00457,Amelia,Swan,40,M,Gafsa,Célibataire,3505,Farniente,2025-10-08,augmenté
+CLI00458,Matt,Clarke,26,F,Bizerte,Marié(e),3841,Culturel,2025-11-17,augmenté
+CLI00459,Amberle,Swan,26,M,Kairouan,Marié(e),5416,Culturel,2025-12-16,augmenté
+CLI00460,Emma,Potter,24,M,Gafsa,Marié(e),2784,Familial,2025-09-21,augmenté
+CLI00461,Sherlock,Earhart,33,M,Bizerte,Marié(e) avec enfants,2025,Budget,2023-04-23,augmenté
+CLI00462,Luke,Earhart,31,F,Sousse,Célibataire,6231,Aventurier,2025-05-17,augmenté
+CLI00463,Amberle,Murdock,52,M,Gafsa,Célibataire,5984,Farniente,2022-05-02,augmenté
+CLI00464,Matt,Cage,42,M,Ariana,Marié(e),2141,Culturel,2025-10-17,augmenté
+CLI00465,Emma,Jones,40,M,Ariana,Célibataire,4639,Farniente,2021-08-15,augmenté
+CLI00466,Elektra,Clarke,30,F,Sfax,Marié(e),5358,Farniente,2026-07-29,augmenté
+CLI00467,Oliver,Swan,19,F,Nabeul,Marié(e) avec enfants,3758,Budget,2024-04-07,augmenté
+CLI00468,Oliver,Natchios,32,M,Nabeul,Célibataire,700,Farniente,2024-07-08,augmenté
+CLI00469,Amelia,Holmes,48,M,Tunis,Marié(e) avec enfants,2871,Luxe,2022-09-02,augmenté
+CLI00470,Harry,Cage,47,M,Sfax,Marié(e) avec enfants,713,Familial,2021-02-16,augmenté
+CLI00471,Amelia,Potter,50,F,Nabeul,Marié(e),1069,Familial,2026-03-26,augmenté
+CLI00472,Matt,Natchios,58,F,Ariana,Marié(e),3898,Culturel,2025-04-24,augmenté
+CLI00473,Harry,Natchios,44,F,Sousse,Célibataire,2657,Culturel,2026-07-19,augmenté
+CLI00474,Amelia,Murdock,33,M,Sousse,Célibataire,2039,Budget,2026-02-23,augmenté
+CLI00475,Amberle,Natchios,30,F,Kairouan,Marié(e) avec enfants,2478,Luxe,2020-12-23,augmenté
+CLI00476,Amelia,Elessedil,34,M,Monastir,Célibataire,700,Luxe,2023-04-03,augmenté
+CLI00477,Emma,Holmes,31,F,Gabès,Marié(e) avec enfants,907,Aventurier,2026-04-05,augmenté
+CLI00478,Sherlock,Cage,39,M,Gafsa,Marié(e),4815,Luxe,2023-05-26,augmenté
+CLI00479,Jessica,Clarke,54,M,Nabeul,Célibataire,3273,Aventurier,2021-08-27,augmenté
+CLI00480,Oliver,Swan,43,F,Sfax,Célibataire,1434,Aventurier,2021-01-16,augmenté
+CLI00481,Sherlock,Swan,44,M,Monastir,Célibataire,2552,Familial,2023-10-14,augmenté
+CLI00482,Matt,Cage,48,M,Nabeul,Célibataire,3900,Budget,2021-06-30,augmenté
+CLI00483,Luke,Clarke,31,F,Ariana,Marié(e) avec enfants,3675,Familial,2023-05-04,augmenté
+CLI00484,Matt,Elessedil,41,M,Monastir,Célibataire,3903,Luxe,2025-06-24,augmenté
+CLI00485,Elektra,Earhart,18,F,Nabeul,Marié(e),2385,Budget,2026-06-14,augmenté
+CLI00486,Luke,Holmes,23,F,Sfax,Célibataire,3055,Luxe,2024-02-10,augmenté
+CLI00487,Amberle,Murdock,23,F,Gabès,Marié(e),3663,Farniente,2022-11-15,augmenté
+CLI00488,Oliver,Potter,55,M,Gabès,Célibataire,2960,Culturel,2020-09-28,augmenté
+CLI00489,Emma,Holmes,25,F,Sfax,Marié(e) avec enfants,3197,Farniente,2024-02-27,augmenté
+CLI00490,Elektra,Queen,35,M,Monastir,Marié(e),3525,Culturel,2023-03-01,augmenté
+CLI00491,Emilia,Jones,28,M,Sfax,Marié(e),1721,Farniente,2025-09-06,augmenté
+CLI00492,Elektra,Murdock,37,M,Monastir,Célibataire,1757,Luxe,2025-04-23,augmenté
+CLI00493,Sherlock,Swan,27,F,Nabeul,Marié(e) avec enfants,1021,Luxe,2021-06-16,augmenté
+CLI00494,Harry,Swan,60,F,Bizerte,Marié(e),2193,Farniente,2022-12-03,augmenté
+CLI00495,Emma,Swan,19,M,Gabès,Marié(e),1989,Farniente,2021-05-22,augmenté
+CLI00496,Jessica,Holmes,23,M,Sousse,Célibataire,2032,Budget,2024-12-08,augmenté
+CLI00497,Emma,Queen,46,M,Monastir,Célibataire,2650,Aventurier,2025-02-14,augmenté
+CLI00498,Elektra,Holmes,21,F,Gabès,Marié(e) avec enfants,3448,Familial,2021-07-18,augmenté
+CLI00499,Harry,Murdock,45,M,Nabeul,Célibataire,2959,Budget,2024-06-20,augmenté
+CLI00500,Sherlock,Swan,35,F,Ariana,Célibataire,1277,Familial,2022-03-25,augmenté

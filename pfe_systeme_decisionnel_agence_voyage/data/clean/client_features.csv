@@ -1,0 +1,501 @@
+client_id,prenom,nom,age,sexe,ville,statut_familial,revenu_mensuel_tnd,segment_latent,date_inscription,source_client,frequence,montant_total,montant_moyen,derniere_visite,recence_jours,taux_annulation,type_voyage_prefere,budget_max_tnd,activites_preferees,saison_preferee,voyage_frequent,segment_client
+CLI00001,Emilia,Clarke,49,M,Ariana,Célibataire,2024,Luxe,2026-05-19,réel,28,149592.755,5342.598392857143,2026-09-14,1,0.125,Croisière,11209.0,Plongée;Plage détente;Safari,Automne,Non,3
+CLI00002,Sherlock,Holmes,30,M,Tunis,Célibataire,1344,Farniente,2021-04-18,réel,20,106329.54000000001,5316.477000000001,2026-11-20,-66,0.13043478260869565,Plage,5200.0,Ski;Gastronomie;Plongée,Automne,Non,3
+CLI00003,Matt,Murdock,28,F,Kairouan,Marié(e) avec enfants,1079,Culturel,2022-04-18,réel,9,28049.739999999998,3116.6377777777775,2026-07-23,54,0.25,Culturel,3014.0,Ski;Plage détente,Automne,Non,1
+CLI00004,Jessica,Jones,46,M,Gabès,Célibataire,1351,Familial,2024-06-10,réel,9,25371.54,2819.06,2026-03-22,177,0.1,Culturel,6974.0,Sports nautiques;Ski;Randonnée,Été,Non,4
+CLI00005,Oliver,Queen,59,F,Kairouan,Marié(e) avec enfants,3613,Culturel,2026-06-15,réel,16,53745.825,3359.1140625,2026-10-06,-21,0.1111111111111111,Plage,2425.0,Plongée;Spa & bien-être;Plage détente,Hiver,Non,2
+CLI00006,Amelia,Earhart,24,M,Sousse,Marié(e),3506,Luxe,2022-01-21,réel,24,85285.66,3553.5691666666667,2026-09-22,-7,0.2,Aventure,16365.0,Spa & bien-être;Shopping;Plage détente,Printemps,Oui,0
+CLI00007,Elektra,Natchios,32,F,Sousse,Célibataire,2761,Familial,2021-06-02,réel,28,120620.45,4307.873214285714,2026-12-23,-99,0.06666666666666667,Urbain,4825.0,Plongée;Randonnée;Ski,Hiver,Oui,3
+CLI00008,Amberle,Elessedil,18,M,Monastir,Célibataire,3670,Farniente,2020-12-04,réel,12,62489.270000000004,5207.439166666667,2025-07-04,438,0.2,Plage,6899.0,Safari;Photographie;Spa & bien-être,Printemps,Oui,4
+CLI00009,Emma,Swan,43,F,Kairouan,Marié(e) avec enfants,4985,Culturel,2025-11-22,réel,17,46511.06,2735.944705882353,2026-08-15,31,0.10526315789473684,Culturel,5436.0,Shopping;Musées,Été,Non,2
+CLI00010,Harry,Potter,36,F,Sfax,Marié(e) avec enfants,3779,Aventurier,2023-03-13,réel,36,182195.005,5060.972361111111,2026-10-02,-17,0.1,Montagne,3832.0,Photographie;Sports nautiques,Été,Oui,3
+CLI00011,Luke,Cage,54,M,Sfax,Célibataire,3484,Budget,2022-12-26,réel,21,99103.53,4719.215714285714,2026-07-27,50,0.0,Aventure,1770.0,Plage détente;Ski,Printemps,Non,2
+CLI00012,Luke,Murdock,38,M,Nabeul,Marié(e),3480,Budget,2022-11-27,augmenté,17,70435.43,4143.260588235294,2026-06-14,93,0.15,Rural/Nature,2029.0,Ski;Plage détente,Automne,Non,2
+CLI00013,Emilia,Queen,18,M,Gabès,Marié(e) avec enfants,4897,Familial,2021-06-28,augmenté,16,70909.715,4431.8571875,2026-10-21,-36,0.058823529411764705,Plage,4647.0,Spa & bien-être;Vie nocturne;Gastronomie,Printemps,Non,0
+CLI00014,Oliver,Holmes,36,F,Gafsa,Marié(e),1373,Farniente,2021-05-28,augmenté,13,59403.26,4569.481538461539,2026-12-22,-98,0.0,Urbain,4573.0,Safari;Photographie,Automne,Non,2
+CLI00015,Luke,Earhart,46,F,Sousse,Marié(e),3984,Familial,2025-11-09,augmenté,8,41612.845,5201.605625,2025-12-18,271,0.1111111111111111,Plage,7238.0,Gastronomie;Sports nautiques,Été,Non,4
+CLI00016,Sherlock,Potter,27,F,Kairouan,Célibataire,2495,Farniente,2024-10-04,augmenté,12,42354.22,3529.5183333333334,2026-10-04,-19,0.07692307692307693,Plage,3551.0,Sports nautiques;Safari;Gastronomie,Automne,Oui,0
+CLI00017,Emilia,Queen,50,M,Gafsa,Célibataire,2424,Culturel,2023-08-11,augmenté,13,40112.65,3085.5884615384616,2026-03-23,176,0.07142857142857142,Culturel,5328.0,Ski;Plage détente,Hiver,Non,2
+CLI00018,Emma,Earhart,23,M,Tunis,Marié(e),3042,Aventurier,2023-02-13,augmenté,26,111060.695,4271.565192307693,2026-11-19,-65,0.13333333333333333,Croisière,5044.0,Photographie;Gastronomie;Plongée,Printemps,Non,3
+CLI00019,Jessica,Elessedil,35,M,Monastir,Célibataire,1078,Culturel,2025-08-17,augmenté,14,60382.285,4313.020357142857,2026-10-12,-27,0.0,Urbain,2228.0,Spa & bien-être;Vie nocturne,Hiver,Non,2
+CLI00020,Matt,Natchios,54,F,Gafsa,Marié(e) avec enfants,1838,Culturel,2021-05-28,augmenté,23,106152.56,4615.328695652174,2026-11-03,-49,0.08,Montagne,3448.0,Randonnée;Musées,Hiver,Non,2
+CLI00021,Harry,Natchios,38,F,Bizerte,Marié(e),2294,Farniente,2025-02-26,augmenté,15,71365.255,4757.683666666667,2026-11-07,-53,0.11764705882352941,Plage,4307.0,Safari;Photographie,Automne,Non,2
+CLI00022,Harry,Murdock,25,M,Monastir,Marié(e),6802,Familial,2022-07-15,augmenté,26,128136.655,4928.3328846153845,2026-12-17,-93,0.10344827586206896,Urbain,6022.0,Plongée;Vie nocturne,Été,Oui,3
+CLI00023,Matt,Potter,30,F,Monastir,Marié(e),5154,Farniente,2021-10-20,augmenté,19,82462.565,4340.135,2026-12-27,-103,0.17391304347826086,Aventure,6494.0,Safari;Shopping,Hiver,Non,0
+CLI00024,Amelia,Queen,22,M,Nabeul,Marié(e) avec enfants,2911,Budget,2022-02-28,augmenté,18,74091.285,4116.1825,2026-12-03,-79,0.14285714285714285,Aventure,1211.0,Musées;Photographie,Printemps,Oui,0
+CLI00025,Matt,Murdock,18,M,Kairouan,Marié(e) avec enfants,3443,Aventurier,2026-06-03,augmenté,8,42609.545,5326.193125,2026-11-15,-61,0.2727272727272727,Aventure,2439.0,Sports nautiques;Spa & bien-être;Shopping,Automne,Non,1
+CLI00026,Amberle,Earhart,48,M,Sousse,Marié(e) avec enfants,3339,Familial,2022-10-01,augmenté,17,74334.09,4372.593529411764,2026-08-18,28,0.0,Plage,6264.0,Shopping;Sports nautiques;Plongée,Hiver,Non,2
+CLI00027,Oliver,Earhart,47,F,Tunis,Marié(e),1926,Budget,2025-03-03,augmenté,29,130778.255,4509.595,2026-11-09,-55,0.12121212121212122,Rural/Nature,2015.0,Sports nautiques;Musées,Printemps,Non,3
+CLI00028,Amelia,Queen,45,M,Monastir,Célibataire,2922,Culturel,2024-02-27,augmenté,30,133942.205,4464.7401666666665,2026-12-20,-96,0.03225806451612903,Montagne,2225.0,Musées;Safari;Vie nocturne,Hiver,Non,3
+CLI00029,Elektra,Potter,43,F,Gabès,Célibataire,4608,Budget,2025-09-30,augmenté,12,56141.505000000005,4678.458750000001,2026-10-04,-19,0.14285714285714285,Urbain,1245.0,Vie nocturne;Ski;Spa & bien-être,Printemps,Non,1
+CLI00030,Emma,Cage,31,F,Gabès,Marié(e) avec enfants,5003,Culturel,2023-07-25,augmenté,6,30296.19,5049.365,2026-11-18,-64,0.25,Urbain,3405.0,Plongée;Gastronomie;Photographie,Automne,Non,1
+CLI00031,Sherlock,Queen,43,F,Monastir,Marié(e) avec enfants,3321,Familial,2021-07-18,augmenté,40,218557.53,5463.93825,2026-11-21,-67,0.13043478260869565,Croisière,3375.0,Musées;Plongée;Safari,Hiver,Non,3
+CLI00032,Oliver,Murdock,36,F,Ariana,Célibataire,3960,Aventurier,2026-04-07,augmenté,16,76461.225,4778.8265625,2026-09-01,14,0.0,Rural/Nature,4994.0,Photographie;Randonnée;Spa & bien-être,Printemps,Non,2
+CLI00033,Amberle,Elessedil,50,F,Tunis,Célibataire,2253,Culturel,2021-06-15,augmenté,10,33663.46,3366.346,2026-05-14,124,0.16666666666666666,Culturel,4318.0,Vie nocturne;Musées;Sports nautiques,Hiver,Oui,1
+CLI00034,Emilia,Natchios,18,M,Ariana,Célibataire,700,Luxe,2023-05-02,augmenté,19,81562.255,4292.750263157895,2026-08-02,44,0.05,Croisière,18141.0,Vie nocturne;Musées;Shopping,Été,Non,0
+CLI00035,Emilia,Jones,55,F,Bizerte,Marié(e),4359,Familial,2024-01-09,augmenté,12,64438.95,5369.912499999999,2026-10-27,-42,0.3684210526315789,Rural/Nature,6584.0,Randonnée;Ski;Photographie,Automne,Oui,1
+CLI00036,Harry,Queen,50,M,Monastir,Marié(e),4652,Budget,2024-05-24,augmenté,10,30945.170000000002,3094.5170000000003,2026-08-10,36,0.0,Culturel,2207.0,Randonnée;Plongée,Printemps,Non,2
+CLI00037,Amberle,Queen,31,F,Sousse,Marié(e),5179,Culturel,2026-05-14,augmenté,7,27978.77,3996.967142857143,2026-12-24,-100,0.125,Urbain,4533.0,Photographie;Sports nautiques,Automne,Non,0
+CLI00038,Harry,Cage,32,F,Ariana,Marié(e) avec enfants,1551,Luxe,2020-12-15,augmenté,28,133779.39,4777.835357142858,2026-05-06,132,0.125,Urbain,13922.0,Shopping;Gastronomie;Photographie,Hiver,Oui,3
+CLI00039,Harry,Elessedil,29,F,Bizerte,Marié(e) avec enfants,2916,Culturel,2024-05-11,augmenté,15,50638.21,3375.8806666666665,2026-12-13,-89,0.0625,Culturel,3989.0,Plage détente;Ski;Randonnée,Hiver,Oui,0
+CLI00040,Oliver,Elessedil,38,M,Sousse,Marié(e) avec enfants,4886,Aventurier,2021-05-06,augmenté,29,138796.815,4786.097068965517,2026-09-22,-7,0.09375,Montagne,5221.0,Sports nautiques;Randonnée,Hiver,Non,3
+CLI00041,Amberle,Swan,46,M,Kairouan,Marié(e) avec enfants,1814,Budget,2022-02-13,augmenté,13,35356.63,2719.740769230769,2026-12-02,-78,0.0,Plage,1289.0,Safari;Randonnée,Été,Non,2
+CLI00042,Emilia,Earhart,36,F,Ariana,Marié(e) avec enfants,830,Culturel,2022-12-23,augmenté,6,17657.96,2942.9933333333333,2026-11-10,-56,0.25,Culturel,2465.0,Gastronomie;Shopping;Ski,Printemps,Oui,1
+CLI00043,Oliver,Potter,56,M,Sfax,Marié(e),4393,Farniente,2020-10-24,augmenté,17,61782.17,3634.245294117647,2026-07-12,65,0.10526315789473684,Plage,5959.0,Gastronomie;Randonnée,Hiver,Non,2
+CLI00044,Luke,Holmes,18,F,Kairouan,Célibataire,2579,Budget,2024-07-15,augmenté,13,46043.57,3541.813076923077,2026-12-19,-95,0.23529411764705882,Culturel,971.0,Spa & bien-être;Musées,Printemps,Oui,0
+CLI00045,Elektra,Jones,38,F,Kairouan,Célibataire,2876,Culturel,2026-06-15,augmenté,9,23829.35,2647.7055555555553,2026-03-07,192,0.25,Culturel,5475.0,Randonnée;Sports nautiques;Musées,Été,Non,4
+CLI00046,Sherlock,Queen,46,M,Kairouan,Célibataire,3148,Culturel,2026-03-22,augmenté,13,47844.675,3680.3596153846156,2026-12-27,-103,0.0,Plage,2843.0,Spa & bien-être;Randonnée,Printemps,Oui,2
+CLI00047,Amberle,Clarke,43,F,Tunis,Célibataire,1980,Farniente,2024-01-08,augmenté,14,57619.405,4115.671785714286,2026-03-11,188,0.125,Plage,6334.0,Plage détente;Shopping,Automne,Oui,4
+CLI00048,Amberle,Murdock,18,M,Tunis,Marié(e),2843,Aventurier,2026-02-04,augmenté,17,61866.11,3639.1829411764706,2026-10-27,-42,0.10526315789473684,Rural/Nature,4985.0,Randonnée;Ski;Musées,Printemps,Non,0
+CLI00049,Amelia,Murdock,56,M,Ariana,Marié(e) avec enfants,3605,Aventurier,2024-06-08,augmenté,11,35771.68,3251.970909090909,2026-04-18,150,0.21428571428571427,Culturel,5042.0,Ski;Randonnée,Hiver,Oui,1
+CLI00050,Sherlock,Clarke,34,F,Nabeul,Célibataire,3879,Aventurier,2024-05-06,augmenté,29,149330.39,5149.323793103449,2026-09-07,8,0.09375,Montagne,3801.0,Photographie;Sports nautiques;Ski,Printemps,Oui,3
+CLI00051,Elektra,Cage,28,M,Sousse,Célibataire,808,Culturel,2023-02-06,augmenté,26,133277.765,5126.067884615385,2026-11-24,-70,0.21212121212121213,Croisière,2917.0,Musées;Spa & bien-être;Vie nocturne,Printemps,Oui,3
+CLI00052,Amberle,Cage,50,F,Ariana,Célibataire,829,Budget,2021-02-22,augmenté,12,41671.92,3472.66,2026-12-05,-81,0.3333333333333333,Culturel,1630.0,Plage détente;Spa & bien-être;Safari,Été,Non,1
+CLI00053,Elektra,Queen,27,M,Tunis,Marié(e) avec enfants,3656,Aventurier,2026-05-27,augmenté,16,84582.12,5286.3825,2026-03-05,194,0.1111111111111111,Plage,4954.0,Spa & bien-être;Shopping;Safari,Printemps,Non,4
+CLI00054,Jessica,Cage,22,M,Gabès,Célibataire,5042,Farniente,2025-07-17,augmenté,13,47901.54,3684.733846153846,2025-10-08,342,0.1875,Plage,5382.0,Gastronomie;Musées;Photographie,Printemps,Oui,4
+CLI00055,Emma,Holmes,18,M,Nabeul,Marié(e) avec enfants,2702,Budget,2020-11-09,augmenté,14,56317.01,4022.6435714285717,2026-11-02,-48,0.06666666666666667,Aventure,2062.0,Photographie;Spa & bien-être,Été,Non,0
+CLI00056,Emilia,Holmes,41,F,Nabeul,Célibataire,3630,Aventurier,2025-12-23,augmenté,20,91084.755,4554.23775,2026-06-08,99,0.13043478260869565,Aventure,2607.0,Safari;Gastronomie;Shopping,Printemps,Oui,2
+CLI00057,Amelia,Cage,18,M,Gafsa,Célibataire,4744,Culturel,2020-11-26,augmenté,24,101152.94,4214.705833333333,2026-09-18,-3,0.07692307692307693,Rural/Nature,1942.0,Gastronomie;Vie nocturne;Musées,Automne,Non,0
+CLI00058,Emilia,Queen,51,F,Gafsa,Célibataire,2543,Familial,2025-09-09,augmenté,15,66474.895,4431.659666666667,2026-02-20,207,0.0625,Plage,8633.0,Vie nocturne;Photographie,Été,Non,2
+CLI00059,Luke,Elessedil,44,F,Ariana,Marié(e),3061,Farniente,2021-12-12,augmenté,38,185818.545,4889.961710526316,2026-11-04,-50,0.05,Montagne,4377.0,Ski;Gastronomie;Musées,Automne,Non,3
+CLI00060,Harry,Holmes,65,M,Gabès,Marié(e) avec enfants,2712,Aventurier,2022-10-22,augmenté,25,105771.895,4230.8758,2026-07-21,56,0.038461538461538464,Aventure,3220.0,Ski;Musées;Photographie,Été,Oui,2
+CLI00061,Luke,Jones,40,F,Monastir,Marié(e) avec enfants,4003,Familial,2026-05-11,augmenté,14,58834.275,4202.448214285714,2026-10-12,-27,0.17647058823529413,Urbain,3043.0,Spa & bien-être;Randonnée;Vie nocturne,Hiver,Non,1
+CLI00062,Oliver,Elessedil,18,F,Sfax,Marié(e),2394,Farniente,2025-08-17,augmenté,10,42356.86,4235.686,2026-11-04,-50,0.16666666666666666,Plage,6826.0,Safari;Plongée,Été,Oui,0
+CLI00063,Sherlock,Queen,39,F,Monastir,Marié(e),1735,Farniente,2026-06-17,augmenté,13,55517.795,4270.599615384615,2026-12-18,-94,0.1875,Plage,2622.0,Musées;Plage détente,Hiver,Non,1
+CLI00064,Elektra,Murdock,18,M,Sousse,Célibataire,4085,Familial,2026-05-07,augmenté,16,56659.020000000004,3541.1887500000003,2026-11-25,-71,0.1111111111111111,Plage,5924.0,Sports nautiques;Vie nocturne;Musées,Hiver,Non,0
+CLI00065,Luke,Cage,49,F,Monastir,Marié(e) avec enfants,4129,Budget,2022-06-18,augmenté,15,59247.24,3949.816,2026-12-06,-82,0.11764705882352941,Aventure,2419.0,Ski;Sports nautiques,Automne,Non,2
+CLI00066,Oliver,Clarke,50,M,Ariana,Célibataire,4367,Familial,2023-07-31,augmenté,20,100027.18000000001,5001.359,2026-07-10,67,0.09090909090909091,Croisière,3446.0,Shopping;Sports nautiques,Hiver,Oui,2
+CLI00067,Harry,Potter,43,F,Nabeul,Célibataire,700,Luxe,2025-09-16,augmenté,12,40923.33,3410.2775,2026-08-14,32,0.07692307692307693,Plage,19329.0,Spa & bien-être;Shopping,Automne,Non,2
+CLI00068,Amberle,Holmes,34,F,Sfax,Marié(e),4119,Culturel,2024-01-25,augmenté,8,36172.51,4521.56375,2026-11-15,-61,0.0,Urbain,5009.0,Photographie;Gastronomie,Été,Non,0
+CLI00069,Elektra,Clarke,47,F,Gabès,Marié(e),4463,Familial,2023-07-22,augmenté,9,37178.65,4130.961111111112,2026-04-25,143,0.35714285714285715,Urbain,4630.0,Plongée;Musées;Randonnée,Hiver,Non,1
+CLI00070,Harry,Natchios,18,M,Gafsa,Marié(e) avec enfants,5067,Culturel,2022-11-13,augmenté,15,68731.14,4582.076,2026-10-09,-24,0.11764705882352941,Urbain,1920.0,Photographie;Shopping,Hiver,Non,0
+CLI00071,Emilia,Potter,41,M,Nabeul,Célibataire,1668,Budget,2025-02-17,augmenté,7,29082.89,4154.698571428571,2026-10-03,-18,0.0,Culturel,1115.0,Sports nautiques;Vie nocturne,Automne,Non,2
+CLI00072,Sherlock,Murdock,18,F,Gafsa,Marié(e) avec enfants,6836,Aventurier,2021-10-10,augmenté,35,127429.325,3640.837857142857,2026-12-17,-93,0.027777777777777776,Montagne,3832.0,Safari;Vie nocturne;Ski,Automne,Non,3
+CLI00073,Emma,Natchios,30,M,Sfax,Célibataire,700,Luxe,2021-01-21,augmenté,12,74181.615,6181.80125,2026-08-11,35,0.07692307692307693,Urbain,11173.0,Safari;Spa & bien-être;Randonnée,Automne,Oui,0
+CLI00074,Emma,Clarke,34,F,Gabès,Célibataire,1865,Budget,2021-01-13,augmenté,15,72373.47,4824.898,2025-11-19,300,0.16666666666666666,Plage,2009.0,Safari;Gastronomie;Plongée,Été,Oui,4
+CLI00075,Amelia,Natchios,34,M,Gafsa,Marié(e) avec enfants,3130,Budget,2021-07-05,augmenté,21,94911.26,4519.58380952381,2026-07-11,66,0.16,Croisière,1448.0,Gastronomie;Plage détente;Ski,Automne,Non,3
+CLI00076,Jessica,Cage,46,M,Sfax,Célibataire,2533,Culturel,2022-10-27,augmenté,10,27513.47,2751.347,2026-08-21,25,0.0,Culturel,5327.0,Randonnée;Shopping;Safari,Automne,Oui,2
+CLI00077,Emma,Clarke,45,F,Nabeul,Marié(e) avec enfants,3855,Budget,2026-06-24,augmenté,11,47084.17,4280.37909090909,2026-10-15,-30,0.15384615384615385,Culturel,2028.0,Gastronomie;Vie nocturne,Printemps,Oui,1
+CLI00078,Matt,Jones,44,M,Tunis,Célibataire,2677,Budget,2024-04-19,augmenté,14,47609.865000000005,3400.7046428571434,2026-10-24,-39,0.17647058823529413,Plage,1254.0,Spa & bien-être;Plage détente;Plongée,Hiver,Non,1
+CLI00079,Matt,Earhart,23,F,Gafsa,Célibataire,700,Luxe,2023-12-03,augmenté,21,81384.685,3875.4611904761905,2026-08-12,34,0.16,Croisière,17110.0,Plage détente;Safari;Plongée,Été,Oui,0
+CLI00080,Sherlock,Potter,27,M,Monastir,Célibataire,4121,Familial,2024-01-05,augmenté,11,37982.58,3452.961818181818,2026-07-19,58,0.15384615384615385,Culturel,8111.0,Ski;Plage détente;Randonnée,Printemps,Oui,0
+CLI00081,Amelia,Elessedil,62,M,Gabès,Marié(e) avec enfants,3263,Familial,2026-07-11,augmenté,10,36143.395000000004,3614.3395000000005,2026-12-15,-91,0.23076923076923078,Culturel,6476.0,Shopping;Plongée;Photographie,Automne,Oui,1
+CLI00082,Sherlock,Elessedil,30,M,Monastir,Marié(e) avec enfants,4470,Budget,2022-12-09,augmenté,16,68218.11,4263.631875,2026-09-05,10,0.2,Culturel,1239.0,Shopping;Safari;Spa & bien-être,Printemps,Non,0
+CLI00083,Luke,Clarke,38,F,Gafsa,Marié(e) avec enfants,4026,Budget,2021-12-16,augmenté,11,46500.395000000004,4227.308636363637,2026-12-06,-82,0.21428571428571427,Plage,866.0,Gastronomie;Spa & bien-être,Hiver,Non,1
+CLI00084,Jessica,Cage,51,F,Sfax,Marié(e) avec enfants,2966,Familial,2022-04-25,augmenté,15,53521.9,3568.1266666666666,2026-10-06,-21,0.21052631578947367,Culturel,4779.0,Shopping;Randonnée;Musées,Automne,Oui,1
+CLI00085,Elektra,Holmes,39,M,Sfax,Marié(e),3467,Farniente,2020-12-21,augmenté,28,140944.565,5033.734464285714,2026-12-18,-94,0.034482758620689655,Croisière,3702.0,Safari;Ski;Photographie,Printemps,Non,3
+CLI00086,Amberle,Murdock,38,M,Gabès,Célibataire,4860,Aventurier,2022-09-11,augmenté,8,24892.68,3111.585,2026-09-16,-1,0.2,Culturel,5285.0,Plage détente;Vie nocturne,Printemps,Non,1
+CLI00087,Jessica,Jones,35,M,Kairouan,Marié(e) avec enfants,2939,Familial,2023-10-11,augmenté,29,116098.505,4003.3967241379314,2026-11-05,-51,0.06451612903225806,Rural/Nature,6925.0,Gastronomie;Plongée,Été,Non,3
+CLI00088,Amelia,Clarke,33,F,Nabeul,Célibataire,6028,Aventurier,2024-01-12,augmenté,20,92492.945,4624.64725,2026-11-24,-70,0.2,Rural/Nature,4157.0,Photographie;Safari,Hiver,Non,0
+CLI00089,Emilia,Earhart,29,M,Sfax,Célibataire,2405,Culturel,2021-02-17,augmenté,29,126596.87,4365.409310344828,2026-11-23,-69,0.19444444444444445,Montagne,4976.0,Spa & bien-être;Randonnée;Ski,Été,Non,3
+CLI00090,Jessica,Clarke,46,M,Sfax,Marié(e) avec enfants,3324,Aventurier,2023-08-14,augmenté,15,50363.99,3357.599333333333,2026-12-21,-97,0.16666666666666666,Plage,3421.0,Photographie;Safari;Plage détente,Printemps,Non,1
+CLI00091,Jessica,Earhart,51,M,Kairouan,Célibataire,700,Aventurier,2025-01-24,augmenté,21,83593.53,3980.6442857142856,2026-12-09,-85,0.16,Rural/Nature,5479.0,Plongée;Photographie,Automne,Non,2
+CLI00092,Matt,Clarke,31,M,Gafsa,Marié(e) avec enfants,4530,Familial,2022-03-23,augmenté,23,114050.63500000001,4958.723260869566,2026-11-24,-70,0.11538461538461539,Croisière,8263.0,Plage détente;Randonnée,Hiver,Non,3
+CLI00093,Oliver,Elessedil,33,M,Gabès,Marié(e) avec enfants,3843,Familial,2025-09-02,augmenté,20,71438.75,3571.9375,2026-10-15,-30,0.13043478260869565,Culturel,5054.0,Randonnée;Safari;Spa & bien-être,Hiver,Non,0
+CLI00094,Harry,Murdock,45,M,Gafsa,Célibataire,5493,Farniente,2021-06-28,augmenté,33,160214.015,4854.970151515152,2026-07-23,54,0.175,Croisière,2993.0,Sports nautiques;Musées;Plongée,Automne,Non,3
+CLI00095,Emma,Earhart,56,M,Tunis,Célibataire,4376,Luxe,2025-07-18,augmenté,12,40037.76,3336.48,2026-02-01,226,0.0,Plage,15778.0,Plongée;Spa & bien-être,Automne,Non,2
+CLI00096,Sherlock,Holmes,30,F,Tunis,Marié(e) avec enfants,982,Culturel,2022-12-31,augmenté,18,70713.79,3928.5438888888884,2026-12-09,-85,0.18181818181818182,Culturel,3016.0,Ski;Spa & bien-être;Sports nautiques,Été,Non,0
+CLI00097,Emma,Elessedil,47,F,Kairouan,Marié(e),2331,Familial,2021-12-25,augmenté,13,54991.61,4230.123846153846,2026-12-10,-86,0.23529411764705882,Culturel,4717.0,Randonnée;Ski;Musées,Printemps,Oui,1
+CLI00098,Jessica,Clarke,43,F,Bizerte,Célibataire,1973,Luxe,2021-04-15,augmenté,11,39122.965,3556.6331818181816,2026-11-22,-68,0.15384615384615385,Plage,7190.0,Photographie;Ski,Été,Non,1
+CLI00099,Elektra,Holmes,38,M,Ariana,Célibataire,4084,Budget,2026-03-27,augmenté,12,46772.35,3897.695833333333,2026-12-26,-102,0.3684210526315789,Culturel,1639.0,Gastronomie;Shopping;Plage détente,Hiver,Non,1
+CLI00100,Emilia,Elessedil,26,M,Sfax,Marié(e),5736,Luxe,2023-02-06,augmenté,13,57467.7,4420.592307692307,2026-07-17,60,0.07142857142857142,Plage,10454.0,Ski;Vie nocturne;Shopping,Été,Oui,0
+CLI00101,Jessica,Cage,42,M,Sousse,Célibataire,4111,Culturel,2026-07-26,augmenté,19,105759.705,5566.300263157895,2026-12-03,-79,0.09523809523809523,Montagne,2497.0,Musées;Ski;Photographie,Hiver,Non,3
+CLI00102,Harry,Cage,61,F,Sousse,Célibataire,5625,Familial,2022-05-09,augmenté,8,37828.15,4728.51875,2026-06-20,87,0.0,Plage,6270.0,Plongée;Ski,Hiver,Non,2
+CLI00103,Elektra,Jones,50,M,Sfax,Célibataire,2939,Familial,2025-10-14,augmenté,13,51596.5,3968.9615384615386,2026-12-14,-90,0.07142857142857142,Rural/Nature,5586.0,Musées;Randonnée;Spa & bien-être,Hiver,Non,2
+CLI00104,Matt,Earhart,50,F,Sousse,Célibataire,2514,Farniente,2021-11-13,augmenté,18,90658.27,5036.570555555556,2026-06-23,84,0.14285714285714285,Urbain,5590.0,Safari;Spa & bien-être;Photographie,Automne,Non,2
+CLI00105,Amelia,Clarke,75,M,Bizerte,Marié(e),4783,Budget,2025-03-19,augmenté,10,39613.565,3961.3565000000003,2026-03-13,186,0.0,Plage,933.0,Vie nocturne;Randonnée,Printemps,Non,2
+CLI00106,Sherlock,Clarke,34,M,Sfax,Marié(e),2626,Culturel,2022-06-03,augmenté,30,143737.27,4791.242333333333,2026-10-19,-34,0.0625,Montagne,5175.0,Musées;Spa & bien-être;Sports nautiques,Printemps,Oui,3
+CLI00107,Jessica,Earhart,38,M,Gabès,Marié(e) avec enfants,1411,Familial,2025-03-05,augmenté,11,33840.68,3076.4254545454546,2026-12-11,-87,0.0,Plage,8879.0,Vie nocturne;Plage détente;Gastronomie,Été,Non,2
+CLI00108,Matt,Potter,19,M,Kairouan,Marié(e) avec enfants,3653,Familial,2025-02-10,augmenté,17,62287.1,3663.9470588235295,2026-10-11,-26,0.10526315789473684,Plage,7073.0,Vie nocturne;Ski,Hiver,Non,0
+CLI00109,Amberle,Natchios,34,M,Sfax,Marié(e) avec enfants,1582,Farniente,2021-01-14,augmenté,15,90865.465,6057.697666666666,2026-08-14,32,0.11764705882352941,Croisière,6018.0,Sports nautiques;Spa & bien-être;Shopping,Été,Non,0
+CLI00110,Oliver,Clarke,41,M,Ariana,Marié(e),1021,Familial,2024-11-25,augmenté,9,41047.985,4560.887222222223,2026-07-12,65,0.1,Plage,3111.0,Plage détente;Randonnée;Vie nocturne,Été,Oui,2
+CLI00111,Emma,Clarke,34,M,Bizerte,Célibataire,4022,Culturel,2025-01-18,augmenté,11,35676.505,3243.318636363636,2026-12-15,-91,0.08333333333333333,Culturel,2273.0,Safari;Shopping;Spa & bien-être,Été,Non,0
+CLI00112,Luke,Queen,39,M,Monastir,Marié(e),5292,Farniente,2022-02-03,augmenté,16,78630.91500000001,4914.4321875000005,2026-10-23,-38,0.1111111111111111,Aventure,5219.0,Photographie;Sports nautiques;Spa & bien-être,Automne,Non,0
+CLI00113,Amelia,Cage,40,M,Ariana,Célibataire,3099,Aventurier,2023-01-08,augmenté,27,124024.81,4593.5114814814815,2026-11-04,-50,0.06896551724137931,Aventure,4488.0,Photographie;Sports nautiques;Randonnée,Été,Oui,3
+CLI00114,Elektra,Murdock,37,F,Ariana,Célibataire,2934,Culturel,2023-11-12,augmenté,15,47262.97,3150.864666666667,2026-12-24,-100,0.21052631578947367,Aventure,3485.0,Photographie;Randonnée;Plongée,Hiver,Oui,1
+CLI00115,Sherlock,Elessedil,43,M,Kairouan,Célibataire,3294,Familial,2024-02-10,augmenté,19,63341.3,3333.7526315789473,2026-05-20,118,0.17391304347826086,Rural/Nature,6768.0,Ski;Vie nocturne;Sports nautiques,Printemps,Non,2
+CLI00116,Jessica,Holmes,42,F,Kairouan,Célibataire,3587,Farniente,2022-11-04,augmenté,28,123017.65,4393.4875,2026-10-26,-41,0.15151515151515152,Croisière,5659.0,Safari;Ski,Printemps,Non,3
+CLI00117,Emilia,Natchios,30,M,Tunis,Célibataire,3056,Budget,2025-10-18,augmenté,8,16566.7,2070.8375,2026-12-09,-85,0.1111111111111111,Culturel,1589.0,Gastronomie;Shopping;Ski,Printemps,Oui,0
+CLI00118,Amberle,Swan,37,M,Gabès,Marié(e) avec enfants,1692,Familial,2021-02-24,augmenté,26,114736.44,4412.9400000000005,2026-09-15,0,0.07142857142857142,Rural/Nature,5681.0,Gastronomie;Photographie;Shopping,Printemps,Oui,3
+CLI00119,Emma,Potter,46,F,Tunis,Marié(e),3679,Farniente,2025-01-19,augmenté,5,16251.71,3250.3419999999996,2026-08-21,25,0.16666666666666666,Plage,6348.0,Randonnée;Shopping;Sports nautiques,Automne,Oui,1
+CLI00120,Emma,Queen,24,M,Kairouan,Marié(e),3990,Luxe,2025-04-10,augmenté,14,91099.94,6507.138571428572,2026-11-22,-68,0.125,Urbain,17099.0,Ski;Photographie,Automne,Oui,0
+CLI00121,Sherlock,Holmes,42,M,Kairouan,Marié(e),4305,Budget,2022-11-18,augmenté,16,48979.26,3061.20375,2026-08-18,28,0.058823529411764705,Plage,2238.0,Randonnée;Sports nautiques;Photographie,Hiver,Oui,2
+CLI00122,Oliver,Clarke,33,F,Tunis,Marié(e),5432,Culturel,2022-07-12,augmenté,21,86486.235,4118.392142857143,2026-11-20,-66,0.16,Culturel,3309.0,Shopping;Plage détente;Sports nautiques,Printemps,Oui,0
+CLI00123,Matt,Earhart,27,M,Gafsa,Célibataire,5498,Aventurier,2023-12-29,augmenté,14,54811.155,3915.0825,2026-05-20,118,0.2631578947368421,Rural/Nature,5377.0,Sports nautiques;Spa & bien-être,Automne,Non,4
+CLI00124,Harry,Elessedil,50,F,Gabès,Célibataire,2564,Culturel,2023-05-27,augmenté,19,70340.83,3702.148947368421,2026-11-01,-47,0.20833333333333334,Rural/Nature,5382.0,Photographie;Spa & bien-être;Gastronomie,Printemps,Oui,1
+CLI00125,Oliver,Jones,37,F,Gabès,Célibataire,4151,Luxe,2024-03-09,augmenté,25,96333.1,3853.324,2026-04-05,163,0.038461538461538464,Aventure,8860.0,Spa & bien-être;Safari,Été,Non,3
+CLI00126,Elektra,Queen,44,F,Kairouan,Célibataire,3345,Budget,2025-09-27,augmenté,22,89924.66,4087.4845454545457,2026-12-03,-79,0.043478260869565216,Rural/Nature,923.0,Plongée;Randonnée;Musées,Été,Oui,2
+CLI00127,Jessica,Queen,37,M,Ariana,Marié(e),4559,Farniente,2022-01-18,augmenté,28,107239.91500000001,3829.9969642857145,2026-11-22,-68,0.034482758620689655,Rural/Nature,5235.0,Shopping;Plongée;Plage détente,Printemps,Non,3
+CLI00128,Sherlock,Holmes,30,F,Ariana,Marié(e) avec enfants,1824,Farniente,2023-02-07,augmenté,34,204330.565,6009.7225,2026-10-14,-29,0.02857142857142857,Croisière,4547.0,Plage détente;Gastronomie,Été,Non,3
+CLI00129,Elektra,Elessedil,35,F,Monastir,Marié(e),2048,Familial,2021-07-28,augmenté,20,85581.19,4279.0595,2026-11-27,-73,0.13043478260869565,Urbain,3607.0,Musées;Gastronomie;Photographie,Printemps,Non,0
+CLI00130,Luke,Natchios,36,F,Ariana,Célibataire,6764,Luxe,2025-03-14,augmenté,28,162636.92,5808.461428571429,2026-11-23,-69,0.125,Montagne,12432.0,Musées;Plage détente,Printemps,Oui,3
+CLI00131,Emma,Potter,42,M,Sfax,Marié(e) avec enfants,1458,Budget,2023-01-08,augmenté,14,48778.74,3484.195714285714,2026-12-08,-84,0.125,Plage,1607.0,Photographie;Musées;Shopping,Automne,Non,2
+CLI00132,Jessica,Natchios,29,M,Gabès,Célibataire,3535,Familial,2022-08-15,augmenté,18,92687.44,5149.302222222223,2026-05-09,129,0.1,Urbain,5000.0,Shopping;Safari;Spa & bien-être,Printemps,Non,0
+CLI00133,Matt,Holmes,28,F,Ariana,Célibataire,1363,Culturel,2023-12-03,augmenté,20,98279.43000000001,4913.971500000001,2026-10-20,-35,0.13043478260869565,Montagne,2929.0,Vie nocturne;Plage détente;Sports nautiques,Été,Oui,0
+CLI00134,Emma,Swan,39,M,Nabeul,Marié(e) avec enfants,3780,Budget,2022-04-22,augmenté,9,38192.675,4243.6305555555555,2026-09-17,-2,0.47058823529411764,Plage,1441.0,Safari;Plage détente,Printemps,Oui,1
+CLI00135,Luke,Natchios,28,M,Nabeul,Marié(e) avec enfants,3745,Farniente,2023-07-18,augmenté,18,60589.1,3366.061111111111,2026-10-26,-41,0.05263157894736842,Plage,4024.0,Vie nocturne;Randonnée,Printemps,Non,0
+CLI00136,Jessica,Elessedil,52,F,Kairouan,Célibataire,915,Familial,2022-11-09,augmenté,20,100182.115,5009.105750000001,2026-11-24,-70,0.13043478260869565,Montagne,4605.0,Shopping;Ski,Été,Non,2
+CLI00137,Jessica,Clarke,56,F,Monastir,Marié(e) avec enfants,2470,Familial,2026-03-10,augmenté,16,52981.37,3311.335625,2026-10-26,-41,0.1111111111111111,Plage,5721.0,Musées;Spa & bien-être;Randonnée,Hiver,Oui,2
+CLI00138,Sherlock,Murdock,40,F,Sfax,Célibataire,1558,Luxe,2023-06-20,augmenté,18,82694.54000000001,4594.141111111112,2026-11-23,-69,0.0,Urbain,11888.0,Plongée;Spa & bien-être,Automne,Non,2
+CLI00139,Matt,Holmes,23,M,Gabès,Célibataire,4415,Culturel,2022-08-12,augmenté,14,54120.82,3865.772857142857,2025-12-08,281,0.06666666666666667,Culturel,3544.0,Safari;Randonnée;Gastronomie,Été,Oui,4
+CLI00140,Emma,Natchios,18,M,Monastir,Marié(e) avec enfants,3044,Luxe,2024-10-29,augmenté,4,10159.34,2539.835,2026-03-26,173,0.3333333333333333,Culturel,14023.0,Safari;Ski,Printemps,Non,4
+CLI00141,Elektra,Murdock,27,M,Kairouan,Célibataire,4898,Aventurier,2026-03-21,augmenté,30,161269.72,5375.657333333334,2026-10-26,-41,0.14285714285714285,Montagne,3489.0,Photographie;Randonnée,Hiver,Oui,3
+CLI00142,Amberle,Natchios,39,M,Bizerte,Célibataire,3417,Budget,2022-06-15,augmenté,9,55162.335,6129.1483333333335,2026-02-15,212,0.25,Culturel,1071.0,Sports nautiques;Safari,Été,Non,4
+CLI00143,Sherlock,Holmes,67,F,Bizerte,Célibataire,1491,Culturel,2021-07-07,augmenté,11,48654.01,4423.091818181819,2026-09-18,-3,0.21428571428571427,Urbain,1858.0,Musées;Safari;Ski,Été,Oui,1
+CLI00144,Harry,Jones,29,M,Gabès,Célibataire,3828,Budget,2025-09-09,augmenté,21,98585.695,4694.556904761905,2026-09-25,-10,0.045454545454545456,Rural/Nature,923.0,Shopping;Safari;Photographie,Hiver,Oui,0
+CLI00145,Emilia,Potter,31,M,Kairouan,Célibataire,5266,Luxe,2021-12-27,augmenté,16,45432.99,2839.561875,2026-08-16,30,0.2,Culturel,17256.0,Randonnée;Ski,Hiver,Non,0
+CLI00146,Elektra,Jones,51,M,Ariana,Marié(e) avec enfants,2592,Familial,2021-08-31,augmenté,7,26839.455,3834.2078571428574,2026-12-27,-103,0.125,Plage,5170.0,Musées;Safari;Spa & bien-être,Hiver,Oui,1
+CLI00147,Emma,Earhart,31,M,Bizerte,Marié(e),1767,Farniente,2024-05-17,augmenté,9,28986.45,3220.7166666666667,2026-05-08,130,0.25,Plage,2518.0,Plage détente;Spa & bien-être;Sports nautiques,Hiver,Oui,4
+CLI00148,Emma,Earhart,41,F,Bizerte,Célibataire,2346,Aventurier,2023-12-27,augmenté,23,87454.82,3802.3834782608697,2026-08-21,25,0.08,Aventure,4001.0,Randonnée;Shopping;Safari,Automne,Non,2
+CLI00149,Jessica,Holmes,35,F,Sfax,Marié(e),3268,Farniente,2022-05-29,augmenté,20,73533.8,3676.69,2026-11-08,-54,0.09090909090909091,Plage,5288.0,Gastronomie;Randonnée;Photographie,Printemps,Non,0
+CLI00150,Sherlock,Cage,35,F,Gafsa,Célibataire,1105,Familial,2023-12-08,augmenté,26,128952.995,4959.730576923077,2026-12-13,-89,0.037037037037037035,Croisière,8889.0,Sports nautiques;Ski;Plage détente,Automne,Oui,3
+CLI00151,Emma,Murdock,48,F,Monastir,Marié(e) avec enfants,4512,Aventurier,2021-09-16,augmenté,6,19596.1,3266.0166666666664,2026-06-13,94,0.25,Culturel,5398.0,Vie nocturne;Musées,Automne,Non,1
+CLI00152,Elektra,Jones,56,M,Sousse,Célibataire,4530,Aventurier,2022-06-30,augmenté,20,99828.9,4991.445,2026-08-18,28,0.2,Montagne,2571.0,Musées;Sports nautiques,Automne,Non,2
+CLI00153,Amelia,Natchios,43,F,Gabès,Marié(e) avec enfants,2392,Familial,2024-08-05,augmenté,22,102933.05,4678.775000000001,2026-10-20,-35,0.12,Rural/Nature,7219.0,Spa & bien-être;Randonnée;Ski,Automne,Non,3
+CLI00154,Harry,Elessedil,18,F,Gabès,Marié(e) avec enfants,1808,Luxe,2024-09-16,augmenté,17,49912.62,2936.0364705882353,2026-10-14,-29,0.05555555555555555,Culturel,15719.0,Photographie;Safari;Musées,Hiver,Oui,0
+CLI00155,Elektra,Queen,37,M,Sousse,Célibataire,2579,Culturel,2024-12-31,augmenté,17,67892.03,3993.648823529412,2026-03-19,180,0.05555555555555555,Culturel,3130.0,Sports nautiques;Ski,Été,Non,2
+CLI00156,Jessica,Earhart,27,F,Sfax,Marié(e),3608,Culturel,2025-06-18,augmenté,15,84276.865,5618.457666666667,2025-11-01,318,0.0,Urbain,3682.0,Vie nocturne;Gastronomie,Été,Oui,4
+CLI00157,Emilia,Potter,29,F,Sfax,Célibataire,4332,Budget,2024-09-01,augmenté,20,66095.18,3304.7589999999996,2026-12-19,-95,0.2,Rural/Nature,1504.0,Randonnée;Plongée,Hiver,Non,0
+CLI00158,Amelia,Elessedil,29,M,Tunis,Marié(e),3026,Farniente,2022-09-07,augmenté,22,81365.45,3698.4295454545454,2026-11-26,-72,0.18518518518518517,Rural/Nature,3900.0,Musées;Shopping,Automne,Oui,0
+CLI00159,Amberle,Elessedil,49,F,Monastir,Célibataire,2688,Aventurier,2025-07-05,augmenté,19,75719.305,3985.226578947368,2026-10-15,-30,0.20833333333333334,Montagne,4426.0,Vie nocturne;Sports nautiques,Été,Oui,1
+CLI00160,Jessica,Queen,40,F,Sousse,Marié(e) avec enfants,3530,Culturel,2025-06-07,augmenté,17,81607.14,4800.42,2026-06-10,97,0.15,Culturel,3501.0,Plongée;Ski,Été,Non,2
+CLI00161,Matt,Cage,37,M,Kairouan,Célibataire,4957,Culturel,2022-12-12,augmenté,21,94172.89,4484.423333333333,2026-11-25,-71,0.16,Croisière,5465.0,Plage détente;Ski,Hiver,Non,3
+CLI00162,Emilia,Elessedil,40,F,Bizerte,Marié(e),1209,Familial,2023-12-28,augmenté,18,77785.615,4321.423055555556,2026-07-20,57,0.25,Rural/Nature,3287.0,Vie nocturne;Safari;Ski,Hiver,Oui,1
+CLI00163,Emma,Swan,56,F,Bizerte,Célibataire,4547,Budget,2021-09-10,augmenté,16,59582.205,3723.8878125,2026-05-09,129,0.2,Rural/Nature,899.0,Randonnée;Gastronomie,Été,Non,1
+CLI00164,Amberle,Holmes,37,M,Sfax,Célibataire,5339,Luxe,2023-01-13,augmenté,23,94242.965,4097.520217391304,2026-12-25,-101,0.17857142857142858,Croisière,7982.0,Photographie;Gastronomie,Été,Non,3
+CLI00165,Emilia,Elessedil,44,M,Ariana,Marié(e),2866,Luxe,2024-04-23,augmenté,10,46258.415,4625.8415,2025-06-12,460,0.2857142857142857,Urbain,14010.0,Safari;Randonnée,Automne,Non,4
+CLI00166,Amelia,Jones,28,F,Monastir,Marié(e) avec enfants,2890,Farniente,2024-09-30,augmenté,21,83829.38500000001,3991.8754761904765,2026-10-19,-34,0.045454545454545456,Plage,2685.0,Ski;Shopping,Été,Non,0
+CLI00167,Harry,Natchios,34,M,Monastir,Marié(e),3623,Budget,2021-05-07,augmenté,17,81500.895,4794.170294117647,2026-09-02,13,0.19047619047619047,Urbain,2388.0,Plage détente;Sports nautiques;Vie nocturne,Hiver,Non,0
+CLI00168,Elektra,Cage,18,F,Gabès,Marié(e) avec enfants,2040,Farniente,2024-07-08,augmenté,14,42088.65,3006.332142857143,2026-09-02,13,0.06666666666666667,Plage,4671.0,Spa & bien-être;Sports nautiques,Automne,Non,0
+CLI00169,Luke,Holmes,48,M,Gabès,Marié(e),4933,Farniente,2025-05-13,augmenté,21,87904.575,4185.932142857143,2026-05-17,121,0.0,Montagne,4349.0,Musées;Gastronomie;Photographie,Printemps,Non,2
+CLI00170,Amberle,Murdock,38,M,Gafsa,Marié(e) avec enfants,5735,Farniente,2021-08-12,augmenté,16,72983.595,4561.4746875,2026-11-21,-67,0.058823529411764705,Plage,6925.0,Shopping;Vie nocturne;Musées,Hiver,Oui,0
+CLI00171,Amberle,Potter,45,F,Bizerte,Célibataire,4035,Luxe,2025-03-20,augmenté,16,93964.91,5872.806875,2025-05-01,502,0.15789473684210525,Croisière,8181.0,Ski;Vie nocturne,Printemps,Oui,4
+CLI00172,Harry,Holmes,47,F,Sfax,Célibataire,5537,Farniente,2021-10-27,augmenté,13,64926.619999999995,4994.3553846153845,2026-09-02,13,0.2777777777777778,Urbain,6585.0,Vie nocturne;Ski;Photographie,Printemps,Oui,1
+CLI00173,Emma,Jones,42,M,Gafsa,Marié(e) avec enfants,3523,Luxe,2021-02-26,augmenté,11,32929.74,2993.612727272727,2026-08-21,25,0.15384615384615385,Culturel,10255.0,Shopping;Randonnée;Sports nautiques,Été,Non,1
+CLI00174,Emma,Jones,40,M,Bizerte,Célibataire,2564,Farniente,2023-07-19,augmenté,9,33964.42,3773.8244444444445,2026-11-01,-47,0.0,Plage,6907.0,Plage détente;Sports nautiques;Plongée,Printemps,Non,2
+CLI00175,Jessica,Jones,28,M,Monastir,Célibataire,2558,Familial,2022-07-16,augmenté,12,44555.525,3712.960416666667,2026-09-18,-3,0.29411764705882354,Urbain,3155.0,Sports nautiques;Plongée;Musées,Automne,Non,1
+CLI00176,Harry,Earhart,33,F,Monastir,Célibataire,2617,Aventurier,2025-03-09,augmenté,24,109815.91,4575.662916666667,2026-11-27,-73,0.07692307692307693,Aventure,2619.0,Sports nautiques;Plage détente,Hiver,Non,3
+CLI00177,Harry,Natchios,23,F,Sousse,Marié(e),3172,Familial,2024-12-31,augmenté,13,72661.06,5589.3123076923075,2026-12-01,-77,0.0,Plage,7241.0,Musées;Plongée;Plage détente,Hiver,Oui,0
+CLI00178,Matt,Earhart,30,M,Bizerte,Célibataire,3974,Familial,2020-12-19,augmenté,19,77348.61,4070.9794736842105,2026-08-24,22,0.17391304347826086,Urbain,5462.0,Plage détente;Spa & bien-être;Gastronomie,Automne,Non,0
+CLI00179,Emilia,Natchios,32,F,Gafsa,Marié(e) avec enfants,2384,Farniente,2025-04-28,augmenté,15,53630.95,3575.3966666666665,2026-12-23,-99,0.0625,Plage,2631.0,Vie nocturne;Plongée,Hiver,Non,0
+CLI00180,Emilia,Clarke,35,M,Nabeul,Marié(e),1341,Luxe,2025-07-14,augmenté,10,48087.05,4808.705,2026-05-06,132,0.0,Urbain,8678.0,Plage détente;Spa & bien-être,Été,Non,2
+CLI00181,Oliver,Swan,37,M,Tunis,Marié(e) avec enfants,4205,Luxe,2021-01-26,augmenté,8,31420.38,3927.5475,2026-08-27,19,0.1111111111111111,Culturel,15616.0,Plage détente;Musées,Printemps,Non,1
+CLI00182,Matt,Queen,58,F,Gabès,Marié(e),2624,Aventurier,2025-01-13,augmenté,31,178645.95500000002,5762.772741935484,2026-12-19,-95,0.1388888888888889,Montagne,2284.0,Safari;Plage détente,Hiver,Non,3
+CLI00183,Oliver,Potter,44,F,Nabeul,Marié(e),4472,Budget,2024-11-17,augmenté,9,52633.9,5848.211111111112,2026-05-20,118,0.18181818181818182,Urbain,1952.0,Photographie;Musées,Automne,Non,1
+CLI00184,Emilia,Elessedil,55,M,Gafsa,Marié(e) avec enfants,2356,Familial,2021-07-22,augmenté,14,61197.59,4371.256428571428,2026-08-17,29,0.17647058823529413,Urbain,5628.0,Plage détente;Gastronomie,Printemps,Oui,2
+CLI00185,Amberle,Swan,43,F,Monastir,Marié(e) avec enfants,1833,Budget,2026-03-07,augmenté,20,92246.345,4612.31725,2026-12-22,-98,0.2,Rural/Nature,1551.0,Shopping;Ski;Plage détente,Été,Non,3
+CLI00186,Amelia,Potter,27,M,Bizerte,Marié(e),2195,Budget,2023-03-14,augmenté,16,66387.765,4149.2353125,2026-10-22,-37,0.058823529411764705,Urbain,1219.0,Gastronomie;Musées,Hiver,Non,0
+CLI00187,Luke,Swan,32,M,Monastir,Marié(e),4699,Farniente,2022-09-24,augmenté,22,109503.56,4977.4345454545455,2026-12-11,-87,0.043478260869565216,Croisière,2579.0,Safari;Shopping;Musées,Printemps,Non,3
+CLI00188,Amberle,Natchios,29,F,Ariana,Marié(e) avec enfants,3882,Culturel,2022-12-19,augmenté,12,42396.83,3533.0691666666667,2026-11-27,-73,0.2,Culturel,2850.0,Randonnée;Gastronomie,Été,Non,1
+CLI00189,Oliver,Murdock,44,F,Gabès,Marié(e),2419,Familial,2025-08-11,augmenté,17,57165.9,3362.7000000000003,2026-12-17,-93,0.10526315789473684,Culturel,8108.0,Ski;Gastronomie;Photographie,Printemps,Non,2
+CLI00190,Emma,Swan,25,F,Tunis,Marié(e),2349,Aventurier,2024-12-27,augmenté,20,102103.65,5105.1825,2026-12-14,-90,0.13043478260869565,Montagne,3660.0,Gastronomie;Photographie;Musées,Automne,Non,0
+CLI00191,Sherlock,Potter,57,M,Kairouan,Marié(e) avec enfants,3535,Luxe,2022-02-25,augmenté,24,112797.505,4699.896041666667,2026-12-25,-101,0.1111111111111111,Croisière,8165.0,Ski;Plongée;Shopping,Été,Oui,3
+CLI00192,Harry,Queen,55,M,Sousse,Marié(e) avec enfants,1625,Aventurier,2026-05-11,augmenté,28,147919.655,5282.844821428572,2026-10-16,-31,0.17647058823529413,Montagne,2015.0,Photographie;Musées;Vie nocturne,Automne,Non,3
+CLI00193,Amelia,Elessedil,45,M,Sousse,Marié(e) avec enfants,2776,Familial,2024-12-14,augmenté,17,76271.70999999999,4486.5711764705875,2026-07-25,52,0.10526315789473684,Plage,3444.0,Shopping;Spa & bien-être;Ski,Automne,Non,2
+CLI00194,Elektra,Queen,28,M,Monastir,Marié(e) avec enfants,4826,Aventurier,2022-01-11,augmenté,20,76996.66,3849.833,2026-03-26,173,0.09090909090909091,Rural/Nature,4289.0,Plage détente;Plongée;Gastronomie,Automne,Non,0
+CLI00195,Amelia,Jones,28,M,Ariana,Marié(e),2791,Budget,2020-11-10,augmenté,22,103597.48,4708.976363636363,2026-06-09,98,0.08333333333333333,Rural/Nature,1249.0,Shopping;Plage détente,Hiver,Oui,3
+CLI00196,Sherlock,Swan,19,M,Sousse,Célibataire,1403,Aventurier,2022-04-22,augmenté,9,27889.93,3098.8811111111113,2026-07-08,69,0.1,Culturel,3420.0,Photographie;Randonnée;Shopping,Automne,Non,0
+CLI00197,Jessica,Natchios,26,F,Monastir,Célibataire,5033,Familial,2025-10-14,augmenté,17,79344.74,4667.337647058824,2026-12-20,-96,0.10526315789473684,Culturel,4998.0,Photographie;Gastronomie;Musées,Hiver,Non,0
+CLI00198,Amberle,Elessedil,31,F,Monastir,Marié(e),2064,Farniente,2024-02-24,augmenté,15,64470.76,4298.050666666667,2026-10-09,-24,0.11764705882352941,Plage,4590.0,Safari;Photographie;Ski,Automne,Non,0
+CLI00199,Jessica,Earhart,49,F,Sfax,Célibataire,4367,Familial,2025-12-01,augmenté,20,85692.625,4284.63125,2026-10-19,-34,0.13043478260869565,Rural/Nature,3785.0,Shopping;Safari,Hiver,Non,2
+CLI00200,Amelia,Clarke,32,M,Gabès,Marié(e),3068,Luxe,2021-05-19,augmenté,25,129027.855,5161.1142,2026-10-22,-37,0.07407407407407407,Montagne,13729.0,Randonnée;Ski,Hiver,Non,3
+CLI00201,Amelia,Earhart,34,F,Nabeul,Célibataire,3676,Budget,2023-06-21,augmenté,14,69422.625,4958.758928571428,2026-11-07,-53,0.2631578947368421,Plage,2446.0,Spa & bien-être;Shopping;Randonnée,Printemps,Non,1
+CLI00202,Sherlock,Jones,31,M,Ariana,Célibataire,3745,Budget,2021-04-25,augmenté,18,73411.5,4078.4166666666665,2026-07-09,68,0.05263157894736842,Urbain,1456.0,Randonnée;Vie nocturne;Plage détente,Automne,Non,0
+CLI00203,Oliver,Murdock,28,M,Sousse,Marié(e) avec enfants,3579,Farniente,2022-08-20,augmenté,9,21563.489999999998,2395.943333333333,2026-08-24,22,0.1,Plage,4896.0,Plage détente;Shopping,Automne,Non,0
+CLI00204,Emma,Cage,41,M,Sousse,Marié(e) avec enfants,1340,Budget,2023-03-16,augmenté,20,83824.62,4191.231,2026-12-13,-89,0.16666666666666666,Plage,1125.0,Shopping;Spa & bien-être;Sports nautiques,Hiver,Non,2
+CLI00205,Harry,Queen,50,M,Sfax,Célibataire,3541,Aventurier,2021-12-22,augmenté,19,77233.88,4064.941052631579,2026-09-22,-7,0.05,Aventure,3433.0,Randonnée;Gastronomie,Hiver,Non,2
+CLI00206,Sherlock,Potter,32,M,Sousse,Célibataire,5921,Luxe,2022-01-15,augmenté,14,37272.205,2662.300357142857,2026-10-20,-35,0.2631578947368421,Urbain,13261.0,Ski;Plage détente,Printemps,Oui,1
+CLI00207,Sherlock,Holmes,18,M,Nabeul,Célibataire,3857,Farniente,2021-01-06,augmenté,20,60322.72,3016.136,2026-11-26,-72,0.09090909090909091,Plage,4372.0,Ski;Gastronomie,Printemps,Oui,0
+CLI00208,Matt,Jones,25,F,Gafsa,Célibataire,2366,Budget,2025-03-02,augmenté,19,68763.79,3619.1468421052627,2026-08-15,31,0.13636363636363635,Aventure,2246.0,Plongée;Randonnée,Hiver,Non,0
+CLI00209,Jessica,Jones,23,F,Sfax,Marié(e) avec enfants,4213,Budget,2024-04-24,augmenté,16,48844.36,3052.7725,2026-05-16,122,0.2,Rural/Nature,1608.0,Sports nautiques;Randonnée,Été,Non,4
+CLI00210,Amelia,Cage,46,M,Gabès,Marié(e),2668,Aventurier,2026-03-28,augmenté,23,88392.755,3843.1632608695654,2026-10-02,-17,0.11538461538461539,Aventure,2915.0,Ski;Musées;Plongée,Automne,Non,2
+CLI00211,Matt,Murdock,24,M,Monastir,Célibataire,2937,Budget,2025-11-09,augmenté,14,52440.495,3745.749642857143,2026-07-25,52,0.2631578947368421,Urbain,1438.0,Plongée;Plage détente,Printemps,Non,1
+CLI00212,Amelia,Natchios,26,F,Nabeul,Marié(e),3957,Aventurier,2023-12-11,augmenté,24,89849.52,3743.73,2026-11-25,-71,0.1111111111111111,Aventure,3653.0,Safari;Musées,Été,Oui,0
+CLI00213,Emma,Cage,48,M,Kairouan,Célibataire,6279,Luxe,2025-07-15,augmenté,16,69506.48,4344.155,2026-12-24,-100,0.1111111111111111,Croisière,11234.0,Sports nautiques;Spa & bien-être;Gastronomie,Printemps,Oui,2
+CLI00214,Jessica,Elessedil,44,M,Gabès,Célibataire,3320,Farniente,2020-10-10,augmenté,18,68357.19,3797.621666666667,2026-10-04,-19,0.1,Plage,4550.0,Gastronomie;Safari,Été,Oui,2
+CLI00215,Luke,Swan,31,F,Nabeul,Marié(e),4530,Aventurier,2022-02-03,augmenté,23,122362.455,5320.106739130435,2026-09-15,0,0.14814814814814814,Montagne,2001.0,Plongée;Vie nocturne,Hiver,Non,3
+CLI00216,Emilia,Murdock,58,F,Bizerte,Célibataire,3694,Farniente,2024-10-25,augmenté,7,16838.22,2405.46,2026-09-21,-6,0.125,Plage,2853.0,Photographie;Vie nocturne,Automne,Non,1
+CLI00217,Emilia,Queen,54,M,Monastir,Marié(e) avec enfants,3571,Aventurier,2023-12-14,augmenté,18,74278.995,4126.610833333333,2026-06-11,96,0.05263157894736842,Aventure,3534.0,Plage détente;Vie nocturne;Photographie,Hiver,Oui,2
+CLI00218,Amberle,Natchios,45,F,Sousse,Marié(e) avec enfants,2284,Culturel,2025-03-08,augmenté,14,42017.58,3001.2557142857145,2026-11-15,-61,0.2222222222222222,Plage,4190.0,Spa & bien-être;Musées;Photographie,Été,Non,1
+CLI00219,Amelia,Elessedil,18,M,Nabeul,Marié(e),5205,Budget,2026-02-19,augmenté,13,51106.18,3931.2446153846154,2026-09-03,12,0.07142857142857142,Rural/Nature,1622.0,Plongée;Plage détente,Été,Non,0
+CLI00220,Jessica,Earhart,34,F,Monastir,Marié(e),2909,Familial,2022-11-01,augmenté,28,117723.52,4204.411428571429,2026-12-25,-101,0.125,Montagne,3786.0,Musées;Plage détente;Vie nocturne,Automne,Oui,3
+CLI00221,Amelia,Earhart,18,F,Monastir,Célibataire,2584,Farniente,2024-08-17,augmenté,15,59471.49,3964.766,2026-11-02,-48,0.0625,Plage,2762.0,Vie nocturne;Plage détente;Ski,Automne,Non,0
+CLI00222,Harry,Clarke,18,F,Bizerte,Célibataire,6415,Culturel,2026-03-28,augmenté,11,62389.745,5671.795,2026-11-05,-51,0.08333333333333333,Urbain,1941.0,Ski;Randonnée,Automne,Oui,0
+CLI00223,Amelia,Clarke,31,F,Tunis,Célibataire,2767,Aventurier,2025-09-10,augmenté,16,40614.58,2538.41125,2026-11-12,-58,0.0,Plage,5836.0,Musées;Shopping;Sports nautiques,Été,Oui,0
+CLI00224,Harry,Cage,28,F,Tunis,Célibataire,4361,Aventurier,2024-05-22,augmenté,11,37016.0,3365.090909090909,2026-05-08,130,0.42105263157894735,Aventure,2634.0,Ski;Randonnée,Printemps,Non,1
+CLI00225,Matt,Cage,31,F,Tunis,Célibataire,3174,Culturel,2022-06-21,augmenté,12,50874.34,4239.528333333333,2026-12-13,-89,0.14285714285714285,Plage,2061.0,Photographie;Randonnée,Printemps,Non,0
+CLI00226,Matt,Elessedil,50,F,Ariana,Marié(e) avec enfants,4280,Budget,2021-04-12,augmenté,22,73216.78,3328.0354545454543,2026-12-21,-97,0.12,Rural/Nature,1865.0,Gastronomie;Shopping;Randonnée,Automne,Non,2
+CLI00227,Harry,Queen,56,F,Bizerte,Marié(e) avec enfants,2523,Aventurier,2024-08-20,augmenté,18,59422.08,3301.226666666667,2026-12-27,-103,0.0,Rural/Nature,5080.0,Vie nocturne;Safari,Printemps,Oui,2
+CLI00228,Sherlock,Jones,39,M,Monastir,Marié(e) avec enfants,700,Culturel,2021-10-07,augmenté,8,31840.195,3980.024375,2026-10-10,-25,0.2727272727272727,Culturel,4128.0,Ski;Plage détente;Spa & bien-être,Automne,Non,1
+CLI00229,Emilia,Potter,29,M,Sfax,Marié(e) avec enfants,2463,Farniente,2026-05-04,augmenté,24,134883.43,5620.142916666667,2026-09-24,-9,0.1724137931034483,Croisière,5874.0,Plongée;Randonnée,Automne,Oui,3
+CLI00230,Harry,Holmes,56,M,Kairouan,Marié(e) avec enfants,3832,Aventurier,2024-11-26,augmenté,21,81371.56,3874.8361904761905,2026-09-08,7,0.08695652173913043,Urbain,2912.0,Sports nautiques;Photographie;Safari,Automne,Non,2
+CLI00231,Amberle,Holmes,25,F,Ariana,Marié(e) avec enfants,824,Aventurier,2021-07-17,augmenté,24,115354.63500000001,4806.443125000001,2026-11-26,-72,0.14285714285714285,Aventure,5239.0,Shopping;Sports nautiques,Automne,Non,3
+CLI00232,Emilia,Swan,30,F,Sfax,Marié(e),4557,Familial,2022-08-16,augmenté,6,20952.239999999998,3492.0399999999995,2026-07-06,71,0.3333333333333333,Plage,8604.0,Safari;Randonnée,Été,Non,1
+CLI00233,Elektra,Swan,43,M,Sousse,Marié(e),2827,Farniente,2021-06-14,augmenté,14,67185.065,4798.933214285715,2026-02-01,226,0.06666666666666667,Plage,2983.0,Safari;Vie nocturne,Printemps,Non,4
+CLI00234,Emma,Natchios,55,M,Tunis,Marié(e),700,Farniente,2023-07-02,augmenté,15,44542.51,2969.500666666667,2026-11-26,-72,0.11764705882352941,Culturel,4405.0,Safari;Musées,Hiver,Oui,2
+CLI00235,Sherlock,Elessedil,52,F,Bizerte,Célibataire,2634,Aventurier,2024-05-06,augmenté,19,68540.07,3607.372105263158,2026-11-06,-52,0.17391304347826086,Rural/Nature,5278.0,Shopping;Gastronomie;Spa & bien-être,Hiver,Oui,2
+CLI00236,Harry,Holmes,39,F,Tunis,Célibataire,2412,Luxe,2026-04-13,augmenté,23,77288.47,3360.3682608695653,2026-12-10,-86,0.08,Urbain,18886.0,Spa & bien-être;Musées;Plage détente,Été,Non,2
+CLI00237,Oliver,Elessedil,35,M,Gabès,Célibataire,5847,Culturel,2021-06-03,augmenté,17,81911.905,4818.347352941177,2026-11-22,-68,0.05555555555555555,Urbain,3313.0,Spa & bien-être;Photographie,Été,Non,0
+CLI00238,Amberle,Cage,32,F,Gabès,Célibataire,725,Luxe,2021-07-23,augmenté,24,104015.23000000001,4333.967916666667,2026-07-05,72,0.14285714285714285,Croisière,15578.0,Randonnée;Musées,Printemps,Oui,3
+CLI00239,Oliver,Potter,20,M,Gafsa,Marié(e) avec enfants,3069,Aventurier,2021-11-19,augmenté,16,55293.4,3455.8375,2026-02-16,211,0.058823529411764705,Rural/Nature,4219.0,Plongée;Musées,Hiver,Non,4
+CLI00240,Luke,Jones,40,M,Kairouan,Célibataire,3174,Aventurier,2021-05-02,augmenté,26,91810.13,3531.1588461538463,2026-08-10,36,0.10344827586206896,Aventure,5206.0,Vie nocturne;Gastronomie,Printemps,Non,3
+CLI00241,Elektra,Murdock,42,F,Gabès,Célibataire,3959,Farniente,2024-07-16,augmenté,17,75752.53,4456.031176470588,2026-11-21,-67,0.22727272727272727,Plage,6851.0,Ski;Gastronomie,Automne,Non,1
+CLI00242,Oliver,Cage,48,F,Sousse,Célibataire,4545,Luxe,2023-01-21,augmenté,21,146688.355,6985.1597619047625,2026-11-19,-65,0.25,Croisière,12235.0,Musées;Gastronomie;Safari,Automne,Oui,3
+CLI00243,Sherlock,Cage,18,M,Gafsa,Marié(e) avec enfants,4194,Farniente,2020-09-25,augmenté,12,39053.135,3254.427916666667,2026-12-13,-89,0.07692307692307693,Plage,3708.0,Randonnée;Shopping;Plage détente,Automne,Non,0
+CLI00244,Matt,Queen,48,F,Gabès,Marié(e),3318,Familial,2021-05-25,augmenté,13,58515.380000000005,4501.183076923077,2026-11-08,-54,0.13333333333333333,Plage,6717.0,Plage détente;Ski;Spa & bien-être,Printemps,Non,2
+CLI00245,Amelia,Earhart,36,M,Bizerte,Marié(e),2693,Aventurier,2023-12-14,augmenté,13,61594.490000000005,4738.037692307693,2026-09-12,3,0.23529411764705882,Plage,4867.0,Vie nocturne;Safari,Automne,Non,1
+CLI00246,Harry,Earhart,41,M,Kairouan,Marié(e),3727,Aventurier,2021-10-10,augmenté,19,56529.47,2975.2352631578947,2026-11-22,-68,0.17391304347826086,Rural/Nature,2756.0,Safari;Musées,Hiver,Non,1
+CLI00247,Harry,Jones,37,F,Gafsa,Célibataire,4095,Farniente,2025-07-14,augmenté,11,58048.740000000005,5277.158181818182,2026-02-09,218,0.21428571428571427,Croisière,2901.0,Plongée;Gastronomie;Ski,Printemps,Non,4
+CLI00248,Emilia,Murdock,29,F,Bizerte,Marié(e) avec enfants,700,Budget,2021-12-10,augmenté,7,41910.33,5987.1900000000005,2026-12-26,-102,0.3,Urbain,2027.0,Shopping;Gastronomie,Automne,Oui,1
+CLI00249,Matt,Swan,18,F,Gabès,Marié(e),1767,Aventurier,2022-12-09,augmenté,12,49764.53,4147.044166666667,2026-10-05,-20,0.0,Culturel,4504.0,Photographie;Sports nautiques,Hiver,Non,0
+CLI00250,Elektra,Holmes,28,M,Gabès,Célibataire,4773,Culturel,2021-08-09,augmenté,16,64418.56,4026.16,2026-08-20,26,0.15789473684210525,Culturel,3453.0,Gastronomie;Spa & bien-être,Hiver,Non,0
+CLI00251,Sherlock,Swan,49,F,Sousse,Marié(e) avec enfants,4534,Farniente,2025-02-21,augmenté,13,47237.22,3633.6323076923077,2025-12-12,277,0.07142857142857142,Plage,3346.0,Ski;Sports nautiques;Safari,Hiver,Non,4
+CLI00252,Emma,Queen,44,F,Tunis,Marié(e) avec enfants,3789,Familial,2026-01-28,augmenté,16,71185.525,4449.0953125,2026-12-13,-89,0.2,Urbain,4262.0,Gastronomie;Safari;Vie nocturne,Hiver,Non,1
+CLI00253,Sherlock,Elessedil,30,F,Kairouan,Célibataire,1856,Culturel,2025-06-29,augmenté,23,125204.08,5443.655652173913,2026-12-18,-94,0.11538461538461539,Urbain,4419.0,Plage détente;Gastronomie,Printemps,Non,3
+CLI00254,Amberle,Murdock,49,F,Sousse,Marié(e),5615,Luxe,2020-11-23,augmenté,30,164082.565,5469.418833333333,2026-12-24,-100,0.09090909090909091,Croisière,10779.0,Ski;Plage détente,Automne,Non,3
+CLI00255,Sherlock,Elessedil,46,M,Monastir,Célibataire,2537,Aventurier,2025-05-24,augmenté,19,79030.86,4159.518947368421,2026-08-22,24,0.20833333333333334,Aventure,5338.0,Ski;Sports nautiques,Automne,Non,1
+CLI00256,Sherlock,Natchios,45,F,Kairouan,Célibataire,2095,Culturel,2022-04-09,augmenté,12,42579.88,3548.3233333333333,2026-12-02,-78,0.29411764705882354,Culturel,3453.0,Ski;Sports nautiques,Été,Oui,1
+CLI00257,Oliver,Natchios,32,F,Gabès,Marié(e),3310,Farniente,2022-05-13,augmenté,23,107946.13500000001,4693.310217391305,2026-11-10,-56,0.11538461538461539,Rural/Nature,6364.0,Safari;Spa & bien-être,Printemps,Oui,3
+CLI00258,Emma,Earhart,38,M,Bizerte,Marié(e),4149,Farniente,2022-07-29,augmenté,28,143460.59,5123.5925,2026-12-21,-97,0.125,Croisière,4779.0,Spa & bien-être;Plongée;Musées,Printemps,Oui,3
+CLI00259,Sherlock,Holmes,42,M,Bizerte,Célibataire,3866,Familial,2023-10-06,augmenté,16,62752.99,3922.061875,2026-08-26,20,0.15789473684210525,Plage,3135.0,Ski;Musées;Safari,Automne,Non,1
+CLI00260,Elektra,Elessedil,44,M,Sfax,Marié(e) avec enfants,700,Farniente,2024-04-19,augmenté,13,61216.72,4708.9784615384615,2026-12-20,-96,0.2777777777777778,Plage,6816.0,Vie nocturne;Sports nautiques,Été,Non,1
+CLI00261,Emma,Clarke,37,M,Kairouan,Marié(e) avec enfants,3200,Farniente,2021-09-02,augmenté,18,90906.9,5050.383333333333,2026-12-09,-85,0.25,Croisière,4751.0,Shopping;Spa & bien-être,Hiver,Non,1
+CLI00262,Elektra,Elessedil,37,F,Sousse,Marié(e),1998,Familial,2024-11-22,augmenté,7,23727.18,3389.597142857143,2025-11-23,296,0.36363636363636365,Plage,5507.0,Safari;Plage détente;Musées,Printemps,Oui,4
+CLI00263,Sherlock,Jones,51,M,Monastir,Marié(e) avec enfants,2976,Familial,2026-01-31,augmenté,15,60326.54,4021.769333333333,2026-08-25,21,0.11764705882352941,Plage,4531.0,Plage détente;Photographie;Randonnée,Printemps,Oui,2
+CLI00264,Oliver,Clarke,49,F,Monastir,Marié(e) avec enfants,700,Familial,2021-02-13,augmenté,9,29806.11,3311.79,2026-10-18,-33,0.25,Urbain,7993.0,Vie nocturne;Plongée;Plage détente,Printemps,Non,1
+CLI00265,Elektra,Queen,36,F,Bizerte,Marié(e) avec enfants,3468,Familial,2025-03-12,augmenté,22,78059.955,3548.179772727273,2026-07-02,75,0.12,Plage,8500.0,Spa & bien-être;Gastronomie,Hiver,Non,0
+CLI00266,Emma,Queen,38,F,Sousse,Marié(e),3195,Culturel,2023-10-28,augmenté,18,55566.43,3087.023888888889,2026-12-21,-97,0.05263157894736842,Culturel,2074.0,Vie nocturne;Ski;Musées,Été,Non,2
+CLI00267,Sherlock,Murdock,26,M,Gafsa,Marié(e) avec enfants,4929,Culturel,2020-12-07,augmenté,6,21228.35,3538.058333333333,2025-12-19,270,0.3333333333333333,Culturel,2840.0,Sports nautiques;Shopping;Safari,Hiver,Oui,4
+CLI00268,Luke,Earhart,34,F,Sfax,Célibataire,4138,Budget,2023-05-08,augmenté,17,69922.89,4113.111176470588,2026-08-22,24,0.10526315789473684,Urbain,1303.0,Shopping;Gastronomie,Hiver,Non,0
+CLI00269,Amberle,Natchios,25,M,Tunis,Marié(e) avec enfants,3393,Aventurier,2024-05-17,augmenté,27,103636.44,3838.3866666666668,2026-12-22,-98,0.06896551724137931,Aventure,4054.0,Plongée;Sports nautiques,Été,Non,3
+CLI00270,Luke,Murdock,33,F,Gabès,Marié(e) avec enfants,3920,Familial,2023-09-14,augmenté,16,53766.47,3360.404375,2026-09-04,11,0.15789473684210525,Plage,3263.0,Gastronomie;Spa & bien-être;Photographie,Été,Oui,0
+CLI00271,Oliver,Earhart,45,M,Tunis,Marié(e) avec enfants,2894,Farniente,2020-09-18,augmenté,14,65453.009999999995,4675.214999999999,2026-12-02,-78,0.2222222222222222,Plage,3039.0,Shopping;Musées,Printemps,Oui,1
+CLI00272,Jessica,Elessedil,18,M,Tunis,Marié(e),5176,Familial,2026-04-20,augmenté,13,37828.31,2909.87,2026-11-20,-66,0.07142857142857142,Culturel,7328.0,Plage détente;Safari;Spa & bien-être,Printemps,Non,0
+CLI00273,Harry,Cage,31,F,Kairouan,Marié(e),2931,Luxe,2021-12-23,augmenté,21,114320.645,5443.840238095238,2026-11-10,-56,0.27586206896551724,Croisière,12397.0,Sports nautiques;Ski;Shopping,Printemps,Non,3
+CLI00274,Oliver,Swan,29,M,Gabès,Marié(e),700,Familial,2020-12-26,augmenté,4,17296.33,4324.0825,2025-09-18,362,0.5555555555555556,Culturel,4601.0,Vie nocturne;Musées;Safari,Hiver,Non,4
+CLI00275,Elektra,Jones,41,F,Kairouan,Célibataire,4138,Budget,2022-07-29,augmenté,13,39624.54,3048.0415384615385,2026-12-21,-97,0.0,Culturel,923.0,Gastronomie;Spa & bien-être,Printemps,Oui,2
+CLI00276,Amberle,Murdock,46,M,Nabeul,Marié(e) avec enfants,3410,Familial,2023-08-10,augmenté,22,104685.465,4758.430227272727,2026-10-23,-38,0.26666666666666666,Montagne,6868.0,Spa & bien-être;Plongée,Été,Non,3
+CLI00277,Jessica,Potter,45,M,Kairouan,Célibataire,3462,Budget,2023-12-11,augmenté,17,91207.875,5365.169117647059,2026-12-01,-77,0.15,Urbain,923.0,Randonnée;Spa & bien-être,Printemps,Oui,2
+CLI00278,Luke,Potter,18,F,Sousse,Célibataire,3674,Farniente,2022-09-29,augmenté,22,131194.69,5963.395,2026-12-05,-81,0.15384615384615385,Croisière,4397.0,Safari;Spa & bien-être;Sports nautiques,Printemps,Non,3
+CLI00279,Oliver,Elessedil,26,F,Tunis,Marié(e) avec enfants,5412,Luxe,2025-04-13,augmenté,13,62250.495,4788.499615384616,2026-08-02,44,0.07142857142857142,Plage,16451.0,Musées;Photographie;Sports nautiques,Hiver,Oui,0
+CLI00280,Amelia,Elessedil,25,M,Ariana,Célibataire,2212,Familial,2024-09-30,augmenté,19,78533.73999999999,4133.354736842105,2026-08-16,30,0.13636363636363635,Culturel,8529.0,Safari;Gastronomie,Hiver,Oui,0
+CLI00281,Oliver,Jones,38,M,Ariana,Marié(e) avec enfants,1675,Luxe,2021-04-18,augmenté,13,67538.905,5195.300384615384,2026-09-04,11,0.0,Urbain,8140.0,Ski;Sports nautiques,Automne,Non,2
+CLI00282,Oliver,Earhart,36,F,Sousse,Célibataire,2947,Farniente,2021-05-02,augmenté,12,37663.9,3138.6583333333333,2026-07-16,61,0.07692307692307693,Urbain,3960.0,Shopping;Ski,Été,Oui,2
+CLI00283,Amberle,Cage,54,F,Bizerte,Marié(e) avec enfants,700,Familial,2022-03-25,augmenté,13,51023.14,3924.856923076923,2026-10-25,-40,0.13333333333333333,Rural/Nature,4762.0,Ski;Safari,Automne,Oui,2
+CLI00284,Amberle,Cage,45,M,Sousse,Célibataire,962,Budget,2022-03-06,augmenté,22,79645.20999999999,3620.236818181818,2026-11-07,-53,0.043478260869565216,Aventure,1050.0,Sports nautiques;Plage détente,Été,Oui,2
+CLI00285,Amelia,Earhart,43,F,Gabès,Marié(e) avec enfants,2048,Aventurier,2023-01-28,augmenté,15,63448.44,4229.896,2026-03-23,176,0.0625,Aventure,2990.0,Vie nocturne;Photographie;Musées,Été,Oui,2
+CLI00286,Sherlock,Natchios,53,F,Tunis,Marié(e),3770,Culturel,2021-02-04,augmenté,8,30077.23,3759.65375,2026-05-23,115,0.1111111111111111,Culturel,4217.0,Vie nocturne;Plage détente,Automne,Non,2
+CLI00287,Emilia,Cage,44,F,Ariana,Marié(e) avec enfants,3987,Budget,2026-04-02,augmenté,11,34595.35,3145.031818181818,2026-08-16,30,0.21428571428571427,Plage,1543.0,Plage détente;Randonnée,Hiver,Oui,1
+CLI00288,Harry,Cage,43,F,Kairouan,Marié(e),2514,Aventurier,2024-01-16,augmenté,30,128019.32,4267.310666666667,2026-11-06,-52,0.03225806451612903,Aventure,5354.0,Plage détente;Safari;Plongée,Été,Non,3
+CLI00289,Emma,Murdock,43,F,Nabeul,Célibataire,3189,Budget,2024-12-24,augmenté,15,75142.315,5009.487666666667,2026-11-17,-63,0.16666666666666666,Culturel,1001.0,Shopping;Safari;Randonnée,Été,Non,1
+CLI00290,Jessica,Jones,45,F,Bizerte,Célibataire,700,Familial,2025-11-16,augmenté,29,124687.445,4299.567068965517,2026-12-23,-99,0.06451612903225806,Rural/Nature,3332.0,Ski;Vie nocturne;Shopping,Hiver,Oui,3
+CLI00291,Oliver,Cage,50,F,Kairouan,Marié(e) avec enfants,2074,Culturel,2023-04-18,augmenté,17,88464.625,5203.801470588235,2026-06-09,98,0.10526315789473684,Urbain,5279.0,Gastronomie;Plage détente,Automne,Non,2
+CLI00292,Emma,Jones,46,M,Ariana,Marié(e) avec enfants,5967,Luxe,2020-09-30,augmenté,22,64527.18,2933.0536363636365,2026-07-07,70,0.15384615384615385,Culturel,13664.0,Sports nautiques;Ski,Automne,Oui,2
+CLI00293,Elektra,Natchios,19,M,Sfax,Célibataire,2935,Budget,2024-03-26,augmenté,15,62578.78,4171.9186666666665,2026-06-11,96,0.21052631578947367,Montagne,2243.0,Vie nocturne;Spa & bien-être;Plage détente,Printemps,Non,0
+CLI00294,Amberle,Swan,49,M,Ariana,Marié(e) avec enfants,2597,Farniente,2025-04-29,augmenté,14,57332.705,4095.1932142857145,2026-03-20,179,0.17647058823529413,Plage,3087.0,Plongée;Vie nocturne,Printemps,Non,4
+CLI00295,Oliver,Clarke,39,F,Monastir,Célibataire,3811,Culturel,2023-11-27,augmenté,15,61628.135,4108.542333333334,2026-12-26,-102,0.16666666666666666,Culturel,3453.0,Plongée;Safari;Gastronomie,Printemps,Oui,1
+CLI00296,Jessica,Murdock,42,F,Gabès,Célibataire,2353,Culturel,2025-11-11,augmenté,15,68002.945,4533.529666666667,2026-02-03,224,0.16666666666666666,Culturel,4126.0,Gastronomie;Photographie,Hiver,Oui,4
+CLI00297,Oliver,Swan,37,F,Ariana,Célibataire,4166,Aventurier,2022-11-05,augmenté,6,15670.29,2611.715,2026-12-26,-102,0.14285714285714285,Culturel,3901.0,Photographie;Shopping,Automne,Non,1
+CLI00298,Elektra,Earhart,18,F,Bizerte,Marié(e) avec enfants,4592,Aventurier,2025-09-09,augmenté,24,119643.19,4985.1329166666665,2026-12-23,-99,0.07692307692307693,Montagne,4654.0,Musées;Spa & bien-être,Été,Non,3
+CLI00299,Amelia,Murdock,36,M,Gabès,Marié(e) avec enfants,4132,Familial,2021-07-24,augmenté,19,72058.99,3792.5784210526317,2026-11-13,-59,0.09523809523809523,Plage,6519.0,Gastronomie;Randonnée,Hiver,Oui,0
+CLI00300,Luke,Murdock,43,M,Nabeul,Célibataire,4296,Farniente,2021-05-25,augmenté,12,54023.67,4501.9725,2025-12-03,286,0.07692307692307693,Plage,6576.0,Spa & bien-être;Shopping,Automne,Non,4
+CLI00301,Amelia,Queen,34,M,Ariana,Célibataire,2705,Luxe,2021-08-20,augmenté,7,20771.85,2967.407142857143,2025-10-03,347,0.2222222222222222,Plage,11026.0,Randonnée;Plongée,Hiver,Non,4
+CLI00302,Sherlock,Swan,25,M,Gafsa,Célibataire,2745,Farniente,2022-04-16,augmenté,21,94322.06,4491.526666666667,2026-10-10,-25,0.16,Rural/Nature,3729.0,Spa & bien-être;Sports nautiques,Hiver,Oui,0
+CLI00303,Oliver,Earhart,65,F,Monastir,Célibataire,2013,Familial,2023-08-08,augmenté,15,75526.335,5035.089000000001,2026-12-24,-100,0.0625,Plage,7044.0,Gastronomie;Musées;Ski,Été,Non,2
+CLI00304,Elektra,Cage,44,F,Gafsa,Célibataire,2615,Familial,2024-07-15,augmenté,21,87819.315,4181.8721428571425,2026-11-23,-69,0.16,Urbain,5987.0,Photographie;Gastronomie,Automne,Oui,2
+CLI00305,Amelia,Jones,49,M,Nabeul,Marié(e),3815,Budget,2023-08-13,augmenté,11,37909.21,3446.291818181818,2026-10-01,-16,0.21428571428571427,Culturel,1218.0,Vie nocturne;Randonnée,Printemps,Non,1
+CLI00306,Emilia,Murdock,47,F,Sousse,Marié(e) avec enfants,700,Culturel,2021-04-27,augmenté,15,55675.265,3711.684333333333,2026-04-02,166,0.11764705882352941,Plage,3469.0,Shopping;Safari,Été,Non,2
+CLI00307,Matt,Elessedil,39,M,Monastir,Marié(e) avec enfants,4705,Familial,2024-07-19,augmenté,11,43714.66,3974.0600000000004,2026-11-18,-64,0.21428571428571427,Plage,5386.0,Gastronomie;Plongée,Été,Oui,1
+CLI00308,Matt,Earhart,42,M,Sousse,Marié(e) avec enfants,5746,Luxe,2025-07-23,augmenté,12,63305.485,5275.457083333334,2026-08-04,42,0.2,Urbain,7193.0,Gastronomie;Plongée;Spa & bien-être,Automne,Oui,1
+CLI00309,Luke,Cage,38,M,Kairouan,Marié(e) avec enfants,2529,Budget,2022-06-01,augmenté,17,77885.525,4581.501470588235,2026-11-26,-72,0.2608695652173913,Montagne,1225.0,Vie nocturne;Ski;Shopping,Été,Non,1
+CLI00310,Oliver,Elessedil,27,F,Sfax,Célibataire,4756,Farniente,2024-12-30,augmenté,17,88997.895,5235.170294117647,2026-12-24,-100,0.05555555555555555,Croisière,4371.0,Ski;Vie nocturne;Musées,Été,Oui,0
+CLI00311,Amberle,Clarke,61,F,Kairouan,Célibataire,1796,Luxe,2026-03-30,augmenté,8,29237.73,3654.71625,2026-05-16,122,0.1111111111111111,Culturel,14602.0,Sports nautiques;Photographie;Safari,Automne,Non,2
+CLI00312,Emma,Queen,24,M,Gabès,Célibataire,2214,Aventurier,2026-07-29,augmenté,13,48712.11,3747.0853846153846,2026-12-15,-91,0.23529411764705882,Rural/Nature,5082.0,Vie nocturne;Safari,Été,Oui,1
+CLI00313,Elektra,Jones,49,M,Nabeul,Marié(e),4181,Budget,2026-01-14,augmenté,19,90251.85,4750.097368421053,2026-11-25,-71,0.13636363636363635,Urbain,2150.0,Gastronomie;Photographie;Ski,Automne,Non,2
+CLI00314,Amelia,Elessedil,48,F,Monastir,Célibataire,3794,Budget,2025-08-21,augmenté,22,79720.36,3623.652727272727,2026-11-26,-72,0.2413793103448276,Rural/Nature,2451.0,Sports nautiques;Vie nocturne,Printemps,Non,1
+CLI00315,Harry,Clarke,35,F,Sfax,Marié(e) avec enfants,3743,Aventurier,2024-10-05,augmenté,23,86287.92,3751.648695652174,2026-11-02,-48,0.17857142857142858,Aventure,3215.0,Plage détente;Photographie,Hiver,Non,3
+CLI00316,Emma,Clarke,38,M,Gafsa,Marié(e) avec enfants,1104,Farniente,2024-06-30,augmenté,27,125736.625,4656.912037037037,2026-11-21,-67,0.06896551724137931,Plage,3068.0,Randonnée;Gastronomie,Été,Non,3
+CLI00317,Sherlock,Elessedil,30,F,Kairouan,Célibataire,3322,Familial,2026-01-10,augmenté,27,87367.87,3235.847037037037,2026-12-10,-86,0.06896551724137931,Aventure,4169.0,Shopping;Spa & bien-être;Gastronomie,Hiver,Non,3
+CLI00318,Emma,Earhart,42,F,Sfax,Marié(e) avec enfants,1959,Familial,2022-09-09,augmenté,13,47152.47,3627.113076923077,2026-11-17,-63,0.07142857142857142,Plage,3041.0,Plongée;Gastronomie,Printemps,Oui,2
+CLI00319,Amelia,Cage,36,F,Bizerte,Célibataire,4346,Familial,2024-08-02,augmenté,11,33889.979999999996,3080.9072727272724,2025-12-24,265,0.15384615384615385,Plage,8240.0,Musées;Spa & bien-être;Vie nocturne,Printemps,Non,4
+CLI00320,Sherlock,Jones,56,M,Sfax,Célibataire,2899,Budget,2021-08-29,augmenté,15,61963.62,4130.908,2026-07-22,55,0.0625,Rural/Nature,989.0,Shopping;Plongée;Plage détente,Été,Non,2
+CLI00321,Emilia,Clarke,41,F,Ariana,Célibataire,3297,Culturel,2026-05-26,augmenté,16,69430.225,4339.3890625,2026-05-18,120,0.15789473684210525,Culturel,3674.0,Musées;Ski;Plage détente,Hiver,Non,2
+CLI00322,Harry,Earhart,46,F,Gafsa,Marié(e),1989,Budget,2022-11-21,augmenté,22,103556.875,4707.130681818182,2026-12-16,-92,0.12,Croisière,1411.0,Shopping;Ski,Automne,Non,3
+CLI00323,Jessica,Cage,36,F,Gafsa,Célibataire,3222,Familial,2026-07-05,augmenté,23,77828.34,3383.8408695652174,2026-07-13,64,0.11538461538461539,Urbain,3611.0,Shopping;Randonnée;Plongée,Été,Oui,0
+CLI00324,Jessica,Elessedil,36,F,Sfax,Célibataire,1837,Familial,2022-12-18,augmenté,22,85418.14,3882.6427272727274,2026-12-15,-91,0.12,Rural/Nature,8479.0,Spa & bien-être;Safari;Shopping,Hiver,Non,3
+CLI00325,Elektra,Potter,18,M,Tunis,Célibataire,3012,Budget,2021-03-02,augmenté,32,157938.96,4935.5925,2026-12-13,-89,0.13513513513513514,Montagne,1646.0,Musées;Sports nautiques;Gastronomie,Automne,Non,3
+CLI00326,Luke,Elessedil,18,F,Gafsa,Célibataire,4156,Aventurier,2025-07-23,augmenté,13,48764.119999999995,3751.0861538461536,2026-01-24,234,0.1875,Aventure,2535.0,Vie nocturne;Photographie;Plage détente,Printemps,Non,4
+CLI00327,Emilia,Earhart,35,M,Ariana,Marié(e),4599,Budget,2023-04-23,augmenté,15,79908.04000000001,5327.202666666667,2026-10-25,-40,0.0625,Urbain,2155.0,Vie nocturne;Shopping,Printemps,Non,0
+CLI00328,Sherlock,Cage,35,M,Kairouan,Marié(e),2529,Budget,2023-04-06,augmenté,15,58350.619999999995,3890.041333333333,2026-05-13,125,0.16666666666666666,Rural/Nature,2230.0,Musées;Ski,Automne,Non,4
+CLI00329,Luke,Earhart,18,M,Sfax,Marié(e),2246,Aventurier,2023-12-17,augmenté,19,72708.46,3826.7610526315793,2026-12-04,-80,0.20833333333333334,Rural/Nature,5973.0,Photographie;Musées;Plongée,Hiver,Non,0
+CLI00330,Amelia,Earhart,27,M,Nabeul,Marié(e) avec enfants,5282,Aventurier,2020-12-17,augmenté,19,82204.37,4326.545789473684,2026-04-12,156,0.2692307692307692,Montagne,2687.0,Sports nautiques;Vie nocturne;Randonnée,Automne,Non,4
+CLI00331,Jessica,Murdock,39,F,Gafsa,Célibataire,1789,Aventurier,2024-08-01,augmenté,27,114472.22,4239.711851851852,2026-11-25,-71,0.0,Aventure,5614.0,Photographie;Plongée;Randonnée,Automne,Non,3
+CLI00332,Harry,Jones,24,M,Gabès,Célibataire,2510,Budget,2025-01-27,augmenté,11,44720.28,4065.48,2026-03-19,180,0.3125,Culturel,2197.0,Sports nautiques;Plage détente;Safari,Hiver,Oui,4
+CLI00333,Harry,Clarke,44,F,Nabeul,Célibataire,2878,Culturel,2020-09-20,augmenté,13,40618.36,3124.4892307692307,2026-09-02,13,0.07142857142857142,Culturel,4954.0,Photographie;Spa & bien-être;Musées,Hiver,Non,2
+CLI00334,Amelia,Queen,27,F,Gabès,Marié(e),3444,Familial,2023-01-16,augmenté,22,81884.22,3722.01,2025-11-03,316,0.15384615384615385,Rural/Nature,6103.0,Ski;Spa & bien-être,Été,Non,4
+CLI00335,Jessica,Natchios,39,M,Sfax,Célibataire,4067,Culturel,2025-04-19,augmenté,16,58996.15,3687.259375,2026-12-22,-98,0.058823529411764705,Aventure,3535.0,Plage détente;Ski,Été,Oui,2
+CLI00336,Amelia,Clarke,42,M,Ariana,Célibataire,5401,Farniente,2025-04-05,augmenté,15,37547.17,2503.1446666666666,2026-09-03,12,0.21052631578947367,Plage,4712.0,Vie nocturne;Plage détente,Hiver,Non,1
+CLI00337,Matt,Jones,31,M,Monastir,Marié(e),2262,Aventurier,2026-03-23,augmenté,26,136865.55,5264.0596153846145,2026-11-21,-67,0.037037037037037035,Aventure,4359.0,Spa & bien-être;Plongée;Gastronomie,Automne,Oui,3
+CLI00338,Emma,Clarke,25,F,Sfax,Célibataire,5819,Culturel,2023-11-19,augmenté,13,39582.14,3044.7799999999997,2026-07-18,59,0.1875,Plage,3369.0,Musées;Randonnée,Été,Non,0
+CLI00339,Amelia,Clarke,42,F,Nabeul,Célibataire,1780,Luxe,2022-08-21,augmenté,23,70852.685,3080.5515217391303,2026-10-22,-37,0.041666666666666664,Plage,16697.0,Randonnée;Vie nocturne,Hiver,Non,2
+CLI00340,Harry,Clarke,39,M,Tunis,Marié(e) avec enfants,4401,Farniente,2023-10-21,augmenté,12,61885.08,5157.09,2026-12-19,-95,0.14285714285714285,Plage,3396.0,Plongée;Photographie;Safari,Automne,Oui,1
+CLI00341,Emilia,Clarke,35,M,Ariana,Célibataire,3786,Luxe,2021-01-28,augmenté,26,125271.38,4818.13,2026-11-16,-62,0.21212121212121213,Croisière,14058.0,Plongée;Gastronomie;Safari,Été,Oui,3
+CLI00342,Emma,Earhart,48,M,Gafsa,Marié(e),4942,Familial,2025-03-30,augmenté,8,28890.85,3611.35625,2026-05-15,123,0.2727272727272727,Culturel,4187.0,Spa & bien-être;Shopping;Vie nocturne,Hiver,Non,1
+CLI00343,Matt,Earhart,39,F,Sousse,Célibataire,1353,Familial,2023-12-29,augmenté,22,87233.515,3965.159772727273,2026-12-04,-80,0.043478260869565216,Plage,6668.0,Plongée;Photographie,Automne,Oui,2
+CLI00344,Emma,Elessedil,35,M,Bizerte,Marié(e),1944,Aventurier,2021-06-08,augmenté,25,107253.76000000001,4290.1504,2026-12-13,-89,0.07407407407407407,Aventure,2442.0,Photographie;Musées;Spa & bien-être,Hiver,Non,3
+CLI00345,Sherlock,Holmes,29,M,Monastir,Célibataire,2148,Culturel,2026-01-23,augmenté,20,75050.20999999999,3752.5104999999994,2026-09-19,-4,0.2,Rural/Nature,5125.0,Musées;Photographie;Spa & bien-être,Printemps,Non,0
+CLI00346,Jessica,Cage,36,F,Sfax,Marié(e) avec enfants,3017,Culturel,2020-10-03,augmenté,16,66906.54,4181.65875,2026-12-02,-78,0.058823529411764705,Culturel,4052.0,Plage détente;Safari;Photographie,Hiver,Non,0
+CLI00347,Emilia,Swan,33,M,Gafsa,Marié(e),4038,Aventurier,2024-08-28,augmenté,24,96211.17,4008.79875,2026-12-05,-81,0.04,Aventure,4850.0,Shopping;Safari,Été,Oui,3
+CLI00348,Emma,Potter,46,M,Bizerte,Célibataire,700,Luxe,2022-07-05,augmenté,30,178401.99000000002,5946.733000000001,2026-10-26,-41,0.14285714285714285,Croisière,9038.0,Ski;Randonnée,Été,Oui,3
+CLI00349,Oliver,Murdock,41,F,Kairouan,Marié(e) avec enfants,2191,Luxe,2023-02-05,augmenté,18,53839.6,2991.088888888889,2026-09-21,-6,0.14285714285714285,Plage,17236.0,Plongée;Spa & bien-être;Vie nocturne,Printemps,Oui,2
+CLI00350,Emilia,Natchios,44,F,Gabès,Marié(e),5256,Luxe,2025-04-14,augmenté,22,126826.35,5764.834090909091,2026-09-19,-4,0.15384615384615385,Croisière,15569.0,Sports nautiques;Musées;Vie nocturne,Automne,Oui,3
+CLI00351,Harry,Potter,33,F,Gafsa,Célibataire,2072,Culturel,2024-12-09,augmenté,14,58039.17,4145.655,2026-12-09,-85,0.2222222222222222,Plage,3997.0,Spa & bien-être;Ski,Automne,Oui,1
+CLI00352,Luke,Holmes,56,F,Ariana,Marié(e) avec enfants,3221,Culturel,2022-11-26,augmenté,13,64734.5,4979.576923076923,2026-03-17,182,0.07142857142857142,Urbain,3458.0,Spa & bien-être;Vie nocturne;Randonnée,Printemps,Non,2
+CLI00353,Matt,Potter,48,M,Gafsa,Célibataire,3085,Culturel,2020-11-06,augmenté,12,36869.34,3072.4449999999997,2026-06-09,98,0.2,Culturel,2028.0,Plage détente;Sports nautiques;Randonnée,Été,Oui,1
+CLI00354,Amelia,Murdock,44,F,Ariana,Célibataire,1554,Luxe,2026-03-14,augmenté,7,22889.510000000002,3269.9300000000003,2025-12-08,281,0.125,Plage,18016.0,Ski;Vie nocturne;Shopping,Automne,Non,4
+CLI00355,Luke,Jones,27,M,Bizerte,Marié(e) avec enfants,2980,Familial,2024-05-01,augmenté,14,64329.7,4594.978571428571,2026-09-02,13,0.125,Culturel,5983.0,Spa & bien-être;Plongée,Été,Non,0
+CLI00356,Jessica,Clarke,53,M,Kairouan,Marié(e),3689,Culturel,2021-08-05,augmenté,21,99512.035,4738.668333333333,2026-08-27,19,0.0,Culturel,3367.0,Sports nautiques;Gastronomie;Photographie,Été,Oui,2
+CLI00357,Luke,Elessedil,19,F,Kairouan,Célibataire,3669,Farniente,2023-04-29,augmenté,11,52798.565,4799.869545454546,2026-08-25,21,0.0,Plage,2592.0,Photographie;Plongée;Plage détente,Été,Non,0
+CLI00358,Jessica,Cage,41,F,Sousse,Marié(e),4043,Budget,2022-08-03,augmenté,14,43121.81,3080.1292857142857,2026-11-06,-52,0.17647058823529413,Plage,2463.0,Shopping;Spa & bien-être;Photographie,Automne,Non,1
+CLI00359,Emilia,Murdock,50,M,Gabès,Célibataire,4900,Aventurier,2021-03-01,augmenté,15,58261.66,3884.110666666667,2026-06-19,88,0.21052631578947367,Culturel,3797.0,Plongée;Musées;Vie nocturne,Printemps,Non,1
+CLI00360,Amelia,Elessedil,30,M,Gabès,Marié(e) avec enfants,3741,Luxe,2025-03-20,augmenté,14,67450.93,4817.9235714285705,2026-11-27,-73,0.3,Urbain,9025.0,Sports nautiques;Ski;Spa & bien-être,Printemps,Non,1
+CLI00361,Harry,Murdock,51,M,Sousse,Marié(e) avec enfants,5676,Luxe,2023-01-25,augmenté,26,112419.47,4323.825769230769,2026-12-05,-81,0.10344827586206896,Aventure,15499.0,Spa & bien-être;Plage détente,Été,Non,3
+CLI00362,Luke,Holmes,32,M,Sfax,Marié(e),1140,Farniente,2022-01-05,augmenté,15,55767.32,3717.8213333333333,2026-12-25,-101,0.11764705882352941,Culturel,4295.0,Gastronomie;Vie nocturne;Randonnée,Automne,Oui,0
+CLI00363,Emilia,Potter,39,M,Sfax,Célibataire,2370,Familial,2022-04-09,augmenté,26,134944.23500000002,5190.162884615385,2026-08-09,37,0.16129032258064516,Rural/Nature,5568.0,Ski;Plage détente,Hiver,Non,3
+CLI00364,Luke,Queen,39,M,Ariana,Marié(e),3420,Luxe,2023-11-20,augmenté,24,98883.27500000001,4120.136458333333,2026-11-08,-54,0.2,Croisière,11548.0,Gastronomie;Plongée;Plage détente,Été,Oui,3
+CLI00365,Emilia,Natchios,32,M,Tunis,Marié(e) avec enfants,3988,Luxe,2021-11-01,augmenté,20,110891.26000000001,5544.563,2026-12-17,-93,0.23076923076923078,Croisière,12546.0,Randonnée;Musées;Safari,Été,Non,3
+CLI00366,Sherlock,Jones,27,M,Kairouan,Marié(e),700,Familial,2025-03-03,augmenté,13,45044.21,3464.9392307692306,2026-12-24,-100,0.1875,Plage,7993.0,Sports nautiques;Musées;Vie nocturne,Automne,Non,0
+CLI00367,Amberle,Potter,18,M,Kairouan,Marié(e),3537,Culturel,2021-07-16,augmenté,10,27137.41,2713.741,2025-09-02,378,0.23076923076923078,Culturel,2132.0,Gastronomie;Musées;Vie nocturne,Printemps,Oui,4
+CLI00368,Amberle,Elessedil,24,F,Bizerte,Marié(e) avec enfants,2668,Luxe,2024-02-03,augmenté,28,144503.89,5160.853214285715,2026-12-03,-79,0.2222222222222222,Croisière,14926.0,Plage détente;Ski;Vie nocturne,Printemps,Oui,3
+CLI00369,Luke,Natchios,40,F,Sousse,Célibataire,4897,Culturel,2022-06-04,augmenté,18,56335.020000000004,3129.7233333333334,2026-11-26,-72,0.1,Rural/Nature,2721.0,Ski;Sports nautiques;Safari,Automne,Non,0
+CLI00370,Oliver,Potter,31,F,Gabès,Célibataire,5475,Familial,2023-04-04,augmenté,21,86036.05,4096.954761904762,2025-12-25,264,0.19230769230769232,Rural/Nature,3758.0,Spa & bien-être;Plongée,Été,Oui,4
+CLI00371,Jessica,Natchios,54,F,Sfax,Célibataire,5491,Culturel,2024-02-04,augmenté,15,40240.85,2682.7233333333334,2026-09-11,4,0.11764705882352941,Culturel,1860.0,Randonnée;Ski;Safari,Été,Non,2
+CLI00372,Harry,Holmes,25,M,Monastir,Marié(e),3043,Culturel,2021-01-14,augmenté,9,26840.17,2982.241111111111,2026-11-07,-53,0.0,Culturel,2268.0,Plage détente;Photographie;Musées,Printemps,Non,0
+CLI00373,Amberle,Natchios,28,M,Ariana,Célibataire,1515,Familial,2024-04-07,augmenté,17,95488.73,5616.984117647058,2026-11-20,-66,0.05555555555555555,Urbain,7000.0,Photographie;Musées;Spa & bien-être,Automne,Non,0
+CLI00374,Emilia,Jones,25,M,Monastir,Célibataire,2668,Familial,2021-03-12,augmenté,20,75216.9,3760.845,2026-11-12,-58,0.09090909090909091,Rural/Nature,8957.0,Vie nocturne;Plongée;Spa & bien-être,Hiver,Non,0
+CLI00375,Elektra,Earhart,41,M,Gabès,Marié(e),4002,Culturel,2020-10-03,augmenté,15,58792.21,3919.480666666667,2026-10-14,-29,0.21052631578947367,Rural/Nature,3693.0,Safari;Plongée;Plage détente,Automne,Non,1
+CLI00376,Harry,Elessedil,18,M,Gafsa,Marié(e) avec enfants,3363,Farniente,2023-11-30,augmenté,15,57694.729999999996,3846.315333333333,2026-12-04,-80,0.11764705882352941,Plage,6443.0,Musées;Photographie,Hiver,Oui,0
+CLI00377,Oliver,Elessedil,36,F,Monastir,Marié(e) avec enfants,2444,Culturel,2025-03-05,augmenté,10,46576.68,4657.668,2026-08-21,25,0.2857142857142857,Culturel,5480.0,Shopping;Musées;Plage détente,Printemps,Oui,1
+CLI00378,Harry,Natchios,24,F,Gafsa,Marié(e),1541,Budget,2023-08-07,augmenté,10,27382.829999999998,2738.283,2026-07-21,56,0.16666666666666666,Culturel,1141.0,Plage détente;Gastronomie,Hiver,Non,0
+CLI00379,Amelia,Murdock,32,F,Bizerte,Marié(e),3487,Familial,2022-08-15,augmenté,16,70180.15,4386.259375,2026-09-22,-7,0.0,Urbain,8490.0,Randonnée;Safari,Automne,Oui,0
+CLI00380,Amberle,Clarke,34,M,Kairouan,Célibataire,5620,Familial,2021-06-22,augmenté,9,23432.510000000002,2603.6122222222225,2026-01-02,256,0.1,Culturel,4048.0,Gastronomie;Sports nautiques;Plongée,Hiver,Non,4
+CLI00381,Elektra,Elessedil,38,M,Gabès,Célibataire,1950,Culturel,2022-09-01,augmenté,5,15172.76,3034.552,2026-10-24,-39,0.2857142857142857,Culturel,4688.0,Musées;Vie nocturne,Hiver,Non,1
+CLI00382,Matt,Earhart,42,M,Gafsa,Marié(e) avec enfants,3732,Familial,2026-06-06,augmenté,16,92413.14,5775.82125,2026-12-27,-103,0.15789473684210525,Urbain,3865.0,Musées;Randonnée;Gastronomie,Printemps,Non,2
+CLI00383,Matt,Potter,35,F,Gabès,Célibataire,3362,Culturel,2021-08-20,augmenté,17,68138.37,4008.1394117647055,2026-10-17,-32,0.0,Culturel,3992.0,Spa & bien-être;Shopping,Printemps,Oui,2
+CLI00384,Emma,Swan,27,M,Bizerte,Célibataire,6671,Farniente,2025-07-30,augmenté,18,72367.265,4020.403611111111,2026-05-27,111,0.05263157894736842,Aventure,4252.0,Musées;Ski;Randonnée,Été,Non,0
+CLI00385,Harry,Holmes,65,F,Tunis,Célibataire,1352,Aventurier,2025-04-23,augmenté,12,62320.6,5193.383333333333,2026-08-06,40,0.07692307692307693,Urbain,4228.0,Shopping;Plongée,Printemps,Oui,2
+CLI00386,Amberle,Holmes,30,M,Nabeul,Célibataire,3398,Budget,2025-10-06,augmenté,18,104394.18,5799.676666666666,2026-08-03,43,0.18181818181818182,Montagne,1836.0,Musées;Photographie;Randonnée,Automne,Non,0
+CLI00387,Emma,Natchios,44,F,Sfax,Célibataire,5914,Culturel,2024-03-29,augmenté,17,77963.98,4586.116470588235,2026-07-16,61,0.15,Culturel,2491.0,Plongée;Musées,Été,Oui,2
+CLI00388,Sherlock,Cage,21,M,Gafsa,Marié(e),2360,Aventurier,2022-07-18,augmenté,28,110991.31,3963.975357142857,2026-01-17,241,0.24324324324324326,Aventure,3490.0,Gastronomie;Musées,Printemps,Non,3
+CLI00389,Oliver,Natchios,24,F,Tunis,Marié(e) avec enfants,4212,Luxe,2021-12-03,augmenté,10,32034.23,3203.423,2026-11-20,-66,0.23076923076923078,Urbain,11425.0,Shopping;Safari;Vie nocturne,Automne,Non,1
+CLI00390,Luke,Holmes,32,F,Monastir,Célibataire,2600,Farniente,2023-11-04,augmenté,6,25682.28,4280.38,2026-03-08,191,0.14285714285714285,Plage,6335.0,Vie nocturne;Musées,Été,Oui,4
+CLI00391,Emilia,Cage,18,M,Ariana,Marié(e) avec enfants,5200,Familial,2022-07-04,augmenté,17,67528.86,3972.2858823529414,2026-12-20,-96,0.15,Plage,8487.0,Plongée;Shopping;Musées,Été,Oui,0
+CLI00392,Oliver,Elessedil,30,M,Sousse,Marié(e),2304,Budget,2025-04-11,augmenté,19,79807.35,4200.386842105264,2026-08-04,42,0.09523809523809523,Rural/Nature,2283.0,Randonnée;Plongée,Été,Non,0
+CLI00393,Emma,Clarke,36,F,Monastir,Marié(e) avec enfants,2927,Farniente,2022-08-04,augmenté,13,56432.525,4340.963461538462,2026-01-10,248,0.0,Plage,2984.0,Ski;Safari,Printemps,Non,4
+CLI00394,Luke,Clarke,37,F,Gabès,Marié(e) avec enfants,2347,Familial,2022-04-26,augmenté,18,65649.19,3647.1772222222226,2026-12-06,-82,0.0,Culturel,6428.0,Photographie;Spa & bien-être,Hiver,Non,2
+CLI00395,Jessica,Earhart,26,F,Ariana,Célibataire,4426,Farniente,2022-06-21,augmenté,22,89634.5,4074.2954545454545,2026-11-07,-53,0.12,Culturel,3490.0,Musées;Ski;Shopping,Automne,Non,0
+CLI00396,Amberle,Elessedil,55,M,Sfax,Marié(e) avec enfants,2051,Culturel,2023-12-23,augmenté,22,109663.325,4984.69659090909,2026-10-07,-22,0.08333333333333333,Montagne,4973.0,Photographie;Randonnée;Spa & bien-être,Printemps,Non,2
+CLI00397,Luke,Swan,22,M,Gafsa,Marié(e) avec enfants,1776,Farniente,2022-10-18,augmenté,10,40049.15,4004.915,2026-12-25,-101,0.09090909090909091,Plage,4614.0,Spa & bien-être;Safari;Plage détente,Été,Non,0
+CLI00398,Matt,Potter,49,F,Sousse,Marié(e) avec enfants,1360,Aventurier,2026-03-18,augmenté,32,166299.1,5196.846875,2026-12-04,-80,0.1794871794871795,Montagne,4406.0,Sports nautiques;Spa & bien-être,Hiver,Non,3
+CLI00399,Emilia,Murdock,48,M,Nabeul,Célibataire,1871,Farniente,2025-06-09,augmenté,8,38898.92,4862.365,2026-04-20,148,0.2727272727272727,Urbain,5723.0,Spa & bien-être;Randonnée;Gastronomie,Été,Non,1
+CLI00400,Elektra,Clarke,58,F,Bizerte,Marié(e) avec enfants,3406,Culturel,2026-03-21,augmenté,21,120701.97,5747.7128571428575,2026-12-04,-80,0.2222222222222222,Montagne,3506.0,Photographie;Plage détente,Printemps,Non,3
+CLI00401,Amelia,Queen,38,M,Bizerte,Marié(e) avec enfants,700,Familial,2025-12-10,augmenté,9,28091.52,3121.28,2026-07-12,65,0.1,Culturel,8281.0,Plage détente;Randonnée;Spa & bien-être,Hiver,Non,2
+CLI00402,Emma,Queen,41,M,Nabeul,Marié(e) avec enfants,956,Luxe,2024-03-25,augmenté,27,103490.55,3832.9833333333336,2026-06-08,99,0.0,Aventure,10491.0,Gastronomie;Plongée;Musées,Été,Non,3
+CLI00403,Sherlock,Queen,23,M,Sfax,Marié(e),5873,Familial,2021-03-09,augmenté,12,32994.51,2749.5425,2026-12-20,-96,0.14285714285714285,Rural/Nature,4022.0,Safari;Musées,Été,Non,0
+CLI00404,Jessica,Clarke,47,F,Gabès,Marié(e),4339,Aventurier,2021-05-21,augmenté,20,70672.41,3533.6205,2026-11-08,-54,0.09090909090909091,Aventure,2676.0,Musées;Vie nocturne,Automne,Non,2
+CLI00405,Amberle,Cage,29,F,Nabeul,Célibataire,5322,Budget,2021-11-27,augmenté,27,130584.315,4836.456111111112,2026-11-25,-71,0.15625,Rural/Nature,1644.0,Photographie;Shopping,Été,Non,3
+CLI00406,Luke,Elessedil,45,F,Bizerte,Célibataire,3107,Farniente,2024-10-12,augmenté,18,70006.6,3889.255555555556,2026-12-12,-88,0.0,Plage,3399.0,Safari;Plongée,Été,Non,2
+CLI00407,Emilia,Natchios,43,F,Ariana,Célibataire,3241,Farniente,2024-07-17,augmenté,14,72044.175,5146.0125,2026-07-20,57,0.06666666666666667,Culturel,5778.0,Shopping;Plage détente,Printemps,Oui,2
+CLI00408,Oliver,Clarke,40,F,Kairouan,Célibataire,3397,Aventurier,2021-09-03,augmenté,32,167216.275,5225.50859375,2026-12-03,-79,0.08571428571428572,Croisière,4282.0,Randonnée;Gastronomie;Sports nautiques,Automne,Non,3
+CLI00409,Emilia,Earhart,40,M,Kairouan,Marié(e) avec enfants,4927,Culturel,2023-03-03,augmenté,15,49097.43,3273.162,2026-09-09,6,0.16666666666666666,Culturel,3853.0,Shopping;Photographie;Safari,Printemps,Oui,1
+CLI00410,Emilia,Queen,37,M,Gabès,Célibataire,3001,Farniente,2021-04-11,augmenté,14,65240.675,4660.0482142857145,2026-12-23,-99,0.17647058823529413,Plage,5152.0,Randonnée;Spa & bien-être;Plongée,Printemps,Oui,1
+CLI00411,Amelia,Earhart,28,M,Nabeul,Marié(e),1049,Familial,2023-02-21,augmenté,18,66644.1,3702.4500000000003,2026-12-12,-88,0.14285714285714285,Rural/Nature,3334.0,Ski;Sports nautiques,Hiver,Non,0
+CLI00412,Elektra,Murdock,51,M,Bizerte,Marié(e) avec enfants,3306,Familial,2021-04-26,augmenté,24,81680.825,3403.367708333333,2026-12-11,-87,0.04,Plage,5688.0,Ski;Sports nautiques,Printemps,Non,2
+CLI00413,Harry,Elessedil,35,F,Sousse,Célibataire,4477,Farniente,2023-09-08,augmenté,14,52445.44,3746.1028571428574,2026-10-04,-19,0.06666666666666667,Plage,3084.0,Spa & bien-être;Plage détente,Automne,Non,0
+CLI00414,Amelia,Potter,36,M,Monastir,Célibataire,1935,Luxe,2021-01-09,augmenté,7,26267.489999999998,3752.4985714285713,2025-03-22,542,0.125,Plage,15628.0,Shopping;Spa & bien-être;Photographie,Automne,Oui,4
+CLI00415,Jessica,Potter,29,M,Monastir,Marié(e) avec enfants,3414,Aventurier,2024-07-20,augmenté,8,36660.505000000005,4582.563125000001,2026-05-18,120,0.2,Culturel,5739.0,Musées;Spa & bien-être;Plongée,Printemps,Non,4
+CLI00416,Emma,Natchios,50,M,Sfax,Célibataire,3515,Farniente,2022-07-27,augmenté,25,127599.36,5103.9744,2026-04-25,143,0.13793103448275862,Croisière,6769.0,Musées;Sports nautiques;Photographie,Printemps,Non,3
+CLI00417,Oliver,Natchios,46,M,Kairouan,Marié(e) avec enfants,2781,Familial,2025-05-21,augmenté,11,42293.82,3844.8927272727274,2026-07-24,53,0.08333333333333333,Plage,3834.0,Safari;Plongée,Été,Non,2
+CLI00418,Jessica,Natchios,41,M,Gafsa,Célibataire,1005,Culturel,2021-05-21,augmenté,35,183392.59,5239.788285714286,2026-11-13,-59,0.125,Montagne,4779.0,Plage détente;Sports nautiques,Printemps,Non,3
+CLI00419,Jessica,Earhart,33,F,Gabès,Marié(e) avec enfants,3067,Farniente,2024-05-30,augmenté,17,57862.53,3403.6782352941177,2026-12-09,-85,0.10526315789473684,Plage,5898.0,Ski;Shopping;Randonnée,Automne,Oui,0
+CLI00420,Amberle,Earhart,43,F,Ariana,Célibataire,2765,Culturel,2024-06-29,augmenté,26,150894.08000000002,5803.618461538462,2026-11-09,-55,0.10344827586206896,Montagne,3506.0,Plage détente;Musées,Hiver,Non,3
+CLI00421,Elektra,Clarke,26,F,Gabès,Célibataire,1851,Culturel,2024-09-02,augmenté,17,72263.105,4250.770882352941,2026-11-27,-73,0.05555555555555555,Montagne,3875.0,Vie nocturne;Safari,Hiver,Non,0
+CLI00422,Elektra,Swan,30,M,Ariana,Célibataire,2778,Aventurier,2022-03-21,augmenté,19,68386.425,3599.2855263157894,2026-10-12,-27,0.05,Aventure,4187.0,Plage détente;Photographie;Shopping,Printemps,Oui,0
+CLI00423,Harry,Natchios,23,F,Gabès,Marié(e) avec enfants,2389,Familial,2022-07-26,augmenté,18,68908.145,3828.230277777778,2026-12-27,-103,0.25,Plage,6385.0,Randonnée;Safari,Automne,Non,0
+CLI00424,Elektra,Natchios,35,M,Sfax,Célibataire,1837,Farniente,2020-09-08,augmenté,11,39864.37,3624.0336363636366,2026-08-10,36,0.15384615384615385,Urbain,4580.0,Vie nocturne;Ski;Gastronomie,Automne,Oui,1
+CLI00425,Luke,Clarke,26,M,Ariana,Marié(e),3807,Aventurier,2024-01-07,augmenté,26,116974.9,4499.034615384615,2026-12-16,-92,0.13333333333333333,Montagne,3953.0,Gastronomie;Shopping,Hiver,Non,3
+CLI00426,Jessica,Natchios,46,F,Monastir,Marié(e) avec enfants,3280,Aventurier,2025-01-03,augmenté,19,62785.07,3304.4773684210527,2026-12-04,-80,0.17391304347826086,Aventure,4034.0,Plongée;Musées,Printemps,Non,1
+CLI00427,Elektra,Elessedil,29,F,Tunis,Célibataire,1573,Aventurier,2023-08-26,augmenté,11,40149.6,3649.9636363636364,2026-10-14,-29,0.15384615384615385,Aventure,4196.0,Shopping;Safari,Automne,Non,0
+CLI00428,Oliver,Elessedil,34,F,Gabès,Célibataire,3045,Budget,2021-06-19,augmenté,35,166886.36000000002,4768.181714285714,2026-11-26,-72,0.125,Croisière,1925.0,Vie nocturne;Randonnée,Été,Oui,3
+CLI00429,Harry,Natchios,27,F,Bizerte,Marié(e) avec enfants,700,Aventurier,2026-02-03,augmenté,13,48523.11,3732.546923076923,2026-09-25,-10,0.07142857142857142,Aventure,5882.0,Gastronomie;Ski,Été,Oui,0
+CLI00430,Jessica,Murdock,33,M,Gafsa,Célibataire,2263,Farniente,2025-11-05,augmenté,13,45673.34,3513.333846153846,2026-06-12,95,0.13333333333333333,Plage,6213.0,Sports nautiques;Randonnée,Automne,Non,0
+CLI00431,Jessica,Holmes,26,F,Nabeul,Marié(e) avec enfants,2654,Culturel,2026-07-03,augmenté,20,65773.51,3288.6755,2026-09-19,-4,0.16666666666666666,Culturel,5225.0,Musées;Vie nocturne;Photographie,Hiver,Oui,0
+CLI00432,Luke,Earhart,39,M,Kairouan,Marié(e) avec enfants,1796,Farniente,2021-04-26,augmenté,17,86171.62,5068.918823529411,2026-11-11,-57,0.0,Urbain,4284.0,Photographie;Plongée;Safari,Printemps,Oui,2
+CLI00433,Emma,Jones,28,F,Gabès,Célibataire,2674,Familial,2024-02-13,augmenté,12,56781.355,4731.779583333334,2026-04-19,149,0.2,Plage,3598.0,Photographie;Shopping,Hiver,Non,4
+CLI00434,Jessica,Holmes,52,F,Ariana,Marié(e) avec enfants,3544,Aventurier,2025-01-14,augmenté,15,55678.83,3711.922,2026-10-25,-40,0.3181818181818182,Aventure,4462.0,Shopping;Safari,Automne,Non,1
+CLI00435,Matt,Swan,18,M,Sfax,Célibataire,2686,Culturel,2023-06-12,augmenté,13,73477.895,5652.1457692307695,2026-12-25,-101,0.23529411764705882,Urbain,3770.0,Safari;Shopping;Photographie,Automne,Oui,0
+CLI00436,Emilia,Natchios,55,F,Bizerte,Marié(e),4499,Budget,2024-03-13,augmenté,32,163252.38,5101.636875,2026-10-17,-32,0.1111111111111111,Montagne,2442.0,Musées;Gastronomie,Hiver,Non,3
+CLI00437,Sherlock,Clarke,44,M,Monastir,Marié(e),4128,Budget,2022-10-07,augmenté,20,86468.91500000001,4323.445750000001,2026-03-14,185,0.047619047619047616,Rural/Nature,1184.0,Vie nocturne;Musées;Spa & bien-être,Printemps,Non,2
+CLI00438,Matt,Potter,29,F,Monastir,Marié(e) avec enfants,4157,Farniente,2021-10-21,augmenté,22,104901.8,4768.263636363637,2026-12-19,-95,0.15384615384615385,Croisière,2983.0,Randonnée;Plage détente,Automne,Non,3
+CLI00439,Harry,Queen,37,F,Sfax,Célibataire,2695,Familial,2023-01-18,augmenté,8,36619.41,4577.42625,2025-02-07,585,0.1111111111111111,Urbain,3642.0,Gastronomie;Plage détente;Shopping,Été,Non,4
+CLI00440,Emma,Holmes,34,M,Nabeul,Marié(e),4873,Culturel,2021-12-09,augmenté,21,74007.86,3524.1838095238095,2026-08-23,23,0.125,Rural/Nature,5097.0,Sports nautiques;Safari;Spa & bien-être,Hiver,Non,0
+CLI00441,Emilia,Murdock,43,F,Sfax,Célibataire,2435,Luxe,2021-12-26,augmenté,15,62403.295,4160.219666666667,2026-10-04,-19,0.11764705882352941,Plage,10279.0,Ski;Safari,Automne,Oui,2
+CLI00442,Oliver,Jones,27,M,Monastir,Célibataire,2117,Luxe,2021-06-11,augmenté,27,111474.18000000001,4128.673333333333,2026-12-12,-88,0.06896551724137931,Croisière,17283.0,Randonnée;Spa & bien-être;Sports nautiques,Été,Non,3
+CLI00443,Harry,Earhart,38,M,Gafsa,Célibataire,1803,Aventurier,2022-11-06,augmenté,20,85842.63,4292.1315,2026-05-07,131,0.2,Aventure,5090.0,Ski;Spa & bien-être;Plage détente,Printemps,Oui,4
+CLI00444,Jessica,Jones,50,M,Nabeul,Célibataire,1966,Budget,2021-10-03,augmenté,11,60267.375,5478.852272727273,2026-04-27,141,0.0,Culturel,1564.0,Safari;Vie nocturne,Automne,Non,2
+CLI00445,Amelia,Clarke,29,F,Tunis,Marié(e) avec enfants,700,Familial,2021-08-19,augmenté,22,111747.255,5079.420681818182,2026-07-26,51,0.15384615384615385,Montagne,5322.0,Plongée;Plage détente;Randonnée,Hiver,Oui,3
+CLI00446,Sherlock,Queen,46,M,Tunis,Célibataire,5349,Aventurier,2021-05-20,augmenté,32,172175.66,5380.489375,2026-12-03,-79,0.030303030303030304,Montagne,3102.0,Sports nautiques;Spa & bien-être;Plage détente,Printemps,Non,3
+CLI00447,Matt,Clarke,30,F,Gabès,Célibataire,5065,Luxe,2021-03-10,augmenté,14,72813.74,5200.981428571429,2026-05-22,116,0.0,Croisière,9109.0,Sports nautiques;Gastronomie,Automne,Non,0
+CLI00448,Emma,Elessedil,40,F,Kairouan,Marié(e),2321,Aventurier,2021-04-06,augmenté,34,140095.47,4120.455,2026-12-16,-92,0.08108108108108109,Montagne,4251.0,Spa & bien-être;Photographie,Été,Non,3
+CLI00449,Amelia,Potter,34,F,Tunis,Marié(e),3073,Aventurier,2020-11-10,augmenté,22,113705.265,5168.421136363636,2026-06-25,82,0.15384615384615385,Plage,4978.0,Spa & bien-être;Sports nautiques,Printemps,Non,3
+CLI00450,Jessica,Earhart,49,F,Bizerte,Marié(e) avec enfants,1819,Luxe,2021-12-22,augmenté,24,98579.44,4107.4766666666665,2026-09-26,-11,0.1111111111111111,Urbain,13672.0,Sports nautiques;Randonnée;Spa & bien-être,Automne,Non,3
+CLI00451,Emma,Natchios,55,F,Gafsa,Célibataire,5665,Budget,2026-02-27,augmenté,15,50664.86,3377.6573333333336,2026-11-20,-66,0.0,Plage,1307.0,Plage détente;Vie nocturne,Automne,Oui,2
+CLI00452,Jessica,Queen,37,M,Sousse,Marié(e),2164,Familial,2024-04-11,augmenté,23,95613.725,4157.11847826087,2026-11-06,-52,0.08,Plage,4241.0,Vie nocturne;Photographie,Automne,Oui,3
+CLI00453,Luke,Swan,29,M,Ariana,Marié(e) avec enfants,4852,Aventurier,2021-09-09,augmenté,20,88411.72,4420.586,2026-11-01,-47,0.16666666666666666,Rural/Nature,2906.0,Shopping;Musées,Printemps,Non,0
+CLI00454,Amelia,Holmes,65,F,Ariana,Célibataire,1670,Culturel,2024-08-05,augmenté,10,37571.04,3757.1040000000003,2025-10-10,340,0.16666666666666666,Culturel,4683.0,Photographie;Ski,Hiver,Oui,4
+CLI00455,Matt,Elessedil,48,F,Gabès,Célibataire,2220,Luxe,2022-02-06,augmenté,21,62140.61,2959.076666666667,2026-12-21,-97,0.045454545454545456,Aventure,13106.0,Plongée;Randonnée;Gastronomie,Été,Non,2
+CLI00456,Emma,Swan,51,M,Ariana,Marié(e),4077,Familial,2020-12-31,augmenté,9,59436.28,6604.031111111111,2026-11-01,-47,0.18181818181818182,Urbain,7991.0,Plongée;Randonnée;Ski,Automne,Non,1
+CLI00457,Amelia,Swan,40,M,Gafsa,Célibataire,3505,Farniente,2025-10-08,augmenté,18,71591.59,3977.3105555555553,2025-10-07,343,0.0,Rural/Nature,6934.0,Randonnée;Spa & bien-être,Automne,Oui,4
+CLI00458,Matt,Clarke,26,F,Bizerte,Marié(e),3841,Culturel,2025-11-17,augmenté,19,104063.265,5477.013947368421,2026-12-16,-92,0.05,Croisière,5073.0,Plongée;Spa & bien-être;Vie nocturne,Automne,Non,0
+CLI00459,Amberle,Swan,26,M,Kairouan,Marié(e),5416,Culturel,2025-12-16,augmenté,12,54485.235,4540.43625,2025-11-20,299,0.14285714285714285,Culturel,4321.0,Gastronomie;Vie nocturne,Automne,Non,4
+CLI00460,Emma,Potter,24,M,Gafsa,Marié(e),2784,Familial,2025-09-21,augmenté,15,69121.53,4608.102,2026-08-01,45,0.0625,Urbain,6254.0,Ski;Musées,Hiver,Non,0
+CLI00461,Sherlock,Earhart,33,M,Bizerte,Marié(e) avec enfants,2025,Budget,2023-04-23,augmenté,16,64104.020000000004,4006.5012500000003,2026-04-11,157,0.1111111111111111,Culturel,1774.0,Ski;Musées;Vie nocturne,Printemps,Non,4
+CLI00462,Luke,Earhart,31,F,Sousse,Célibataire,6231,Aventurier,2025-05-17,augmenté,18,62627.29,3479.293888888889,2026-09-10,5,0.14285714285714285,Aventure,3219.0,Musées;Sports nautiques,Automne,Non,0
+CLI00463,Amberle,Murdock,52,M,Gafsa,Célibataire,5984,Farniente,2022-05-02,augmenté,27,106040.585,3927.4290740740744,2026-12-15,-91,0.06896551724137931,Aventure,2600.0,Randonnée;Vie nocturne,Été,Non,3
+CLI00464,Matt,Cage,42,M,Ariana,Marié(e),2141,Culturel,2025-10-17,augmenté,12,41738.76,3478.23,2026-09-07,8,0.29411764705882354,Culturel,3148.0,Plage détente;Sports nautiques;Randonnée,Été,Non,1
+CLI00465,Emma,Jones,40,M,Ariana,Célibataire,4639,Farniente,2021-08-15,augmenté,18,68369.47,3798.303888888889,2026-12-20,-96,0.14285714285714285,Culturel,5784.0,Plongée;Sports nautiques,Hiver,Non,0
+CLI00466,Elektra,Clarke,30,F,Sfax,Marié(e),5358,Farniente,2026-07-29,augmenté,10,32339.27,3233.927,2026-07-07,70,0.23076923076923078,Rural/Nature,5407.0,Plage détente;Ski;Plongée,Été,Non,1
+CLI00467,Oliver,Swan,19,F,Nabeul,Marié(e) avec enfants,3758,Budget,2024-04-07,augmenté,14,73259.82,5232.844285714286,2026-08-25,21,0.2631578947368421,Urbain,1751.0,Spa & bien-être;Musées;Shopping,Été,Non,0
+CLI00468,Oliver,Natchios,32,M,Nabeul,Célibataire,700,Farniente,2024-07-08,augmenté,23,108759.38,4728.668695652174,2026-04-25,143,0.11538461538461539,Croisière,3685.0,Vie nocturne;Randonnée,Hiver,Oui,3
+CLI00469,Amelia,Holmes,48,M,Tunis,Marié(e) avec enfants,2871,Luxe,2022-09-02,augmenté,18,126146.13500000001,7008.118611111112,2026-10-06,-21,0.21739130434782608,Croisière,19170.0,Sports nautiques;Shopping,Hiver,Non,3
+CLI00470,Harry,Cage,47,M,Sfax,Marié(e) avec enfants,713,Familial,2021-02-16,augmenté,16,62412.86,3900.80375,2026-08-05,41,0.15789473684210525,Urbain,6440.0,Spa & bien-être;Gastronomie,Été,Non,2
+CLI00471,Amelia,Potter,50,F,Nabeul,Marié(e),1069,Familial,2026-03-26,augmenté,14,47880.22,3420.0157142857142,2026-12-27,-103,0.17647058823529413,Plage,4011.0,Shopping;Sports nautiques;Spa & bien-être,Hiver,Non,1
+CLI00472,Matt,Natchios,58,F,Ariana,Marié(e),3898,Culturel,2025-04-24,augmenté,14,61753.97,4410.997857142857,2026-11-15,-61,0.17647058823529413,Culturel,3406.0,Sports nautiques;Gastronomie;Spa & bien-être,Hiver,Non,1
+CLI00473,Harry,Natchios,44,F,Sousse,Célibataire,2657,Culturel,2026-07-19,augmenté,8,22831.37,2853.92125,2026-12-07,-83,0.2,Culturel,5432.0,Plage détente;Photographie,Été,Oui,1
+CLI00474,Amelia,Murdock,33,M,Sousse,Célibataire,2039,Budget,2026-02-23,augmenté,13,48265.42,3712.7246153846154,2026-05-16,122,0.13333333333333333,Plage,1363.0,Photographie;Plongée,Été,Non,4
+CLI00475,Amberle,Natchios,30,F,Kairouan,Marié(e) avec enfants,2478,Luxe,2020-12-23,augmenté,11,37601.78,3418.343636363636,2026-10-11,-26,0.15384615384615385,Plage,17421.0,Gastronomie;Randonnée,Printemps,Oui,0
+CLI00476,Amelia,Elessedil,34,M,Monastir,Célibataire,700,Luxe,2023-04-03,augmenté,14,63671.32,4547.951428571429,2026-08-20,26,0.17647058823529413,Urbain,8425.0,Musées;Safari,Printemps,Oui,1
+CLI00477,Emma,Holmes,31,F,Gabès,Marié(e) avec enfants,907,Aventurier,2026-04-05,augmenté,24,89953.6,3748.066666666667,2026-03-26,173,0.14285714285714285,Aventure,3571.0,Vie nocturne;Ski;Safari,Automne,Non,3
+CLI00478,Sherlock,Cage,39,M,Gafsa,Marié(e),4815,Luxe,2023-05-26,augmenté,21,78347.6,3730.8380952380953,2026-05-08,130,0.125,Plage,13124.0,Shopping;Gastronomie;Plongée,Printemps,Non,2
+CLI00479,Jessica,Clarke,54,M,Nabeul,Célibataire,3273,Aventurier,2021-08-27,augmenté,13,36830.51,2833.116153846154,2026-12-19,-95,0.1875,Culturel,3906.0,Musées;Vie nocturne;Sports nautiques,Automne,Oui,1
+CLI00480,Oliver,Swan,43,F,Sfax,Célibataire,1434,Aventurier,2021-01-16,augmenté,8,20440.29,2555.03625,2026-09-26,-11,0.3333333333333333,Plage,2056.0,Ski;Sports nautiques,Été,Non,1
+CLI00481,Sherlock,Swan,44,M,Monastir,Célibataire,2552,Familial,2023-10-14,augmenté,10,47500.05,4750.005,2026-05-13,125,0.23076923076923078,Urbain,8357.0,Vie nocturne;Safari;Randonnée,Automne,Oui,1
+CLI00482,Matt,Cage,48,M,Nabeul,Célibataire,3900,Budget,2021-06-30,augmenté,13,52322.1,4024.776923076923,2026-11-07,-53,0.13333333333333333,Plage,1757.0,Gastronomie;Ski,Hiver,Non,2
+CLI00483,Luke,Clarke,31,F,Ariana,Marié(e) avec enfants,3675,Familial,2023-05-04,augmenté,16,65779.7,4111.23125,2026-05-14,124,0.1111111111111111,Croisière,8309.0,Safari;Plongée,Automne,Non,0
+CLI00484,Matt,Elessedil,41,M,Monastir,Célibataire,3903,Luxe,2025-06-24,augmenté,19,89160.46,4692.655789473684,2026-12-04,-80,0.09523809523809523,Plage,8579.0,Plage détente;Sports nautiques;Ski,Été,Oui,2
+CLI00485,Elektra,Earhart,18,F,Nabeul,Marié(e),2385,Budget,2026-06-14,augmenté,22,95226.32,4328.469090909091,2026-11-02,-48,0.0,Rural/Nature,947.0,Spa & bien-être;Plage détente,Hiver,Non,0
+CLI00486,Luke,Holmes,23,F,Sfax,Célibataire,3055,Luxe,2024-02-10,augmenté,29,109441.745,3773.8532758620686,2026-12-16,-92,0.12121212121212122,Croisière,15525.0,Safari;Gastronomie;Ski,Automne,Non,3
+CLI00487,Amberle,Murdock,23,F,Gabès,Marié(e),3663,Farniente,2022-11-15,augmenté,14,52864.11,3776.007857142857,2026-05-04,134,0.17647058823529413,Plage,6226.0,Photographie;Safari;Sports nautiques,Printemps,Non,4
+CLI00488,Oliver,Potter,55,M,Gabès,Célibataire,2960,Culturel,2020-09-28,augmenté,10,33896.63,3389.6629999999996,2026-12-02,-78,0.09090909090909091,Culturel,4401.0,Ski;Vie nocturne,Été,Oui,2
+CLI00489,Emma,Holmes,25,F,Sfax,Marié(e) avec enfants,3197,Farniente,2024-02-27,augmenté,28,191638.915,6844.246964285715,2026-12-07,-83,0.17647058823529413,Croisière,3273.0,Shopping;Ski,Été,Non,3
+CLI00490,Elektra,Queen,35,M,Monastir,Marié(e),3525,Culturel,2023-03-01,augmenté,23,101611.625,4417.896739130435,2026-12-21,-97,0.23333333333333334,Montagne,2338.0,Spa & bien-être;Safari,Été,Non,3
+CLI00491,Emilia,Jones,28,M,Sfax,Marié(e),1721,Farniente,2025-09-06,augmenté,22,100558.32,4570.832727272727,2026-10-11,-26,0.18518518518518517,Croisière,6223.0,Musées;Photographie;Vie nocturne,Été,Non,3
+CLI00492,Elektra,Murdock,37,M,Monastir,Célibataire,1757,Luxe,2025-04-23,augmenté,14,97500.255,6964.3039285714285,2026-09-27,-12,0.125,Urbain,18112.0,Musées;Randonnée;Plage détente,Hiver,Non,2
+CLI00493,Sherlock,Swan,27,F,Nabeul,Marié(e) avec enfants,1021,Luxe,2021-06-16,augmenté,10,28719.19,2871.919,2026-10-01,-16,0.09090909090909091,Culturel,8705.0,Photographie;Randonnée,Automne,Non,0
+CLI00494,Harry,Swan,60,F,Bizerte,Marié(e),2193,Farniente,2022-12-03,augmenté,25,119765.945,4790.6378,2026-12-08,-84,0.10714285714285714,Croisière,4835.0,Plage détente;Photographie;Gastronomie,Automne,Oui,3
+CLI00495,Emma,Swan,19,M,Gabès,Marié(e),1989,Farniente,2021-05-22,augmenté,19,55387.56,2915.134736842105,2026-12-18,-94,0.05,Plage,4246.0,Randonnée;Photographie;Shopping,Automne,Non,0
+CLI00496,Jessica,Holmes,23,M,Sousse,Célibataire,2032,Budget,2024-12-08,augmenté,14,51982.675,3713.0482142857145,2026-10-22,-37,0.17647058823529413,Plage,946.0,Vie nocturne;Plage détente,Printemps,Non,0
+CLI00497,Emma,Queen,46,M,Monastir,Célibataire,2650,Aventurier,2025-02-14,augmenté,12,56302.535,4691.877916666667,2026-07-26,51,0.0,Rural/Nature,3710.0,Randonnée;Ski,Hiver,Oui,2
+CLI00498,Elektra,Holmes,21,F,Gabès,Marié(e) avec enfants,3448,Familial,2021-07-18,augmenté,23,81685.20999999999,3551.530869565217,2026-09-15,0,0.11538461538461539,Rural/Nature,6735.0,Spa & bien-être;Plage détente,Printemps,Oui,0
+CLI00499,Harry,Murdock,45,M,Nabeul,Célibataire,2959,Budget,2024-06-20,augmenté,12,60977.78,5081.481666666667,2026-11-17,-63,0.07692307692307693,Urbain,1943.0,Photographie;Shopping,Été,Oui,2
+CLI00500,Sherlock,Swan,35,F,Ariana,Célibataire,1277,Familial,2022-03-25,augmenté,10,28019.36,2801.936,2026-01-11,247,0.23076923076923078,Plage,5514.0,Spa & bien-être;Plongée;Randonnée,Printemps,Oui,4

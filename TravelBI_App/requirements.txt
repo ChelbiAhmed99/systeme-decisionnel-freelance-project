@@ -1,0 +1,11 @@
+PyQt6>=6.5
+PyQt6-WebEngine>=6.5     # affichage integre des rapports Power BI (facultatif)
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+joblib>=1.3
+# Booster retenu par le notebook : seule la librairie correspondante est necessaire,
+# idealement dans la meme version que sur Colab.
+lightgbm
+xgboost
+catboost
